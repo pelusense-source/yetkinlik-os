@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T23:14:56+00:00",
+  "generatedAt": "2026-10-28T23:17:08+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -65,6 +65,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-0b1a06a0fe41d16019a30caf",
+      "sourceId": "ns08",
+      "title": "Shopify Protect: Rule Builder - Shopify App Store",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T20:18:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lRjFpRmF1ZlI1MlphYVpzMjZpSlJ3cGpQSHpzd2JRQXBWVFpSQkhZck5iZVZ6ZlBOLWZrTmtTdUpweklFaUtLcHNqeF9rSXc1QVE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-5c21ffeb271fe2e2a4b57abb",
       "sourceId": "ns17",
       "title": "AI for Science expands to foundations and research institutions - Anthropic",
@@ -83,6 +95,18 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T19:11:18+00:00",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRadkdIbDdkTHVFZ1psdE5zTkU4TUpSVjFWRTRrcVpPbVhkWmYzUlNvSVdZek1LU3J6VHk2ZTh6S0ktT1d2T2VnQjZHbHVFQzB5anhEbjlzT1dIeEJoZG05clZmd3RtSFRjMFFKdU51TjQyREw5X1BiLV8tNmNqMURVbFJDQjRzQXc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-63c8feec16392d1ab07b0d7f",
+      "sourceId": "ns08",
+      "title": "Log in - Shopify Partner Dashboard - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T18:21:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmU0FyRzVjajZvSEpWamE3Undwb2EwcjNPb1JXZUtWeGVlUFdRS0xBLXoteEpzMk5ZQ2ZfV0psMFJEeGdmSFNhWlFyRWNsd1cwbUJuNQ?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -185,6 +209,42 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-6f7c24b93f84b78d118c55ae",
+      "sourceId": "ns08",
+      "title": "Bringing shopping into the future: The Fall '26 Edition for developers - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T16:22:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrai1wTzRCcVIzRVRZR3hxbnZISXRMWDhDR2kwQWpHN1BIWWFYSDFCWC1HZ25YY09UWUtrTUJEYmRZVkVDYXNvRW1xWjdzaFF4SnZqUjFYcXdkc0poVFI4cXlHX2g?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-67dc2cacba20efce5718d6a2",
+      "sourceId": "ns08",
+      "title": "What makes Shopify more than software: Fall '26 Edition - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T16:22:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5RGdrUzlXcFlESm1CWDhNVjIzMGRPV3RqUWxubGFsX2ZqRWJWdzA0NXF1RjV0SmpzVDdVWHBUdVc1U0hIZldKNV9xbmxFRVh4TjdwSUs3UHlEd2ZvZE4tVUJR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-25bd0038fb3ad540a208862d",
+      "sourceId": "ns08",
+      "title": "Exponential: Shopify's Fall '26 Edition - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T16:22:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pejhMVThGX1pwYnJ4dUpkU1plRUZiQlQ3X2NjYkhkTkJxVmlsVy1CVGd1M1lPV2s1T19LaHB0dUVsT0RuVVlnM0xrOTI0NElZeDEyMXRITV9UdkFHQzhSODMzQQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-c7155b360e3e33db101d1bcb",
       "sourceId": "ns09",
       "title": "Claude marketing plugins worth adding to your stack in 2026",
@@ -219,6 +279,30 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-d4d79f32ac49c5b1fa6c9c05",
+      "sourceId": "ns08",
+      "title": "Introducing Shopify Protect: block fraud, not customers (2026) - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:50:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FbFJjdVJ2VHB6VHdoTjlhMlFqQ21uVUtRRFhYM3pDaFFTcjNuanVIMC1CbGlRV1Z5OTc1VjUzNGhhNEVDbllJNG9wbm5hX0QzS0ZxbXYyRUE4cDRjWk4ya0RQb29DQW8?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-c63171639d2246fe0a67b2ef",
+      "sourceId": "ns08",
+      "title": "Variants: Redesigned, right where you need them (2026) - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T15:50:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5X05xX0tzaW96b2o1SkV0TVN0OUV4NEV2UnRFazlVaURhNG5EaDJlOEJ6SmF2bE16X0NMYzI0VWFYYnlTTkVXQVh4cGdGb2kzekxadHBCOEw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-06ad305e72b9e48d47a95dd6",
@@ -377,6 +461,18 @@
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
+      "id": "auto-27abdfa9741eec2670a776dd",
+      "sourceId": "ns10",
+      "title": "Why insurers think better digital tools for members will pay off - Modern Healthcare News",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T10:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDBBVFE0U201czlwd1VYM1pKdlVFajRvWExiRzEzbW5yZDdTcHk3aUoyUW1KOVliZFNOeURnSUF5dVVlTklLMEw1OUJxdV9jUWRzYU81M181NmUxdFJjX01TeEpESnNWcHBNNEV5Rm1lSFZHLWFYMUtMVkZxMGxKLXE2S21iMGEwNEkwN2JYZ2h5cHRQUU5hSg?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-709cc8e2bd467b7916899fb3",
       "sourceId": "ns16",
       "title": "Legora is building the agentic operating system for legal work",
@@ -431,6 +527,18 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T01:12:56+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZElPV0VlZnRIRFp2RV94R3BSNEsxU0JXNVZmcy0yTkJpZkdqZDdJTlF2UzUzaW5yMDV3dzBLa3dSY25BdFVrUmZkcVRJOWt4YW1yc1pOWk9hOFlXY1BYXzNXZHl0MF9vMjFsczZieWEzYkNiT09Fbk9VeENhc2tYWGFHMFhvM29ZME1xSWdNUkFuTnNGcUpGVzk2QXRHYnh0bjhiRFV4Xy15LVVZX2dWZGxSdGFvcEl1TFBz?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-628417acd56bb6d3aba8b79c",
+      "sourceId": "ns10",
+      "title": "Outsourced Customer Care Services Market Expected To Witness Steady 6.9% CAGR Amid Expanding Industry Applications - EIN News",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T00:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ09UMzg0NllEWXQ5dnd6bUtublVGQlBwYVYwTXNJN1Q2bXY1emxFZEFoTW9kekhwaGlabHdUU3A1TC04RTFhVWlSOVRTUUdRSTZrdzNZVUc3RzNxLXVXVm5aeVRCTXVfdEZ6LVlacTUtbjV5b0JyQ1FuVW5GLWhoRDZqS0tQcU1DV3N3TWRJWWF0RzI5M2pDZUtOVTVXMk0zZTgzZi1kSjM3dzY1dVVjQVVBN2pLSkFvQnEwaTZOX09fVDQxWWc0eFo5M05ycXltRWlSNVBoOE9vaUFaM05UeFZoZEk4ajJhRENN?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -509,6 +617,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-316f6a71c9c2055953a6d4bd",
+      "sourceId": "ns19",
+      "title": "Federated Learning: How It Works, Why It Matters, and Real-World Applications - Coursera",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T19:12:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXVWVtczVGeGdwemNTUEVlTTR3bndObG1NVlBnVkI3VFNVZ1p4cTdZTGh1R04tbkVibnE5ZGk1NFdjSkFsQkRXWFRZZ3I4YVFTcm8xa1BhakJMU1pNZHg0ZzFR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-511150068d6b923f8652750f",
       "sourceId": "ns10",
       "title": "The Holiday Shopping Moment Is Seasonal. The Customer Relationship Isn’t. - Retail TouchPoints",
@@ -567,6 +687,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-41774a0a11997a6598304ec4",
+      "sourceId": "ns10",
+      "title": "Earnings call transcript: Public Storage raises 2026 outlook after q3 miss - Investing.com Canada",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T18:12:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcWxPY3ZUaS1UNkNsNmdJdV9GLUd0NFMtbXZ1LXkxSVlHbXI5dFhtZVFFSF9PYkNUeGtOMVZNMFRxOWtYbmhOd1YxbE1ITFhYQ29yRTBwQlFzZEw3eDBXVWF0QjlmYTVJVGk2Vzh1Y2NYLTkxZW5QXzRDRGdGTFJiNEVCQWV5aC1XN2xZTS10ekRHTWRkd1JZU3VYTkFmWUlVVEtSOFNfWU5FRnZYQWF4aTR2Zm5DR0pQZC16NkpFS3lGLUVIUjJlSHp1R2pyS1E?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-333f2f1d40c1b901e0d11eed",
@@ -1025,6 +1157,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-c856e2507bdac9140a87a88d",
+      "sourceId": "ns20",
+      "title": "The Strategic Visibility Playbook for Quiet High Achievers - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0ZHQVpFYjFEUlpETzdpTjdMSEhDNUsxSlRZTEhoZngzRlhPcXVXV2F3MmlISmU5b1ZZZW44NXpTYlFja0oxQzE4cU94YjRjVTdENzBWLU90dEh6QUZmX1BsMTZqU3I5RVNTYzVoUkhGbml5UERsVzRtTTM2N0JSX2g2SWRTc0tTLTZpdURpdEJYLWRORTFj?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-105ba15d7a59aea822494371",
       "sourceId": "ns22",
       "title": "Announcing the 2026 Pulse Europe GameChangers: The Teams Building What’s Next in Retention",
@@ -1223,6 +1367,18 @@
       "date": "2026-10-13",
       "publishedAt": "2026-10-13T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkhaT1hSaEJTR183X1cxRDN4ek5YSGN5c09MNUtOeEl2cnhabUVpWE9IYl9tbEU0Vk9lclZzaFo0LWU4ZE05STUxS3lxSk5xWkNrOVlhTndQWjhRR2pjUUxLSDhWeXpOT2ZRMjBjUDROT0J1X29WQjJ1VENEY0ZTYktDZFplcHVpemZXZWRSc3NvT2w2Mi1JZHFURmxERkJ5WDYxNGVvZnVyd9IBrwFBVV95cUxNdGZLa2N1YzlWSEdVQTZBR3RXTUVNcnBZNVlmSFVOT2xfanFPUjlPWTkxbTlQQW1FNHZVbUl3c0tOZ2ZGMnRPeE96bVI3UFZ4UVhYcUx3cWszVGFwT2RBbnVfZkxidk5qZWlHcW5ackdyWGVYOEw5NVJzdGpiVnY4cTVJd3YtWGNXbUU2eG5zQW5WV1NTUWJualhuYmZBRG5YV1p0VTh3MUtlN0JFRXVr?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-0f8b114cd6a5817083bb8af2",
+      "sourceId": "ns15",
+      "title": "Leaders Eat Last - Simon Sinek - U.S. Air Forces in Europe - Air Forces Africa (.mil)",
+      "date": "2026-10-12",
+      "publishedAt": "2026-10-12T19:34:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQ2NkXzF5QWpaV2FOSjM5V05tY3RPX1NEZVVjTTBnbzRjRWZZMGUxdTdHV24zOTdvMlI4WHhlSXJpQ3E4VGN1MWxJRzdTUVBxM21odHRBT0xHbGo3d2xLa0xUbzRLUnM?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
