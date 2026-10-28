@@ -183,9 +183,11 @@ def main() -> None:
     data = json.loads(CONFIG.read_text(encoding="utf-8"))
     sources = data["sources"]
     existing = {}
+    previous = {}
     if DEST.exists():
         try:
-            for a in json.loads(DEST.read_text(encoding="utf-8")).get("articles", []):
+            previous = json.loads(DEST.read_text(encoding="utf-8"))
+            for a in previous.get("articles", []):
                 if a.get("id", "").startswith("auto-") and a.get("date", "") >= (now-timedelta(days=DAYS_TO_KEEP)).date().isoformat():
                     existing[a["id"]] = a
         except Exception as exc: logging.warning("Could not read prior archive: %s", exc)
@@ -207,7 +209,14 @@ def main() -> None:
         "articles": stored, "sources": statuses, "sourceCount": len(sources),
         "successCount": sum(s["status"]=="ok" for s in statuses),
         "unavailableCount": failures,
-        "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI çeviri/yorum yapılmaz. Google News RSS tüm içerikleri kapsamayabilir."}
+        "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir."}
+    # The collector must not erase the last generated digest before the next
+    # step runs. Keeping it allows same-day AI results to be reused without
+    # spending again on unchanged input, and keeps the user's 14-day archive.
+    if isinstance(previous.get("dailyDigest"), dict):
+        payload["dailyDigest"] = previous["dailyDigest"]
+    if isinstance(previous.get("digestHistory"), list):
+        payload["digestHistory"] = previous["digestHistory"][:14]
     DEST.parent.mkdir(parents=True, exist_ok=True)
     DEST.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     logging.info("Written %d stories from %d active sources; %d unavailable",len(stored),payload['successCount'],failures)
