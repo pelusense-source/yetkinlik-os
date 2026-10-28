@@ -1,0 +1,2 @@
+# yetkinlik-os
+yetkinlik-os
