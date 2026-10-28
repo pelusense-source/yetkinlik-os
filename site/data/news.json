@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-10-28T23:17:08+00:00",
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-28T23:35:59+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -809,6 +809,18 @@
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
+      "id": "auto-564781982b8925ef064bc0c3",
+      "sourceId": "ns13",
+      "title": "To Build Effective Cyber Resilience, Invest in Trust - Harvard Business Review",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T00:16:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWN4aUxVbU5UajdaRDV5eHVDUWlxbFZvMDFfQmtBY2lJRVQyTzJsREdydVBvcWE2ZzFCQkYyUzVZbnhSMVo0dl80dGdnelhEU2hoSTM3RjlGTDRhUEdJSmZ0dDlzSUZuOHY1TVhGeHJUa01tWVd3cDNZLXY0M0M1eA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-c44dc9ed271ff418b14ac5c9",
       "sourceId": "ns16",
       "title": "How Check Point accelerates vulnerability research with Daybreak",
@@ -1223,6 +1235,18 @@
       "date": "2026-10-20",
       "publishedAt": "2026-10-20T21:20:32+00:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmhCLVZMZ1hyenN3VHg0STBIR2dyT3pJc3pUN2dfSFlIQW55dnowU2tnNE5UaGJQUjc4YXdkZ3MwNWVhY3d1NkdLbW1KODBmX01FWkxSRUdNU0d3MnJ3WlBDNzN1bXYwRnZHdy16QWg4VEJ1MFJZT3pnUzFxUVBiMGQxZzJGU09BOGxZQlhyX2VFa05vTmI0NDlVa1NVeTNTaEkzZjQ1R1hzeHhkMnRSWC1FdWpkb2o2cU0yRGh5d1pGcVdabTVN?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-88ea3c2e8018bc2f029ac376",
+      "sourceId": "ns04",
+      "title": "Default Metrics - Vitally Help Center",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nRUZRZEgzVUtMZTBVZnctelkxWDJRME5xUkZEeUJMai1meEVKZmNxOTdjM000cktwQl9LaU9kRGZXb2RmRXVxWW9vWFQ0UXM1U1llX2UybWtJZkJkUU9OY0VvQVRwSVZMWmMw?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -1722,5 +1746,291 @@
   "sourceCount": 22,
   "successCount": 19,
   "unavailableCount": 2,
-  "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI çeviri/yorum yapılmaz. Google News RSS tüm içerikleri kapsamayabilir."
+  "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI çeviri/yorum yapılmaz. Google News RSS tüm içerikleri kapsamayabilir.",
+  "dailyDigest": {
+    "mode": "headlines",
+    "headline": "Günün kaynaklı okuma özeti",
+    "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: E-ticaret ve CRM.",
+    "sections": [
+      {
+        "category": "E-ticaret ve CRM",
+        "count": 3,
+        "overview": "3 seçilmiş başlık"
+      },
+      {
+        "category": "Yapay Zekâ",
+        "count": 3,
+        "overview": "3 seçilmiş başlık"
+      },
+      {
+        "category": "SaaS ve Growth",
+        "count": 2,
+        "overview": "2 seçilmiş başlık"
+      },
+      {
+        "category": "Liderlik ve Davranış",
+        "count": 1,
+        "overview": "1 seçilmiş başlık"
+      },
+      {
+        "category": "Customer Success ve CX",
+        "count": 1,
+        "overview": "1 seçilmiş başlık"
+      }
+    ],
+    "cards": [
+      {
+        "id": "auto-c7155b360e3e33db101d1bcb",
+        "source": "HubSpot Blog",
+        "category": "E-ticaret ve CRM",
+        "title": "Claude marketing plugins worth adding to your stack in 2026",
+        "summary": "Claude marketing plugins extend Claude into workflows for content creation, campaign planning, brand management, reporting, and publishing. The best options connect Claude with the tools and business data marketers already use, so",
+        "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-a395c7da350b5086cc15f6b6",
+        "source": "OpenAI",
+        "category": "Yapay Zekâ",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-709cc8e2bd467b7916899fb3",
+        "source": "OpenAI",
+        "category": "Yapay Zekâ",
+        "title": "Legora is building the agentic operating system for legal work",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-f2cdaa88247a4f8a11015940",
+        "source": "SaaStr Podcast",
+        "category": "SaaS ve Growth",
+        "title": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $190B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption",
+        "summary": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a $190 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco ",
+        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-6f70b282a99dd280b4488c36",
+        "source": "HubSpot Blog",
+        "category": "E-ticaret ve CRM",
+        "title": "How often to run AEO prompt tracking: A cadence guide",
+        "summary": "There’s no single right answer to how often you should run AEO prompt tracking, because the answer depends on what you’re trying to detect. But the question has two parts that people often blur together: how often data gets collec",
+        "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-ff6cfae31df530ca4e63cbef",
+        "source": "SaaStr Podcast",
+        "category": "SaaS ve Growth",
+        "title": "10 Months Into AI for GTM That Actually Works: The CRO Matters More Than Ever. Every Other GTM Role Is in Flux.",
+        "summary": "We are about 10 months or so into AI for go-to-market that actually works: agents running real motions in production, booking real meetings and closing real dollars. In that time, agents have absorbed much of SDR, first-line suppo",
+        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-5c21ffeb271fe2e2a4b57abb",
+        "source": "Anthropic",
+        "category": "Yapay Zekâ",
+        "title": "AI for Science expands to foundations and research institutions - Anthropic",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-e9b4e992f554be58e53922c1",
+        "source": "Shopify Blog",
+        "category": "E-ticaret ve CRM",
+        "title": "Get AI tested storefront suggestions from Sidekick - Shopify",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-9e59967909846c80bdd94033",
+        "source": "Harvard Business Review",
+        "category": "Liderlik ve Davranış",
+        "title": "Your Company’s Fraud Defenses Aren’t Ready for AI Threats - Harvard Business Review",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-745e525a052b0b7a6b8a68d2",
+        "source": "Annette Franz / CX Journey",
+        "category": "Customer Success ve CX",
+        "title": "Show Me the Incentive, and I’ll Show You the Culture",
+        "summary": "Charlie Munger, the late vice chairman of Berkshire Hathaway, was known for a simple but powerful observation: Show me the incentive, and I'll show you the outcome. It's a deceptively simple idea, but the implications for leadersh",
+        "relevance": "Konu, takip ettiğin Customer Success ve CX alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      }
+    ],
+    "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
+    "date": "2026-10-29",
+    "generatedAt": "2026-10-28T23:36:22+00:00",
+    "scope": "last24h",
+    "poolCount": 46,
+    "articleIds": [
+      "auto-c7155b360e3e33db101d1bcb",
+      "auto-a395c7da350b5086cc15f6b6",
+      "auto-709cc8e2bd467b7916899fb3",
+      "auto-f2cdaa88247a4f8a11015940",
+      "auto-6f70b282a99dd280b4488c36",
+      "auto-ff6cfae31df530ca4e63cbef",
+      "auto-5c21ffeb271fe2e2a4b57abb",
+      "auto-e9b4e992f554be58e53922c1",
+      "auto-9e59967909846c80bdd94033",
+      "auto-745e525a052b0b7a6b8a68d2"
+    ],
+    "selectedCount": 10
+  },
+  "digestHistory": [
+    {
+      "mode": "headlines",
+      "headline": "Günün kaynaklı okuma özeti",
+      "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: E-ticaret ve CRM.",
+      "sections": [
+        {
+          "category": "E-ticaret ve CRM",
+          "count": 3,
+          "overview": "3 seçilmiş başlık"
+        },
+        {
+          "category": "Yapay Zekâ",
+          "count": 3,
+          "overview": "3 seçilmiş başlık"
+        },
+        {
+          "category": "SaaS ve Growth",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "Liderlik ve Davranış",
+          "count": 1,
+          "overview": "1 seçilmiş başlık"
+        },
+        {
+          "category": "Customer Success ve CX",
+          "count": 1,
+          "overview": "1 seçilmiş başlık"
+        }
+      ],
+      "cards": [
+        {
+          "id": "auto-c7155b360e3e33db101d1bcb",
+          "source": "HubSpot Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "Claude marketing plugins worth adding to your stack in 2026",
+          "summary": "Claude marketing plugins extend Claude into workflows for content creation, campaign planning, brand management, reporting, and publishing. The best options connect Claude with the tools and business data marketers already use, so",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-a395c7da350b5086cc15f6b6",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-709cc8e2bd467b7916899fb3",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "Legora is building the agentic operating system for legal work",
+          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-f2cdaa88247a4f8a11015940",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $190B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption",
+          "summary": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a $190 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco ",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-6f70b282a99dd280b4488c36",
+          "source": "HubSpot Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "How often to run AEO prompt tracking: A cadence guide",
+          "summary": "There’s no single right answer to how often you should run AEO prompt tracking, because the answer depends on what you’re trying to detect. But the question has two parts that people often blur together: how often data gets collec",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-ff6cfae31df530ca4e63cbef",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "10 Months Into AI for GTM That Actually Works: The CRO Matters More Than Ever. Every Other GTM Role Is in Flux.",
+          "summary": "We are about 10 months or so into AI for go-to-market that actually works: agents running real motions in production, booking real meetings and closing real dollars. In that time, agents have absorbed much of SDR, first-line suppo",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-5c21ffeb271fe2e2a4b57abb",
+          "source": "Anthropic",
+          "category": "Yapay Zekâ",
+          "title": "AI for Science expands to foundations and research institutions - Anthropic",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-e9b4e992f554be58e53922c1",
+          "source": "Shopify Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "Get AI tested storefront suggestions from Sidekick - Shopify",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-9e59967909846c80bdd94033",
+          "source": "Harvard Business Review",
+          "category": "Liderlik ve Davranış",
+          "title": "Your Company’s Fraud Defenses Aren’t Ready for AI Threats - Harvard Business Review",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-745e525a052b0b7a6b8a68d2",
+          "source": "Annette Franz / CX Journey",
+          "category": "Customer Success ve CX",
+          "title": "Show Me the Incentive, and I’ll Show You the Culture",
+          "summary": "Charlie Munger, the late vice chairman of Berkshire Hathaway, was known for a simple but powerful observation: Show me the incentive, and I'll show you the outcome. It's a deceptively simple idea, but the implications for leadersh",
+          "relevance": "Konu, takip ettiğin Customer Success ve CX alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        }
+      ],
+      "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
+      "date": "2026-10-29",
+      "generatedAt": "2026-10-28T23:36:22+00:00",
+      "scope": "last24h",
+      "poolCount": 46,
+      "articleIds": [
+        "auto-c7155b360e3e33db101d1bcb",
+        "auto-a395c7da350b5086cc15f6b6",
+        "auto-709cc8e2bd467b7916899fb3",
+        "auto-f2cdaa88247a4f8a11015940",
+        "auto-6f70b282a99dd280b4488c36",
+        "auto-ff6cfae31df530ca4e63cbef",
+        "auto-5c21ffeb271fe2e2a4b57abb",
+        "auto-e9b4e992f554be58e53922c1",
+        "auto-9e59967909846c80bdd94033",
+        "auto-745e525a052b0b7a6b8a68d2"
+      ],
+      "selectedCount": 10
+    }
+  ]
 }
