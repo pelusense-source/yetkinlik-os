@@ -1,0 +1,231 @@
+{
+  "sources": [
+    {
+      "id": "ns01",
+      "name": "Gainsight",
+      "category": "Customer Success ve CX",
+      "type": "Blog",
+      "url": "https://www.gainsight.com/blog/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns02",
+      "name": "ChurnZero",
+      "category": "Customer Success ve CX",
+      "type": "Blog",
+      "url": "https://churnzero.com/blog/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns03",
+      "name": "Totango / Odie",
+      "category": "Customer Success ve CX",
+      "type": "Blog",
+      "url": "https://www.totango.com/blog",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "Totango Odie customer success"
+    },
+    {
+      "id": "ns04",
+      "name": "Vitally",
+      "category": "Customer Success ve CX",
+      "type": "Blog",
+      "url": "https://www.vitally.io/blog",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns05",
+      "name": "SaaStr",
+      "category": "SaaS ve Growth",
+      "type": "Blog",
+      "url": "https://www.saastr.com/blog/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://www.saastr.com/feed/"
+    },
+    {
+      "id": "ns06",
+      "name": "David Skok / For Entrepreneurs",
+      "category": "SaaS ve Growth",
+      "type": "Yazar",
+      "url": "https://www.forentrepreneurs.com/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns07",
+      "name": "KISSmetrics",
+      "category": "SaaS ve Growth",
+      "type": "Blog",
+      "url": "https://kissmetrics.io/blog",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns08",
+      "name": "Shopify Blog",
+      "category": "E-ticaret ve CRM",
+      "type": "Blog",
+      "url": "https://www.shopify.com/blog",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns09",
+      "name": "HubSpot Blog",
+      "category": "E-ticaret ve CRM",
+      "type": "Blog",
+      "url": "https://blog.hubspot.com/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://blog.hubspot.com/marketing/rss.xml"
+    },
+    {
+      "id": "ns10",
+      "name": "Customer Experience (CX)",
+      "category": "Customer Success ve CX",
+      "type": "Konu",
+      "url": "",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "\"customer experience\" \"retention\""
+    },
+    {
+      "id": "ns11",
+      "name": "Annette Franz / CX Journey",
+      "category": "Customer Success ve CX",
+      "type": "Yazar",
+      "url": "https://cx-journey.com/blog",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns12",
+      "name": "Intercom Blog",
+      "category": "Customer Success ve CX",
+      "type": "Blog",
+      "url": "https://www.intercom.com/blog",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns13",
+      "name": "Harvard Business Review",
+      "category": "Liderlik ve Davranış",
+      "type": "Yayın",
+      "url": "https://hbr.org/topic/subject/leadership",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns14",
+      "name": "Daniel Kahneman",
+      "category": "Liderlik ve Davranış",
+      "type": "Düşünür",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/",
+      "priority": "Orta",
+      "mode": "archive",
+      "feed": ""
+    },
+    {
+      "id": "ns15",
+      "name": "Simon Sinek",
+      "category": "Liderlik ve Davranış",
+      "type": "Yazar",
+      "url": "https://simonsinek.com/Stories",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "\"Simon Sinek\" leadership"
+    },
+    {
+      "id": "ns16",
+      "name": "OpenAI",
+      "category": "Yapay Zekâ",
+      "type": "Araştırma / Haber",
+      "url": "https://openai.com/news/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://openai.com/news/rss.xml"
+    },
+    {
+      "id": "ns17",
+      "name": "Anthropic",
+      "category": "Yapay Zekâ",
+      "type": "Araştırma / Haber",
+      "url": "https://www.anthropic.com/news",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns18",
+      "name": "Google AI",
+      "category": "Yapay Zekâ",
+      "type": "Araştırma / Haber",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": ""
+    },
+    {
+      "id": "ns19",
+      "name": "Coursera",
+      "category": "Eğitim ve Podcast",
+      "type": "Eğitim",
+      "url": "https://www.coursera.org/articles",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:coursera.org/articles"
+    },
+    {
+      "id": "ns20",
+      "name": "LinkedIn Learning",
+      "category": "Eğitim ve Podcast",
+      "type": "Eğitim",
+      "url": "https://www.linkedin.com/learning/",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:linkedin.com/learning"
+    },
+    {
+      "id": "ns21",
+      "name": "SaaStr Podcast",
+      "category": "SaaS ve Growth",
+      "type": "Podcast",
+      "url": "https://www.saastr.com/podcasts/",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "https://www.saastr.com/feed/",
+      "query": "\"SaaStr Podcast\""
+    },
+    {
+      "id": "ns22",
+      "name": "Gainsight GameChanger Podcast",
+      "category": "Eğitim ve Podcast",
+      "type": "Podcast",
+      "url": "https://www.gainsight.com/presents/series/gainsight-gamechanger-podcast/",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "\"Gainsight GameChanger Podcast\""
+    }
+  ]
+}
