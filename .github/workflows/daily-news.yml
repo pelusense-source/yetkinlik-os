@@ -1,0 +1,56 @@
+name: Günlük bülteni topla ve uygulamayı yayımla
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:37 UTC = İstanbul 09:37; GitHub yoğunluğunda gecikme olabilir.
+    - cron: "37 6 * * *"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "site/data/news.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "yetkinlik-os-pages"
+  cancel-in-progress: false
+
+jobs:
+  news-and-pages:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: RSS ve Atom akışlarını topla
+        run: python scripts/fetch_news.py
+      - name: Günlük haber arşivini repoya kaydet
+        run: |
+          git config user.name "yetkinlik-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Günlük bülten: otomatik kaynak taraması"
+            git push
+          fi
+      - name: GitHub Pages ayarlarını hazırla
+        uses: actions/configure-pages@v5
+      - name: Siteyi yükle
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./site
+      - name: Siteyi yayımla
+        id: deployment
+        uses: actions/deploy-pages@v4
