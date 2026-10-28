@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": null,
+  "timezone": "Europe/Istanbul",
+  "retentionDays": 45,
+  "articles": [],
+  "sources": [],
+  "sourceCount": 22,
+  "successCount": 0,
+  "unavailableCount": 0,
+  "disclaimer": "Henüz çevrimiçi tarama yapılmadı. GitHub Actions ilk çalışmasından sonra güncellenecek."
+}
