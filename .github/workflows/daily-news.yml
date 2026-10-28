@@ -36,6 +36,11 @@ jobs:
           python-version: "3.12"
       - name: RSS ve Atom akışlarını topla
         run: python scripts/fetch_news.py
+      - name: Günlük özet ve okuma brifingini hazırla
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
+        run: python scripts/build_digest.py
       - name: Günlük haber arşivini repoya kaydet
         run: |
           git config user.name "yetkinlik-news-bot"
