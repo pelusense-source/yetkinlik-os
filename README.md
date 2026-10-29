@@ -56,3 +56,7 @@ Bülten Merkezi içindeki **Günün Özeti** sekmesi, her günlük haber taramas
 Anahtar tanımlandığında API tüketim ücreti, ChatGPT aboneliğinden ayrı olarak OpenAI API hesabına yansıyabilir. Tarama günlük yaklaşık 10 seçilmiş başlık ve varsa RSS yayıncı açıklamasını özetletir. Model, tam makaleleri taramaz; sadece mevcut RSS verisini yorumlar. Kaynak açıklaması yetersizse sınırlılığı belirtir. API başarısız olursa açıkça işaretli başlık temelli bültene dönülür. Ücret ve kullanım sınırlarını API hesabından kontrol et.
 
 İlk çalıştırmanın ardından tarayıcıdan GitHub Pages adresini yenile. Eski görünüm görünüyorsa önbellek için tam yenile (Ctrl+F5) kullan.
+
+### AI brifingini doğrulama
+
+`site/data/news.json` dosyasındaki `dailyDigest.mode` alanı `ai` ise son çalışmada OpenAI yanıtı başarıyla işlendi. `headlines` ise yalnızca başlık ve RSS açıklamalarından oluşan yedek özet kullanıldı. API anahtarı ayarı değişince **Run workflow** ile yeniden çalıştırmak gerekir. Hata olduğunda Actions içindeki `Günlük özet ve okuma brifingini hazırla` adımının günlükleri incelenir; gizli anahtar değeri hiçbir yere kopyalanmaz.
