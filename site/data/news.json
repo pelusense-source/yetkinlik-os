@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-29T11:21:42+00:00",
+  "generatedAt": "2026-10-29T11:22:51+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -2141,10 +2141,10 @@
     {
       "id": "ns11",
       "name": "Annette Franz / CX Journey",
-      "count": 0,
-      "status": "unavailable",
-      "provider": "",
-      "message": "Google News RSS: yakın tarihli içerik yok"
+      "count": 6,
+      "status": "ok",
+      "provider": "Siteden keşfedilen RSS/Atom",
+      "message": ""
     },
     {
       "id": "ns12",
@@ -2236,8 +2236,8 @@
     }
   ],
   "sourceCount": 22,
-  "successCount": 18,
-  "unavailableCount": 3,
+  "successCount": 19,
+  "unavailableCount": 2,
   "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir.",
   "dailyDigest": {
     "mode": "headlines",
@@ -2364,7 +2364,7 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-29T11:21:56+00:00",
+    "generatedAt": "2026-10-29T11:23:08+00:00",
     "scope": "last24h",
     "poolCount": 52,
     "articleIds": [
@@ -2507,7 +2507,7 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T11:21:56+00:00",
+      "generatedAt": "2026-10-29T11:23:08+00:00",
       "scope": "last24h",
       "poolCount": 52,
       "articleIds": [
