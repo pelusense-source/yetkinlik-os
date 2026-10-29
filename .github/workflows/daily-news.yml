@@ -38,7 +38,8 @@ jobs:
         run: python scripts/fetch_news.py
       - name: Günlük özet ve okuma brifingini hazırla
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # Ücretli AI özeti kullanıcı isteğiyle duraklatıldı; ücretsiz başlık/RSS brifingi devam eder.
+          OPENAI_API_KEY: ''
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
         run: python scripts/build_digest.py
       - name: Günlük haber arşivini repoya kaydet
