@@ -12,6 +12,7 @@ import logging
 import os
 import re
 import urllib.request
+import urllib.error
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -114,8 +115,21 @@ def ai_digest(items,sources,model):
                      'max_output_tokens':3000},ensure_ascii=False).encode('utf-8')
     req=urllib.request.Request('https://api.openai.com/v1/responses',data=body,
       headers={'Content-Type':'application/json','Authorization':'Bearer '+api_key},method='POST')
-    with urllib.request.urlopen(req,timeout=70) as res:
-        result=json.load(res)
+    try:
+        with urllib.request.urlopen(req,timeout=70) as res:
+            result=json.load(res)
+    except urllib.error.HTTPError as exc:
+        # Only log allow-listed error codes/types; never write secrets or response bodies.
+        code, kind = "unknown", "unknown"
+        try:
+            err = json.loads(exc.read(8192).decode('utf-8',errors='replace')).get('error', {})
+            if isinstance(err,dict):
+                code = str(err.get('code') or 'unknown')
+                kind = str(err.get('type') or 'unknown')
+        except (ValueError,TypeError,UnicodeError):
+            pass
+        sanitize=lambda value: re.sub(r'[^a-zA-Z0-9_.-]','',value)[:80] or 'unknown'
+        raise RuntimeError(f'OpenAI HTTP {exc.code}; code={sanitize(code)}; type={sanitize(kind)}') from None
     chunks=[]
     for block in result.get('output',[]):
         for c in block.get('content',[]):
