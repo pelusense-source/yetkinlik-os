@@ -1,9 +1,33 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-28T23:39:24+00:00",
+  "generatedAt": "2026-10-29T07:37:45+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
+    {
+      "id": "auto-72a131d1f229be0b8834d66f",
+      "sourceId": "ns08",
+      "title": "Shopify Editions | Fall '26 - Shopify",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T07:20:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-03590e87829e03fcda64864d",
+      "sourceId": "ns10",
+      "title": "T-Mobile Q3 2026 Revenue Rises 7% to $23.6 Billion, Profit Jumps 27% as 5G Broadband and Fiber Drive Growth - TelecomLead",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T04:37:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUh4UkhWbVdDMTNVbEh4alVFaTlLcWFObWJMajZpMFB0dzlZczhNRnRwTEphUTBnV2ljX211a2h1Ym16MGF5NjZsTmp0NFVYSnVNaURxU0xxZFFWOFlKNGRJWWNmdVluT0pfRVlVTXhFdDZjSGVDQTVlcG9UbllTTXhtQnRMZFB4QTNndlNQeWpmeXkwMTMyN0xJb28yRlJZSFhROXcySGZWeWZBMTVNb0JoaDd1c25sRFBFb0MyVE1FRXduVmdkeHdaTHhubWFiUnlz0gHbAUFVX3lxTE1IM2FGWHVoemhfb28yalZyRGRjV2JIRnVmN2plOU1ydVlYWm1QZnpuX0RVdGpsUnZ3VExSWlpTTEtpZUk4ZXVibzlVQV83clEyQkQ1X1NyLXBRWmlnMnR4NUhNcHpsQ01pcWpOYmNhMmsxMjBqRFhhNHdHYlE5ekdIRDhHLXpKWUN5TkZrV0Vvb1lPU01sRVZ6QllTaURZeFUxZEhta3N4LXNyaVNsUFAwbEx5MVpGQ3BqcnBjVVFZVHhfX0xFbFh1LUcwalFwbzVUTXFUQm43TDVFWQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
     {
       "id": "auto-dc1112d5ff53bf1bd8c7df79",
       "sourceId": "ns13",
@@ -17,12 +41,36 @@
       "provider": "Google News RSS"
     },
     {
-      "id": "auto-72a131d1f229be0b8834d66f",
+      "id": "auto-4532ac2f9ca851d0d25480f9",
       "sourceId": "ns08",
-      "title": "Shopify Editions | Fall '26 - Shopify",
+      "title": "- Shopify",
       "date": "2026-10-28",
-      "publishedAt": "2026-10-28T22:18:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5",
+      "publishedAt": "2026-10-28T22:11:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRadkdIbDdkTHVFZ1psdE5zTkU4TUpSVjFWRTRrcVpPbVhkWmYzUlNvSVdZek1LU3J6VHk2ZTh6S0ktT1d2T2VnQjZHbHVFQzB5anhEbjlzT1dIeEJoZG05clZmd3RtSFRjMFFKdU51TjQyREw5X1BiLV8tNmNqMURVbFJDQjRzQXc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-07b3bb2b9f6707f50f12dd98",
+      "sourceId": "ns08",
+      "title": "I built an Excel inventory checker for small Shopify stores... looking for feedback - Shopify Community",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T22:08:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0QzeFVZbmc4clZnTk51MDl4cWRZRFN1VDFFdkxuVWVHVHdKWUhRZ3BCb0FRTXBHRXROMU1FR250cEVPQjV1Nll0VUFfS1F5NlRUemdwMldwQXNzTGVsMEUtU0pvaGJ1SlJuanAyZnNpUURRbWVNbFVLMXhZT1FuMVBGRDIwTFJKOTl5V0ZNNUlqb1lTWXE5eFRpNTNtbDVjb05Ud2VLMjI4ZkxueExZeFNQazZPZjV2YzZ3?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-4f0f147aedc5a6a2a0a8be21",
+      "sourceId": "ns18",
+      "title": "Ads in AI Mode expand to new markets. - blog.google",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:45:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvT2lmdHpvN25CRXltMFhSWVVRQW5WbE9RQ2t1LVhwM1R0ZjZpa09HUzlaMTNHc0FPbGRsa180STBpanAwX2d3UzlOdmN2SjJFd1ZWMzBrRk1jdmFVY29DN2twUVpQb0d2eXBZZHVDYlFfUQ?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -65,6 +113,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-c1e5caa1628cce4e7a431431",
+      "sourceId": "ns20",
+      "title": "Agile Practices Using AI - LinkedIn",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T20:59:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUUYxQ0lyd1dwS0xUb1dnYmFNZktZblladDlmby1HV2EyVDNXOVpnWEpZNmZyazFhdXBvWUN1ci03Mkgxa3g5NXNvLWcyZ3llejdNVnZoMkI4SGQ1WnJfNlNfclV4bHpwb081c0g2VlBvcWVMb0E?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-ddd386abbe112ab6124ec3bf",
       "sourceId": "ns20",
       "title": "Smarter Operations with AI: Improving Efficiency and Automation - LinkedIn",
@@ -95,18 +155,6 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T20:14:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-4532ac2f9ca851d0d25480f9",
-      "sourceId": "ns08",
-      "title": "- Shopify",
-      "date": "2026-10-28",
-      "publishedAt": "2026-10-28T19:11:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRadkdIbDdkTHVFZ1psdE5zTkU4TUpSVjFWRTRrcVpPbVhkWmYzUlNvSVdZek1LU3J6VHk2ZTh6S0ktT1d2T2VnQjZHbHVFQzB5anhEbjlzT1dIeEJoZG05clZmd3RtSFRjMFFKdU51TjQyREw5X1BiLV8tNmNqMURVbFJDQjRzQXc?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -1193,6 +1241,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-e9562b2b600fe166adbddd81",
+      "sourceId": "ns19",
+      "title": "What Is an Empathy Map? - Coursera",
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T17:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EU0daSGN4QXFvbE9tSGhRQnFCNlQ1QjJHdkY2UGxCQTFTd1B6X0VRcGgxMkVHVloxQUIxUVZrQkR3VE4tVFR5OHVTU1JEUUJLNGdsNm0yTlhXTkp3S2NqU3VwVQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-2bf4b350100ef63862cfeb0c",
       "sourceId": "ns07",
       "title": "Ask your AI agent about your data - Kissmetrics",
@@ -1331,6 +1391,18 @@
       "date": "2026-10-22",
       "publishedAt": "2026-10-22T15:11:03+00:00",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5va21KUlBwSG1zZXA5bnFIdlZva3dja0w4aHBqOHRqblBodXY4RGFDX0VOU01OZFdsOFFKbEdBaXJNOGlOblNlMjl0c1QwU1J5OU9BNUJQRTlYQUFZQ1VBZS1WRFVyanFiQXRpeGFCX2Y4dUp5QkRV?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-1f3ac36ac1a3ba7ecea14ff6",
+      "sourceId": "ns04",
+      "title": "Docs - Vitally Help Center",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T21:18:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yV2ozdnVNVW4yLUxNeGttY2dxSkpVM1hzc2kwY2FhMGxwQ2Jmb0RPal95dm9KSmIzWlQ5NlhJdkxLZkJDbWt1Q3BaMEV0bm1UNVNWeUlNcWFBdE9U?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -1954,10 +2026,10 @@
         "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-5c21ffeb271fe2e2a4b57abb",
-        "source": "Anthropic",
+        "id": "auto-4f0f147aedc5a6a2a0a8be21",
+        "source": "Google AI",
         "category": "Yapay Zekâ",
-        "title": "AI for Science expands to foundations and research institutions - Anthropic",
+        "title": "Ads in AI Mode expand to new markets. - blog.google",
         "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
         "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
         "basis": "title_only"
@@ -1992,9 +2064,9 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-28T23:39:41+00:00",
+    "generatedAt": "2026-10-29T07:38:05+00:00",
     "scope": "last24h",
-    "poolCount": 49,
+    "poolCount": 46,
     "articleIds": [
       "auto-c7155b360e3e33db101d1bcb",
       "auto-a395c7da350b5086cc15f6b6",
@@ -2002,7 +2074,7 @@
       "auto-f2cdaa88247a4f8a11015940",
       "auto-6f70b282a99dd280b4488c36",
       "auto-ff6cfae31df530ca4e63cbef",
-      "auto-5c21ffeb271fe2e2a4b57abb",
+      "auto-4f0f147aedc5a6a2a0a8be21",
       "auto-e9b4e992f554be58e53922c1",
       "auto-9e59967909846c80bdd94033",
       "auto-745e525a052b0b7a6b8a68d2"
@@ -2097,10 +2169,10 @@
           "basis": "publisher_excerpt"
         },
         {
-          "id": "auto-5c21ffeb271fe2e2a4b57abb",
-          "source": "Anthropic",
+          "id": "auto-4f0f147aedc5a6a2a0a8be21",
+          "source": "Google AI",
           "category": "Yapay Zekâ",
-          "title": "AI for Science expands to foundations and research institutions - Anthropic",
+          "title": "Ads in AI Mode expand to new markets. - blog.google",
           "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
           "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
           "basis": "title_only"
@@ -2135,9 +2207,9 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-28T23:39:41+00:00",
+      "generatedAt": "2026-10-29T07:38:05+00:00",
       "scope": "last24h",
-      "poolCount": 49,
+      "poolCount": 46,
       "articleIds": [
         "auto-c7155b360e3e33db101d1bcb",
         "auto-a395c7da350b5086cc15f6b6",
@@ -2145,7 +2217,7 @@
         "auto-f2cdaa88247a4f8a11015940",
         "auto-6f70b282a99dd280b4488c36",
         "auto-ff6cfae31df530ca4e63cbef",
-        "auto-5c21ffeb271fe2e2a4b57abb",
+        "auto-4f0f147aedc5a6a2a0a8be21",
         "auto-e9b4e992f554be58e53922c1",
         "auto-9e59967909846c80bdd94033",
         "auto-745e525a052b0b7a6b8a68d2"
