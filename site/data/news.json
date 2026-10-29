@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-29T18:19:46+00:00",
+  "generatedAt": "2026-10-29T18:42:49+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -551,6 +551,18 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T20:57:01+00:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa05VTDNwdzVIMmZGMTkxZk5vVy1oeGVpUUZxeERrQUVMX19Hdm5Kb3VKRUJ5WGpwM1Z5U3BtQkFBNXU2RzJDc0hGcjhVOWUwY1hsU2x0UmlMdVp4VThQOGt2UlNtWktXLVFwTTRaSXFyUlRLdUZqOWpOdHY3aWZTS2l5bXRuYURodDdCcE9hX2pKS0ZhVTRNYzdmcDQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-cf21ad65bb897ce7f01fad6d",
+      "sourceId": "ns08",
+      "title": "Identify more in-store customers with POS - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T20:18:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWVPYkZFODdJOUNxVlo3OWVWa1lmQlF6TzVVMmpWT1BmcFE2TEYyNHQ0b1IxR1EyT3ZNc1hCWExiZXNpYVpkZTE4QUxEd3NidFRFUnI1Smd5V0ZhelNvWEpwdDlRRTdxc2t6THZsR24wUzhGYVJiNkJoU3RpWXhZUjQ2OA?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -1109,6 +1121,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-ed9a7f95173edd363e4eeb1b",
+      "sourceId": "ns10",
+      "title": "Airtel Africa appoints Nigerian executive to drive broadband growth across markets - Nairametrics",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T07:15:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3AybmdhTXJ0a0tVRkdlbmp0Vi1IUWxtNXktd3dKZWVFaGY2OUFIMnBjWDZrRzZQTmFaQWptQmY0WFA3U3E0ZXpJeXBCb2h0ckJGc2pycG9ZTHVPOXVHT0ZCa3JkOFlnTml1elJNd0ZxdW96RUJndjBXRzRvTjRMYTdSbEt1WjI2TFBObnlkRUVHbjRjdHJSejVFV0l2Tl9ramxoSG05eldQOEhvaFdVaFJWczFQTkJTOTdz?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-1b59f2cfdc7621870e92c1d0",
       "sourceId": "ns20",
       "title": "AI for Incident Response: An Introduction by Cybrary - LinkedIn",
@@ -1407,6 +1431,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-e4ef8457ca15ac65d22439e7",
+      "sourceId": "ns04",
+      "title": "Traits - Vitally Help Center",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T14:14:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81WEtIYTc2UDV1OU00SzcycWxzbnN6VTlCVGs0VDJfYm5xbnktSEh5VUJ6SXVxQ191aE5GX20xZE5QWExva0dkbjUzeG9CMUQ3RV92SmhGbjNrRnQyQzlN?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-c99f834a0b06372460e4f8ff",
@@ -1955,18 +1991,6 @@
       "date": "2026-10-23",
       "publishedAt": "2026-10-23T15:48:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlBTdWdKZDQzRlJMQS1JejJFVURIQ0JxcDR1akJUZGlNOXhrQ3YwNzhfQkhTV0M4VnFET1pDVVo5bHZvZC10aENST2c0LTEtb2tTZEJxLUFaT1NUZEhUdGZLZWdJMkMtYjVHRmZ2MjJ6TVNJN2VGMVhhQ3Vncl9nWllVbGY?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-e4ef8457ca15ac65d22439e7",
-      "sourceId": "ns04",
-      "title": "Traits - Vitally Help Center",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T14:22:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81WEtIYTc2UDV1OU00SzcycWxzbnN6VTlCVGs0VDJfYm5xbnktSEh5VUJ6SXVxQ191aE5GX20xZE5QWExva0dkbjUzeG9CMUQ3RV92SmhGbjNrRnQyQzlN?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -2839,7 +2863,7 @@
     {
       "id": "auto-2748f4e87d3772f4a9b6c481",
       "sourceId": "ns35",
-      "title": "Celebrate Your Success with Microsoft Advertising - Microsoft",
+      "title": "Celebrate Your Success with Microsoft Advertising - Microsoft Ads",
       "date": "2026-10-06",
       "publishedAt": "2026-10-06T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkxwcTlrWGx1Zk9XQ0liWk5fdVlQWU9iWW1oNHpyMnZGSTd6OVR1cGNqSldQRV9QdFVVY0RjVDJ4aXY3djlyOGtWcVptX1J1RHhQWkJmR1oyR29zU1ExdGUzYTUzTGd6ZXIyTWlwTnJqMV8tUDhwbDJoc2Q5S1Y2bi1HOWxZejRtelZ0eHZjRjQ5NGt4UTBRYW1jdTAxZWg2czloeTMxcUMzNEk?oc=5",
@@ -3089,10 +3113,10 @@
     {
       "id": "ns11",
       "name": "Annette Franz / CX Journey",
-      "count": 6,
-      "status": "ok",
-      "provider": "Siteden keşfedilen RSS/Atom",
-      "message": ""
+      "count": 0,
+      "status": "unavailable",
+      "provider": "",
+      "message": "Google News RSS: yakın tarihli içerik yok"
     },
     {
       "id": "ns12",
@@ -3312,8 +3336,8 @@
     }
   ],
   "sourceCount": 38,
-  "successCount": 30,
-  "unavailableCount": 7,
+  "successCount": 29,
+  "unavailableCount": 8,
   "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir.",
   "dailyDigest": {
     "mode": "headlines",
@@ -3440,9 +3464,9 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-29T18:20:26+00:00",
+    "generatedAt": "2026-10-29T18:43:35+00:00",
     "scope": "last24h",
-    "poolCount": 51,
+    "poolCount": 52,
     "articleIds": [
       "auto-1d4ff025746347a0905fc3fe",
       "auto-d948735545c20cf3072195db",
@@ -3583,9 +3607,9 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T18:20:26+00:00",
+      "generatedAt": "2026-10-29T18:43:35+00:00",
       "scope": "last24h",
-      "poolCount": 51,
+      "poolCount": 52,
       "articleIds": [
         "auto-1d4ff025746347a0905fc3fe",
         "auto-d948735545c20cf3072195db",
