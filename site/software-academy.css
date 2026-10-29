@@ -63,3 +63,31 @@
 .sw-info p{margin:6px 0}
 @media(max-width:860px){.sw-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.sw-hero{padding:22px;gap:14px}.sw-ring{width:84px;height:84px;flex-basis:84px}}
 @media(max-width:540px){.sw-hero{align-items:flex-start;flex-direction:column-reverse;padding:19px}.sw-hero h2{font-size:23px}.sw-hero p{font-size:12px}.sw-ring{align-self:flex-end;width:78px;height:78px;flex-basis:78px}.sw-ring span{font-size:20px}.sw-stats{gap:8px}.sw-stats>div{padding:12px}.sw-stats strong{font-size:21px}.sw-next{align-items:stretch;flex-direction:column}.sw-next button{align-self:flex-start}.sw-controls>div,.sw-controls>div:nth-child(2){min-width:100%}.sw-results{padding:0}.sw-module-heading{padding:12px 11px;gap:9px}.sw-stage{height:32px;min-width:32px;font-size:11px}.sw-module-label strong{font-size:13px}.sw-module-label small{font-size:10px}.sw-module-body{padding:4px 12px 15px}.sw-lesson-tools{margin-left:37px}.sw-note-form{margin-left:37px}.sw-lesson-main{gap:8px}.sw-done{gap:4px}.sw-done input{width:16px;height:16px}.sw-lesson-text h4{font-size:13px}.sw-info{padding:16px}}
+
+/* Three-tier skills curriculum */
+.sw-level-section{display:grid;gap:12px}
+.sw-level-heading{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.sw-level-heading h3{font-size:17px;line-height:1.2;margin:0;color:#1b4148}
+.sw-level-heading span{font-size:12px;color:#647d86}
+.sw-levels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.sw-level-card{border:1px solid #d4e2e3;background:#fff;border-radius:15px;padding:18px;display:flex;flex-direction:column;gap:12px;text-align:left;color:#1d3f4a;min-width:0;min-height:173px;box-shadow:0 5px 16px #183e4709}
+.sw-level-card:hover{border-color:#2d9d8b;background:#f7fbfa}
+.sw-level-card.sw-level-active{border:2px solid #168a7b;background:#ecf8f5;padding:17px;box-shadow:0 5px 18px #117b7220}
+.sw-level-top{display:flex;justify-content:space-between;align-items:flex-start;gap:9px}
+.sw-level-top strong{font-size:17px}
+.sw-level-top span{font-size:11px;color:#567580;font-weight:700;white-space:nowrap}
+.sw-level-description{display:block;color:#536e79;font-size:12px;line-height:1.5;flex:1}
+.sw-level-progress{height:7px;background:#dcebe8;border-radius:10px;overflow:hidden;display:block}
+.sw-level-progress>span{display:block;height:100%;background:#138879;border-radius:10px}
+.sw-level-bottom{color:#5e7d81;font-size:11px;font-weight:650}
+.sw-show-all{align-self:flex-end;min-height:42px}
+.sw-project-gate{margin-top:15px;border:1px solid #cde4df;border-radius:12px;padding:15px;background:#f3faf8}
+.sw-project-head{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.sw-project-head strong{font-size:13px;color:#115d55}
+.sw-project-head span{font-size:11px;font-weight:800;color:#188273}
+.sw-project-gate>p{margin:6px 0 12px;font-size:12px;color:#52716d}
+.sw-gate{display:flex;gap:9px;align-items:flex-start;cursor:pointer;padding:7px 2px;color:#214d48;font-size:12px}
+.sw-gate input{accent-color:#168a7b;width:16px;height:16px;flex-shrink:0;margin:2px 0 0}
+.sw-gate-status{font-size:11px;color:#567c72;border-top:1px solid #dbece8;padding-top:10px;margin-top:8px}
+@media(max-width:850px){.sw-levels{grid-template-columns:1fr}.sw-level-card{min-height:0;padding:14px}.sw-level-card.sw-level-active{padding:13px}.sw-level-description{max-width:680px}}
+@media(max-width:540px){.sw-level-heading{display:grid;gap:5px}.sw-level-top strong{font-size:15px}.sw-level-card{gap:8px}.sw-show-all{width:100%}.sw-project-gate{padding:12px}}
