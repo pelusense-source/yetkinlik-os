@@ -92,6 +92,11 @@ def no_ai_digest(items,sources):
 def ai_digest(items,sources,model):
     api_key=os.getenv('OPENAI_API_KEY','').strip()
     if not api_key:return None
+    # Yanlış yapıştırılan Unicode karakterler HTTP Authorization başlığını bozabilir.
+    if not api_key.isascii():
+        raise ValueError('OPENAI_API_KEY ASCII dışı karakter içeriyor. GitHub Secrets değerini, OpenAI API Keys sayfasından kopyalanan gerçek gizli anahtarla değiştirin.')
+    if not api_key.startswith('sk-'):
+        raise ValueError('OPENAI_API_KEY biçimi geçersiz. Secret değerine açıklama veya anahtar adı değil, sk- ile başlayan API anahtarı yazılmalı.')
     evidence=[{'id':a['id'],'title':a['title'],'source':sources.get(a['sourceId'],{}).get('name',''),
                'category':sources.get(a['sourceId'],{}).get('category',''),
                'publishedAt':a['publishedAt'],'rss_excerpt':clean_summary(a)[:400]}
@@ -106,7 +111,7 @@ def ai_digest(items,sources,model):
                   "selected item id'leri aynen koru, tümünü döndür; verilerden güçlü sonuç çıkmıyorsa ihtiyatlı ifade kullan.")
     body=json.dumps({'model':model,'instructions':instructions,
                      'input':json.dumps({'articles':evidence},ensure_ascii=False),
-                     'max_output_tokens':1900},ensure_ascii=False).encode('utf-8')
+                     'max_output_tokens':3000},ensure_ascii=False).encode('utf-8')
     req=urllib.request.Request('https://api.openai.com/v1/responses',data=body,
       headers={'Content-Type':'application/json','Authorization':'Bearer '+api_key},method='POST')
     with urllib.request.urlopen(req,timeout=70) as res:
@@ -157,7 +162,9 @@ def main():
             try:
                 digest=ai_digest(articles,sources,os.getenv('OPENAI_MODEL','gpt-4.1-mini')) or digest
             except Exception as exc:
-                logging.warning('AI summary unavailable; safe headlines digest used: %s',str(exc)[:180])
+                safe_error=str(exc).replace('\n',' ').replace('\r',' ')[:300]
+                logging.warning('AI summary unavailable; safe headlines digest used: %s',safe_error)
+                print('::warning title=AI brifingi oluşturulamadı::'+safe_error)
         digest.update({'date':today,'generatedAt':now.isoformat(timespec='seconds'),
                        'scope':scope,'poolCount':pool_count,'articleIds':ids,'selectedCount':len(articles)})
     history=[d for d in news.get('digestHistory',[]) if d.get('date')!=today and d.get('date','')>= (now.astimezone(ZONE).date()-timedelta(days=13)).isoformat()]
@@ -166,5 +173,13 @@ def main():
     news['schemaVersion']=2
     NEWS.write_text(json.dumps(news,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     logging.info('Digest %s: %s mode, %d stories, scope %s',today,digest['mode'],len(articles),scope)
+    summary_file=os.getenv('GITHUB_STEP_SUMMARY')
+    if summary_file:
+        with open(summary_file,'a',encoding='utf-8') as summary:
+            summary.write('### Yetkinlik OS günlük AI brifing durumu\n')
+            summary.write('- Mod: '+('✅ Yapay zekâ ile Türkçe özet' if digest['mode']=='ai' else '⚠️ Başlık temelli yedek özet (AI oluşturulamadı)')+'\n')
+            summary.write('- Seçilen makale: '+str(len(articles))+'\n')
+            if digest['mode']!='ai' and ai_key:
+                summary.write('- GitHub Actions içindeki **Günlük özet ve okuma brifingini hazırla** adımındaki uyarıyı inceleyin.\n')
 
 if __name__=='__main__':main()
