@@ -1,9 +1,21 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-29T07:37:45+00:00",
+  "generatedAt": "2026-10-29T09:15:59+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
+    {
+      "id": "auto-60e928005b0dcb13d391b374",
+      "sourceId": "ns10",
+      "title": "Before AI Reshapes Your CS Team, Measure This - CX Today",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T09:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VNkZHS0F2MURjbVJaZDA2Ul9UQ01keW8teWgzVXBqdU5vSVpJZHhkdEMyc0JPNUVXWDJtTnAwbFR3OFRNbWYwZTZITklJNXlkb0N5SmExbzV6WS1hdVhKMV9DZUNyQ1MwYVp4Z3p4RQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
     {
       "id": "auto-72a131d1f229be0b8834d66f",
       "sourceId": "ns08",
@@ -17,12 +29,48 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-5cd98958a74359aea5b9bbd7",
+      "sourceId": "ns08",
+      "title": "- Shopify themes",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:56:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt5V1BRbzJWaW5yYnVKNHU4cG5rT3ZPNXd0NjBOdlFTS0FSY2djWjVSX0FERG04c09iOEJDRnA1ZFlRRlY3YXRBU2RDT3RxLWJmXzN4NVBoaUZFU0g5ODN1bzE4M1gwbXh2Z3NkMlhWRjEyNVg3SGNJTzV1bzhtZ1JFcUJsU0dYOUVfUF9n?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-63c8feec16392d1ab07b0d7f",
+      "sourceId": "ns08",
+      "title": "Log in - Shopify Partner Dashboard - Shopify",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:24:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmU0FyRzVjajZvSEpWamE3Undwb2EwcjNPb1JXZUtWeGVlUFdRS0xBLXoteEpzMk5ZQ2ZfV0psMFJEeGdmSFNhWlFyRWNsd1cwbUJuNQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-03590e87829e03fcda64864d",
       "sourceId": "ns10",
       "title": "T-Mobile Q3 2026 Revenue Rises 7% to $23.6 Billion, Profit Jumps 27% as 5G Broadband and Fiber Drive Growth - TelecomLead",
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T04:37:10+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUh4UkhWbVdDMTNVbEh4alVFaTlLcWFObWJMajZpMFB0dzlZczhNRnRwTEphUTBnV2ljX211a2h1Ym16MGF5NjZsTmp0NFVYSnVNaURxU0xxZFFWOFlKNGRJWWNmdVluT0pfRVlVTXhFdDZjSGVDQTVlcG9UbllTTXhtQnRMZFB4QTNndlNQeWpmeXkwMTMyN0xJb28yRlJZSFhROXcySGZWeWZBMTVNb0JoaDd1c25sRFBFb0MyVE1FRXduVmdkeHdaTHhubWFiUnlz0gHbAUFVX3lxTE1IM2FGWHVoemhfb28yalZyRGRjV2JIRnVmN2plOU1ydVlYWm1QZnpuX0RVdGpsUnZ3VExSWlpTTEtpZUk4ZXVibzlVQV83clEyQkQ1X1NyLXBRWmlnMnR4NUhNcHpsQ01pcWpOYmNhMmsxMjBqRFhhNHdHYlE5ekdIRDhHLXpKWUN5TkZrV0Vvb1lPU01sRVZ6QllTaURZeFUxZEhta3N4LXNyaVNsUFAwbEx5MVpGQ3BqcnBjVVFZVHhfX0xFbFh1LUcwalFwbzVUTXFUQm43TDVFWQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-7cadf06b65e4ac08b97a42f0",
+      "sourceId": "ns17",
+      "title": "- Anthropic",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T02:16:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -155,18 +203,6 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T20:14:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-63c8feec16392d1ab07b0d7f",
-      "sourceId": "ns08",
-      "title": "Log in - Shopify Partner Dashboard - Shopify",
-      "date": "2026-10-28",
-      "publishedAt": "2026-10-28T18:21:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmU0FyRzVjajZvSEpWamE3Undwb2EwcjNPb1JXZUtWeGVlUFdRS0xBLXoteEpzMk5ZQ2ZfV0psMFJEeGdmSFNhWlFyRWNsd1cwbUJuNQ?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -641,6 +677,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-a4f4ad1864de3af5273251d7",
+      "sourceId": "ns17",
+      "title": "Anthropic in London: AI and Science - Anthropic",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T23:14:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QV0g3WHluSnFnU1Y2QWlHSkx5RTZwd25fZEhkM28wZ3U2S0pFczdhQUZBOHFibVh1N2kyUWIyMjdIVUtld0EyeDg3Q2cyNWZUQi1BMFBWTWE2bmJKYkdGS0xzNGdZeHFyVVVDa0QzaENYU0xSZXc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-fc1b33f527542939b6e342b9",
       "sourceId": "ns10",
       "title": "Banking on partnerships: Insurance is the next frontier for customer retention in banking - Moneyweb",
@@ -965,6 +1013,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-f2dd9452a5e7ae6b3380f674",
+      "sourceId": "ns20",
+      "title": "Leadership Live with Dorie Clark: Leadership 2030 and Beyond - LinkedIn",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T19:50:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN043OFRRYWhBUURqT0tVY2d4UmtJTGJ2c2kwN0JlNHpCYi1QcDdjNWpLWVdlYjF5SEdNczhpckQ1Mmc1YVRKVTBocVFCaEFqaElnRVc5b2tvVjRweXQxRWNRSm1jVjZqR1dIX0NETkI1LU9leGQ0NnRPRWVGazVjUEVfWnJjRk1OeGRnYkZYLWxHc1hmVXZvTQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-3a3d4f8138df4759bf6a9be2",
       "sourceId": "ns20",
       "title": "Malware Defence: Network Protection, Endpoint Security, EDR, and XDR - LinkedIn",
@@ -1107,6 +1167,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-840a11ca016de76af81908b5",
+      "sourceId": "ns04",
+      "title": "AI Meeting Recorder - Vitally Help Center",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T14:09:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OSWZCYWZMOHVmaERoZ2lTZmxvRVJmTE55UFpKR3BLUE5DTGs4a2p0WFJUZnh0dFJyMFJoWjNhYjZNa1dHN094a3VEY2s5aGFzNHhXVGVuN3ZYcUpJblBjTnc4eHUxR1k0QnhHRU04a3dEQQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-f265e0e217458a69907b92b9",
@@ -1289,6 +1361,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-19390d35879497da3612e7fd",
+      "sourceId": "ns20",
+      "title": "LinkedIn Premium Company Page Plus and Pro: Grow Your Brand Influence - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T18:26:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbE9UT2tnRjVnMm9pREtSbjFlandiRjB2NWlRWlRPWEFWTnFCeHNwZ1A1dzFmRmRtemFXVWM3NHNLX2hOVlZxdTBJUDhodkZ5d0hNSTIzQzBWRjRrbTJmSlExVGo5S19mU3gzNnhVcGNkX0lkSGkxUlRZX3I5X1JkdkVlOHExTVpNV1d6STF5T1F1TmI5cWlfMmQyVXVOMnM0U0RTTA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-456639082803c9eab16f1277",
       "sourceId": "ns09",
       "title": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
@@ -1349,12 +1433,84 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-ed2eb5f59706e1427855c175",
+      "sourceId": "ns20",
+      "title": "Identify how your key audiences engage with your brand - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGt4ODNCRDVBZTdVdTNwc09FM3FwLUJLSDlYS050RDhpTXYxYnBYbWV4NkFjeDB6UVg5WkhLM2tlb0M1R2tYTV92SVFycmctRzV4dVpNUFlQY2hfYmgxcU9NTFNHeXlxc2V3Z1E1QUhpWnlyNllWNVUzNWdyWnNpWkYtNDN3dE9fT0hDMW9vQUNRdVhHX293OWZ4Y01Bb1pWQkxnTFFSVWtWdjVfWlNZWGNzQWNpSzVoMS0zMWlRVUNZQS15YXBFYkpkWWJQSmJqVVR1SVFBb2pGaDlORUNrbkZqOHFueUY1em0yR2NR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-d365fe7817ed858dbd6d96a4",
+      "sourceId": "ns20",
+      "title": "Turn insights into a stronger brand and content strategy - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNFFIS1lPVW9HOFhhSlI1ejhCUHE5VDJsOVNHbjFpWWMwdEY4QjM5UzFpdFRuLWxhejd3ZHdxNTJCal9TUEhLRXplZjRRcm5JTnN4akF1VUVwdkQwdG5WcDk1SDE0QkNWSktWS0FrR2FuQ1ZrcV8tOGNVLVNUazFIRS1VaXpQMzRWR3Q5YWNwc3BzbkxsNzl1VG1TT0cxMVp2R0RCQ2hoV20xRVIxYjhlMlNJU0hDVHRhXzRaVjZhN19lbkhlSDNBR3BXZzNUanFOTk40UE0zQ3ZYRUN5S091MmpMaGNXc1VYRGRoYkxwYVM?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-c856e2507bdac9140a87a88d",
       "sourceId": "ns20",
       "title": "The Strategic Visibility Playbook for Quiet High Achievers - LinkedIn",
       "date": "2026-10-23",
       "publishedAt": "2026-10-23T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0ZHQVpFYjFEUlpETzdpTjdMSEhDNUsxSlRZTEhoZngzRlhPcXVXV2F3MmlISmU5b1ZZZW44NXpTYlFja0oxQzE4cU94YjRjVTdENzBWLU90dEh6QUZmX1BsMTZqU3I5RVNTYzVoUkhGbml5UERsVzRtTTM2N0JSX2g2SWRTc0tTLTZpdURpdEJYLWRORTFj?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-788813e5719b2c712689aa69",
+      "sourceId": "ns20",
+      "title": "Define a backup and recovery strategy - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXVqR0VQQVY2dUZrSzBqRVpQMW9LblUwVlNMOFdmcE0zTDJVbEt0UkczRjBmS0tIaHRWc0xZcXdZbE5HbHVCQUE3cWJOM3VQNE9WdDd6Zm50LTctTVg0OTNSejMyUHZ2eDZ4WkwyT2dkV1hvdjNPek5JNVlwOTAybk1MZWg0Q0d1UXQ1Q1MwUzJKRHVRVWlYV05oYVZPSlFtN3l3amVUb1FjbG5vbkpSUWRjbDZDR3pCQUZpTG1NVnFKQkZoZlJwZUg4cw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-1367963916d3e33af62ce53c",
+      "sourceId": "ns20",
+      "title": "Put your LinkedIn Company Page to work - LinkedIn Premium Video Tutorial | LinkedIn Learning, formerly Lynda.com - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQm9DNThCcVlUaUhRZlFsd29ITUNfeHVPSFoxZklmV2o5Zmw2TXNsNWdsSGJLSmZrdjhKNk43X29PcUR3MWI0R0pDUno0VHlhbkV0UGRDdFpmb3kxanU0YVM2bnVsQ3NVLU9qWURWSzB0RnNXZFdOc2YxVzlHR2NTaWpfa2d6cF93ZjJ6OF9pa0Y3eV8zVWxsYzN4c3lwOTVMOVcwX3BUUnpqN3Z6Rmp6b0R2VmZ4V1NzUmNCMVJkNEJBN0JhRms2c0IyUkRySEJidzd1YjROQkc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-117a4072eadf493401cd0422",
+      "sourceId": "ns20",
+      "title": "Build a stronger company page presence and tell your brand story - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMXdRMzk1VmlTdTRSQi04T0FKV0x0cDVEb0dXS3d6WVdiX3lUQU5MQ1BjSzEwZ2VYTUEycjQzQXpvRzEteEFLbEo3MTRLbzBaUnpoQTNMODNJeW9hQmJ6b25NZTFxaTZGMzB2aDI1TEdMUllCMTM3SU9MbWNISlRpRFFiR2JFWUhHWHlERkNxTkw5cm0waXFKWE9adjBsWUhOLUtPQldQNmxUUzByN21FaFFXVTJ4MG5HQmduVVFsR3FXVTNJS093SDFDVWQxM3VDQzJsQVZuVS02NE1fTzVUWmFPRTU2MVRaQ19mNHJadG1DVmxGZ2NqZnZtVQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-096649faedf93ef55c91ff69",
+      "sourceId": "ns20",
+      "title": "Get more from your LinkedIn Premium Company Page - LinkedIn Premium Tutorial - LinkedIn",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUEhvelVpNk44T2FZaFpISTBhazJuX3BDQTNjVlNqdmhCekdLVGJObkhVWkk1NUZFZ1NmUDJNWU5BOHNxV1M4WDNUS2dERjVuZmxEaWxyYllCWFE1dVJ3S0Z2LW0weHYyMHQ4Z0xpaVVOc245S0FVMVN4YVhrQ2lEYTJicVZ0WnlkRW94bFU0bjRhSlVmTFcyZk1wcHY4RG8yVmxaN2U2Q0dsUldaU1NmT2N2THFsc1MxWTJmbWRDNFVFOVBhc3NEVTRQa0hLOHYyYUVKNldRcEMxVWNNRXptd3JIY2Z0dw?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -1427,6 +1583,18 @@
       "date": "2026-10-20",
       "publishedAt": "2026-10-20T21:20:32+00:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmhCLVZMZ1hyenN3VHg0STBIR2dyT3pJc3pUN2dfSFlIQW55dnowU2tnNE5UaGJQUjc4YXdkZ3MwNWVhY3d1NkdLbW1KODBmX01FWkxSRUdNU0d3MnJ3WlBDNzN1bXYwRnZHdy16QWg4VEJ1MFJZT3pnUzFxUVBiMGQxZzJGU09BOGxZQlhyX2VFa05vTmI0NDlVa1NVeTNTaEkzZjQ1R1hzeHhkMnRSWC1FdWpkb2o2cU0yRGh5d1pGcVdabTVN?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-bd6dad1f5a1ded803379bde5",
+      "sourceId": "ns15",
+      "title": "Is AI making hiring impossible? - Medical Economics",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T14:07:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92UmVFRTBCdGItNXkwX2hMM3Q1YXB5YmFRUWNlNXl3YU94bms4VW9WcWdWbktBb3RaNUF0MEk3YnVpRnZYRGd1a0FVV1QxU1RkQS1xcmpxWVBsanVEMHVxLUxCVVFEeGhGbjdQV2lRSzVQTmJEcWVqV3pBSQ?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -1793,7 +1961,7 @@
     {
       "id": "ns05",
       "name": "SaaStr",
-      "count": 8,
+      "count": 7,
       "status": "ok",
       "provider": "Resmi RSS/Atom (yapılandırılmış)",
       "message": ""
@@ -1921,7 +2089,7 @@
     {
       "id": "ns21",
       "name": "SaaStr Podcast",
-      "count": 8,
+      "count": 7,
       "status": "ok",
       "provider": "Resmi RSS/Atom (yapılandırılmış)",
       "message": ""
@@ -2064,9 +2232,9 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-29T07:38:05+00:00",
+    "generatedAt": "2026-10-29T09:16:17+00:00",
     "scope": "last24h",
-    "poolCount": 46,
+    "poolCount": 48,
     "articleIds": [
       "auto-c7155b360e3e33db101d1bcb",
       "auto-a395c7da350b5086cc15f6b6",
@@ -2207,9 +2375,9 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T07:38:05+00:00",
+      "generatedAt": "2026-10-29T09:16:17+00:00",
       "scope": "last24h",
-      "poolCount": 46,
+      "poolCount": 48,
       "articleIds": [
         "auto-c7155b360e3e33db101d1bcb",
         "auto-a395c7da350b5086cc15f6b6",
