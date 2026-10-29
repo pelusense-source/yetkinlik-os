@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-29T18:03:46+00:00",
+  "generatedAt": "2026-10-29T18:05:44+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -35,6 +35,18 @@
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T16:52:51+00:00",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WbG1JOEdZX3dRMEIzbGVhOXJOZWpBbDJBMWFpdUNkSFh5V0NDRkVoTzBWSVVNUVJhcDIxd3d6R0phYlg5d2U4ZEdKYjlfSlJpd19XWkFFMmFndkxvUndmR0c1UDJqVWdCdnNBQm5QajhHcUI4VjBZUmhJbW0?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-297dad726211419f4d77d60f",
+      "sourceId": "ns13",
+      "title": "Insurers’ AI Ambitions Are Outpacing Their Data - Harvard Business Review",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:52:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX1R3UTVqcWNCOUoxRjJKemhoN1dRTXNMV3ZhcWtUWUdlQUVwdlczNkRmY2lRV3lJRS02RmFIR2ZXZDhXcDJVME1Wc0pESklpeVhOSkNFZ3Y3ZTkwOWpkblhuYnc3ZUN2NHNEZlZxOHBrTC16QjNpcmZIR3hlSVQ1N0hmdnNvOEVXem9iREFNcGRfelpwTW12RFluZ2pmZG1oeHA5X2VnUDg?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -107,6 +119,18 @@
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T16:06:04+00:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1BtRDBISEM0RHhqemczeHVTRkdIWTJsWm1uSUl4RGVNSV9TVHluTGQ4dFZrZHBCZXV1M0FtV0lGcDVvOGdLZFVsaGtLWGZBakJsNS03RUdwbERlSXRySkw3akZ4ZnNDR2hLUFYzVWRoalZDVDVNbU9CTGxLOWlyazN4dzgyQ2R5MHlVM0swdUdRQURjbG44SDN2WFM3NVktbWZFOGhGSUs3NVAyNGxFZTJtY2I?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-5cd98958a74359aea5b9bbd7",
+      "sourceId": "ns08",
+      "title": "- Shopify themes",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:05:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt5V1BRbzJWaW5yYnVKNHU4cG5rT3ZPNXd0NjBOdlFTS0FSY2djWjVSX0FERG04c09iOEJDRnA1ZFlRRlY3YXRBU2RDT3RxLWJmXzN4NVBoaUZFU0g5ODN1bzE4M1gwbXh2Z3NkMlhWRjEyNVg3SGNJTzV1bzhtZ1JFcUJsU0dYOUVfUF9n?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -227,18 +251,6 @@
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T13:12:49+00:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMENZNUJ3N3FxclRsR2VJRzV3SGZVUy1jUk9LeHpQalFCR3lCTmhqYmk5OFh3NmFqWVUxaTc4UUlKc2JCWTBYdDJMMFJpendxSGJhTVRiRC14RW93YTY2cS14TlVIel9TWFQ0UWlIM1psQWZjaE1nWnNNdmgwSXJiVEt1U2xEY0hCYzlpazNtZ0w2NUZxWDQ0bHdabDA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-5cd98958a74359aea5b9bbd7",
-      "sourceId": "ns08",
-      "title": "- Shopify themes",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T13:03:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt5V1BRbzJWaW5yYnVKNHU4cG5rT3ZPNXd0NjBOdlFTS0FSY2djWjVSX0FERG04c09iOEJDRnA1ZFlRRlY3YXRBU2RDT3RxLWJmXzN4NVBoaUZFU0g5ODN1bzE4M1gwbXh2Z3NkMlhWRjEyNVg3SGNJTzV1bzhtZ1JFcUJsU0dYOUVfUF9n?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -2467,7 +2479,7 @@
     {
       "id": "auto-d28a1b9e5fc8739600fe913f",
       "sourceId": "ns35",
-      "title": "Earn your place on the holiday gift shortlist - Microsoft Ads",
+      "title": "Earn your place on the holiday gift shortlist - Microsoft",
       "date": "2026-10-15",
       "publishedAt": "2026-10-15T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1fX3ZBeFJJc3hoTjJpTVVMRFhGMm9yMTVkTkpHRHFBeTJ1Q1hYU1lHUkRPYV9TZ1VkYkU1VWxxWUtpLU1yZGxrWGtMWVV6UTJGamtMUG9pM0RYanVkcTdnbmJ5SVNEUnd0LVFNOXdaLWdTcE9iUnhFY2xURDgzVWV5OVlWY1Z1Z0NmN19SS0FLdWJ4QmY4Zm50OGlrTlNxMk9xblJvNm5BTzFGOVpZSEdwWVlldXJLcGhnSDZR?oc=5",
@@ -3077,10 +3089,10 @@
     {
       "id": "ns11",
       "name": "Annette Franz / CX Journey",
-      "count": 6,
-      "status": "ok",
-      "provider": "Siteden keşfedilen RSS/Atom",
-      "message": ""
+      "count": 0,
+      "status": "unavailable",
+      "provider": "",
+      "message": "Google News RSS: yakın tarihli içerik yok"
     },
     {
       "id": "ns12",
@@ -3300,8 +3312,8 @@
     }
   ],
   "sourceCount": 38,
-  "successCount": 30,
-  "unavailableCount": 7,
+  "successCount": 29,
+  "unavailableCount": 8,
   "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir.",
   "dailyDigest": {
     "mode": "headlines",
@@ -3399,7 +3411,7 @@
         "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-ae548908d3bf0d7f5ff6e63b",
+        "id": "auto-297dad726211419f4d77d60f",
         "source": "Harvard Business Review",
         "category": "Liderlik ve Davranış",
         "title": "Insurers’ AI Ambitions Are Outpacing Their Data - Harvard Business Review",
@@ -3408,10 +3420,10 @@
         "basis": "title_only"
       },
       {
-        "id": "auto-c8839f22c69e46a72bc4d388",
+        "id": "auto-ae548908d3bf0d7f5ff6e63b",
         "source": "Harvard Business Review",
         "category": "Liderlik ve Davranış",
-        "title": "Operating AI in Production: Building Trust, Visibility, and Accountability at Scale - Harvard Business Review",
+        "title": "Insurers’ AI Ambitions Are Outpacing Their Data - Harvard Business Review",
         "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
         "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
         "basis": "title_only"
@@ -3428,9 +3440,9 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-29T18:04:20+00:00",
+    "generatedAt": "2026-10-29T18:06:25+00:00",
     "scope": "last24h",
-    "poolCount": 51,
+    "poolCount": 52,
     "articleIds": [
       "auto-1d4ff025746347a0905fc3fe",
       "auto-d948735545c20cf3072195db",
@@ -3439,8 +3451,8 @@
       "auto-9349f418e7bc7ab45091d36c",
       "auto-592531735daddb1496ba84bc",
       "auto-5890559640505ec8136c009d",
+      "auto-297dad726211419f4d77d60f",
       "auto-ae548908d3bf0d7f5ff6e63b",
-      "auto-c8839f22c69e46a72bc4d388",
       "auto-ee60f679ed69b05e6fa4d7f4"
     ],
     "selectedCount": 10
@@ -3542,7 +3554,7 @@
           "basis": "publisher_excerpt"
         },
         {
-          "id": "auto-ae548908d3bf0d7f5ff6e63b",
+          "id": "auto-297dad726211419f4d77d60f",
           "source": "Harvard Business Review",
           "category": "Liderlik ve Davranış",
           "title": "Insurers’ AI Ambitions Are Outpacing Their Data - Harvard Business Review",
@@ -3551,10 +3563,10 @@
           "basis": "title_only"
         },
         {
-          "id": "auto-c8839f22c69e46a72bc4d388",
+          "id": "auto-ae548908d3bf0d7f5ff6e63b",
           "source": "Harvard Business Review",
           "category": "Liderlik ve Davranış",
-          "title": "Operating AI in Production: Building Trust, Visibility, and Accountability at Scale - Harvard Business Review",
+          "title": "Insurers’ AI Ambitions Are Outpacing Their Data - Harvard Business Review",
           "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
           "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
           "basis": "title_only"
@@ -3571,9 +3583,9 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T18:04:20+00:00",
+      "generatedAt": "2026-10-29T18:06:25+00:00",
       "scope": "last24h",
-      "poolCount": 51,
+      "poolCount": 52,
       "articleIds": [
         "auto-1d4ff025746347a0905fc3fe",
         "auto-d948735545c20cf3072195db",
@@ -3582,8 +3594,8 @@
         "auto-9349f418e7bc7ab45091d36c",
         "auto-592531735daddb1496ba84bc",
         "auto-5890559640505ec8136c009d",
+        "auto-297dad726211419f4d77d60f",
         "auto-ae548908d3bf0d7f5ff6e63b",
-        "auto-c8839f22c69e46a72bc4d388",
         "auto-ee60f679ed69b05e6fa4d7f4"
       ],
       "selectedCount": 10
