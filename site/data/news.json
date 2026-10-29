@@ -1,9 +1,33 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-29T09:22:44+00:00",
+  "generatedAt": "2026-10-29T11:14:42+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
+    {
+      "id": "auto-5890559640505ec8136c009d",
+      "sourceId": "ns21",
+      "title": "Sponsor SaaStr AI Annual 2027. Walk Out With 85+ Customer Meetings Set.",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T11:00:31+00:00",
+      "url": "https://www.saastr.com/sponsor-saastr-ai-annual-2027-walk-out-with-85-customer-meetings-set",
+      "summary": "A few months after SaaStr AI Annual 2026, someone asked on LinkedIn how many leads sponsors got from the event. Steve Burton, CMO of Aurasell, answered in one line: “Don’t count leads, but we booked 85 meetings on the calendar.” That’s the right way to measure an event. A badge scan is a maybe. A... Continue Reading",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-72a131d1f229be0b8834d66f",
+      "sourceId": "ns08",
+      "title": "Shopify Editions | Fall '26 - Shopify",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T10:20:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
     {
       "id": "auto-60e928005b0dcb13d391b374",
       "sourceId": "ns10",
@@ -17,12 +41,12 @@
       "provider": "Google News RSS"
     },
     {
-      "id": "auto-72a131d1f229be0b8834d66f",
+      "id": "auto-f40c5a5fbe4bb29ef973020f",
       "sourceId": "ns08",
-      "title": "Shopify Editions | Fall '26 - Shopify",
+      "title": "- Shopify",
       "date": "2026-10-29",
-      "publishedAt": "2026-10-29T07:20:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5",
+      "publishedAt": "2026-10-29T08:19:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTFpNVjJEXzhjVHpXeGVMNUNlWkZVTmdGZWI5d2g1NG9obWdhZEt1Xy1JUFZQMkNManc3cHliREZKeDRsbE1abHFvUHNRSlRBX3hIcTdwMnI2dw?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -65,12 +89,36 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-f66bf8327311981e4758da2a",
+      "sourceId": "ns18",
+      "title": "Partnering with Singapore to bring frontier AI to public health - blog.google",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T04:00:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNqMkx5WVpIbzJGTldFcEx3a1IyUFozTFYxOUpyQmNvM2JRejlESHR6c20zVXV5STB2R2dzcjhlRjNHZU1yeVRxbFhGNUFQSk5aTWM5c2pVUk9KU0d5RU1aTnVaSklWWUEzVUo1WmhDSGNSaUFwRVVHQnpIYnMwZ3RfMUt5aXVvNVVCMVdnRTQ3ZkZ4WUE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-7cadf06b65e4ac08b97a42f0",
       "sourceId": "ns17",
       "title": "- Anthropic",
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T02:16:26+00:00",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-9bb48f5698ea9b5809b627d4",
+      "sourceId": "ns13",
+      "title": "Empower Your Most Curious Employees to Drive Your Digital Transformation - Harvard Business Review",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T00:16:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnlBcldhMDVuZmlVUkloVTNxYkRybzFmWGVneFN1RWNNakxVWFJIUm1rMjJtVTQ0N0dNM09QUVBRME84U0Q2RXBDZXNLV3RrYjBUXzFVSzBKVlJTa0VlZXM5NFRWck1reElHR3NCSld2RFNYQXVvRlRKc3U2QkZYSFEyZFU3OFFuVV9xM2VENlYyVHV2cFF6V0ZsMUs?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -161,6 +209,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-971f9cae3aa9d770feaf0f1c",
+      "sourceId": "ns08",
+      "title": "Create WhatsApp marketing automations in Shopify Messaging - Shopify",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:03:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVl9kd1Z2aklnSjQxYVJuNlg3SjJUdWlfcGY2MTJQLTc2UUJ5ck5na1FDRTl6b09aM2hwSTk5MS11OWNOZnNqSmJ3NWVzV2xjdkJSMmp1TFlvVm9aa2VvYnU4cHdnVWJWcFYwTmZITklOWmtXTVE1SldoMTRabVNNdlFKYVZqN0hOZDdUeDEyTUhlRVFxQXkwZ0ZB?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-ade79585412058ca0a0f3e53",
       "sourceId": "ns20",
       "title": "Building Features with Codex: An Agentic Development Workflow - LinkedIn",
@@ -215,6 +275,18 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T20:14:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-0cde0781546783af37864498",
+      "sourceId": "ns18",
+      "title": "Adapt your ad strategy to meet the way people search today. - blog.google",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T19:06:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MWWNaOG9TZTNob1Fkb0ZBUEROUEo3Zm1UVjFtMjh2ZlRzWXNsZjlmUVZUeEk5WHJuZmE0Z096eXVGVFhwV1V2UUlyYWs3TVQzLUdhRHkzMk9iWDN2WXlsR2M4QWNhUU5RQ0c4MUNKbklHRzVsdWdKbkxQZTBiUFE?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -467,18 +539,6 @@
       "date": "2026-10-28",
       "publishedAt": "2026-10-28T13:08:06+00:00",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zanlIUnRRY2xza3VOTS0zRm5Xcl9PQmpzWWItZUpKYThUSk1XRjlFS0NkdjVYVl9VSTlHU2R3ZzlWLWdkaTNOcUNRWXBac25XTThoWG5RYVA5cFNKcDdwMzFad2hUUQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-9bb48f5698ea9b5809b627d4",
-      "sourceId": "ns13",
-      "title": "Empower Your Most Curious Employees to Drive Your Digital Transformation - Harvard Business Review",
-      "date": "2026-10-28",
-      "publishedAt": "2026-10-28T13:02:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnlBcldhMDVuZmlVUkloVTNxYkRybzFmWGVneFN1RWNNakxVWFJIUm1rMjJtVTQ0N0dNM09QUVBRME84U0Q2RXBDZXNLV3RrYjBUXzFVSzBKVlJTa0VlZXM5NFRWck1reElHR3NCSld2RFNYQXVvRlRKc3U2QkZYSFEyZFU3OFFuVV9xM2VENlYyVHV2cFF6V0ZsMUs?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -987,6 +1047,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-b41cc24c081aff4de9467864",
+      "sourceId": "ns13",
+      "title": "The C-Suite Behaviors That Stall AI Transformations - Harvard Business Review",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTU1SVNLRXhYRklrSWZDUVJrS2FBaG9PYkhLNTI3RVl0RjY3bXlady0tZnNlSFg5OFpmQ3NRckQzMEwwMW9jQjlfV1lkTFNIbWJqOHRRc2VJMC1QeXJXX2dOLUVoQXE0dW5lQzhyWDljSnlWVkVoWEd5dkc1dGMzUg?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-564781982b8925ef064bc0c3",
@@ -2033,10 +2105,10 @@
     {
       "id": "ns11",
       "name": "Annette Franz / CX Journey",
-      "count": 6,
-      "status": "ok",
-      "provider": "Siteden keşfedilen RSS/Atom",
-      "message": ""
+      "count": 0,
+      "status": "unavailable",
+      "provider": "",
+      "message": "Google News RSS: yakın tarihli içerik yok"
     },
     {
       "id": "ns12",
@@ -2128,8 +2200,8 @@
     }
   ],
   "sourceCount": 22,
-  "successCount": 19,
-  "unavailableCount": 2,
+  "successCount": 18,
+  "unavailableCount": 3,
   "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir.",
   "dailyDigest": {
     "mode": "headlines",
@@ -2182,12 +2254,12 @@
         "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-709cc8e2bd467b7916899fb3",
-        "source": "OpenAI",
-        "category": "Yapay Zekâ",
-        "title": "Legora is building the agentic operating system for legal work",
-        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "id": "auto-5890559640505ec8136c009d",
+        "source": "SaaStr Podcast",
+        "category": "SaaS ve Growth",
+        "title": "Sponsor SaaStr AI Annual 2027. Walk Out With 85+ Customer Meetings Set.",
+        "summary": "A few months after SaaStr AI Annual 2026, someone asked on LinkedIn how many leads sponsors got from the event. Steve Burton, CMO of Aurasell, answered in one line: “Don’t count leads, but we booked 85 meetings on the calendar.” T",
+        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
         "basis": "publisher_excerpt"
       },
       {
@@ -2209,13 +2281,13 @@
         "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-ff6cfae31df530ca4e63cbef",
-        "source": "SaaStr Podcast",
-        "category": "SaaS ve Growth",
-        "title": "10 Months Into AI for GTM That Actually Works: The CRO Matters More Than Ever. Every Other GTM Role Is in Flux.",
-        "summary": "We are about 10 months or so into AI for go-to-market that actually works: agents running real motions in production, booking real meetings and closing real dollars. In that time, agents have absorbed much of SDR, first-line suppo",
-        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-        "basis": "publisher_excerpt"
+        "id": "auto-f66bf8327311981e4758da2a",
+        "source": "Google AI",
+        "category": "Yapay Zekâ",
+        "title": "Partnering with Singapore to bring frontier AI to public health - blog.google",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "title_only"
       },
       {
         "id": "auto-4f0f147aedc5a6a2a0a8be21",
@@ -2227,10 +2299,10 @@
         "basis": "title_only"
       },
       {
-        "id": "auto-e9b4e992f554be58e53922c1",
+        "id": "auto-971f9cae3aa9d770feaf0f1c",
         "source": "Shopify Blog",
         "category": "E-ticaret ve CRM",
-        "title": "Get AI tested storefront suggestions from Sidekick - Shopify",
+        "title": "Create WhatsApp marketing automations in Shopify Messaging - Shopify",
         "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
         "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
         "basis": "title_only"
@@ -2245,31 +2317,31 @@
         "basis": "title_only"
       },
       {
-        "id": "auto-745e525a052b0b7a6b8a68d2",
-        "source": "Annette Franz / CX Journey",
+        "id": "auto-60e928005b0dcb13d391b374",
+        "source": "Customer Experience (CX)",
         "category": "Customer Success ve CX",
-        "title": "Show Me the Incentive, and I’ll Show You the Culture",
-        "summary": "Charlie Munger, the late vice chairman of Berkshire Hathaway, was known for a simple but powerful observation: Show me the incentive, and I'll show you the outcome. It's a deceptively simple idea, but the implications for leadersh",
+        "title": "Before AI Reshapes Your CS Team, Measure This - CX Today",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
         "relevance": "Konu, takip ettiğin Customer Success ve CX alanıyla ilgili.",
-        "basis": "publisher_excerpt"
+        "basis": "title_only"
       }
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-29T09:23:00+00:00",
+    "generatedAt": "2026-10-29T11:14:56+00:00",
     "scope": "last24h",
     "poolCount": 49,
     "articleIds": [
       "auto-c7155b360e3e33db101d1bcb",
       "auto-a395c7da350b5086cc15f6b6",
-      "auto-709cc8e2bd467b7916899fb3",
+      "auto-5890559640505ec8136c009d",
       "auto-f2cdaa88247a4f8a11015940",
       "auto-6f70b282a99dd280b4488c36",
-      "auto-ff6cfae31df530ca4e63cbef",
+      "auto-f66bf8327311981e4758da2a",
       "auto-4f0f147aedc5a6a2a0a8be21",
-      "auto-e9b4e992f554be58e53922c1",
+      "auto-971f9cae3aa9d770feaf0f1c",
       "auto-9e59967909846c80bdd94033",
-      "auto-745e525a052b0b7a6b8a68d2"
+      "auto-60e928005b0dcb13d391b374"
     ],
     "selectedCount": 10
   },
@@ -2325,12 +2397,12 @@
           "basis": "publisher_excerpt"
         },
         {
-          "id": "auto-709cc8e2bd467b7916899fb3",
-          "source": "OpenAI",
-          "category": "Yapay Zekâ",
-          "title": "Legora is building the agentic operating system for legal work",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "id": "auto-5890559640505ec8136c009d",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "Sponsor SaaStr AI Annual 2027. Walk Out With 85+ Customer Meetings Set.",
+          "summary": "A few months after SaaStr AI Annual 2026, someone asked on LinkedIn how many leads sponsors got from the event. Steve Burton, CMO of Aurasell, answered in one line: “Don’t count leads, but we booked 85 meetings on the calendar.” T",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
           "basis": "publisher_excerpt"
         },
         {
@@ -2352,13 +2424,13 @@
           "basis": "publisher_excerpt"
         },
         {
-          "id": "auto-ff6cfae31df530ca4e63cbef",
-          "source": "SaaStr Podcast",
-          "category": "SaaS ve Growth",
-          "title": "10 Months Into AI for GTM That Actually Works: The CRO Matters More Than Ever. Every Other GTM Role Is in Flux.",
-          "summary": "We are about 10 months or so into AI for go-to-market that actually works: agents running real motions in production, booking real meetings and closing real dollars. In that time, agents have absorbed much of SDR, first-line suppo",
-          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-          "basis": "publisher_excerpt"
+          "id": "auto-f66bf8327311981e4758da2a",
+          "source": "Google AI",
+          "category": "Yapay Zekâ",
+          "title": "Partnering with Singapore to bring frontier AI to public health - blog.google",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "title_only"
         },
         {
           "id": "auto-4f0f147aedc5a6a2a0a8be21",
@@ -2370,10 +2442,10 @@
           "basis": "title_only"
         },
         {
-          "id": "auto-e9b4e992f554be58e53922c1",
+          "id": "auto-971f9cae3aa9d770feaf0f1c",
           "source": "Shopify Blog",
           "category": "E-ticaret ve CRM",
-          "title": "Get AI tested storefront suggestions from Sidekick - Shopify",
+          "title": "Create WhatsApp marketing automations in Shopify Messaging - Shopify",
           "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
           "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
           "basis": "title_only"
@@ -2388,31 +2460,31 @@
           "basis": "title_only"
         },
         {
-          "id": "auto-745e525a052b0b7a6b8a68d2",
-          "source": "Annette Franz / CX Journey",
+          "id": "auto-60e928005b0dcb13d391b374",
+          "source": "Customer Experience (CX)",
           "category": "Customer Success ve CX",
-          "title": "Show Me the Incentive, and I’ll Show You the Culture",
-          "summary": "Charlie Munger, the late vice chairman of Berkshire Hathaway, was known for a simple but powerful observation: Show me the incentive, and I'll show you the outcome. It's a deceptively simple idea, but the implications for leadersh",
+          "title": "Before AI Reshapes Your CS Team, Measure This - CX Today",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
           "relevance": "Konu, takip ettiğin Customer Success ve CX alanıyla ilgili.",
-          "basis": "publisher_excerpt"
+          "basis": "title_only"
         }
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T09:23:00+00:00",
+      "generatedAt": "2026-10-29T11:14:56+00:00",
       "scope": "last24h",
       "poolCount": 49,
       "articleIds": [
         "auto-c7155b360e3e33db101d1bcb",
         "auto-a395c7da350b5086cc15f6b6",
-        "auto-709cc8e2bd467b7916899fb3",
+        "auto-5890559640505ec8136c009d",
         "auto-f2cdaa88247a4f8a11015940",
         "auto-6f70b282a99dd280b4488c36",
-        "auto-ff6cfae31df530ca4e63cbef",
+        "auto-f66bf8327311981e4758da2a",
         "auto-4f0f147aedc5a6a2a0a8be21",
-        "auto-e9b4e992f554be58e53922c1",
+        "auto-971f9cae3aa9d770feaf0f1c",
         "auto-9e59967909846c80bdd94033",
-        "auto-745e525a052b0b7a6b8a68d2"
+        "auto-60e928005b0dcb13d391b374"
       ],
       "selectedCount": 10
     }
