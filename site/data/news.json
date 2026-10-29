@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-29T18:05:44+00:00",
+  "generatedAt": "2026-10-29T18:19:46+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -2479,7 +2479,7 @@
     {
       "id": "auto-d28a1b9e5fc8739600fe913f",
       "sourceId": "ns35",
-      "title": "Earn your place on the holiday gift shortlist - Microsoft",
+      "title": "Earn your place on the holiday gift shortlist - Microsoft Ads",
       "date": "2026-10-15",
       "publishedAt": "2026-10-15T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZE1fX3ZBeFJJc3hoTjJpTVVMRFhGMm9yMTVkTkpHRHFBeTJ1Q1hYU1lHUkRPYV9TZ1VkYkU1VWxxWUtpLU1yZGxrWGtMWVV6UTJGamtMUG9pM0RYanVkcTdnbmJ5SVNEUnd0LVFNOXdaLWdTcE9iUnhFY2xURDgzVWV5OVlWY1Z1Z0NmN19SS0FLdWJ4QmY4Zm50OGlrTlNxMk9xblJvNm5BTzFGOVpZSEdwWVlldXJLcGhnSDZR?oc=5",
@@ -2839,7 +2839,7 @@
     {
       "id": "auto-2748f4e87d3772f4a9b6c481",
       "sourceId": "ns35",
-      "title": "Celebrate Your Success with Microsoft Advertising - Microsoft Ads",
+      "title": "Celebrate Your Success with Microsoft Advertising - Microsoft",
       "date": "2026-10-06",
       "publishedAt": "2026-10-06T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkxwcTlrWGx1Zk9XQ0liWk5fdVlQWU9iWW1oNHpyMnZGSTd6OVR1cGNqSldQRV9QdFVVY0RjVDJ4aXY3djlyOGtWcVptX1J1RHhQWkJmR1oyR29zU1ExdGUzYTUzTGd6ZXIyTWlwTnJqMV8tUDhwbDJoc2Q5S1Y2bi1HOWxZejRtelZ0eHZjRjQ5NGt4UTBRYW1jdTAxZWg2czloeTMxcUMzNEk?oc=5",
@@ -3089,10 +3089,10 @@
     {
       "id": "ns11",
       "name": "Annette Franz / CX Journey",
-      "count": 0,
-      "status": "unavailable",
-      "provider": "",
-      "message": "Google News RSS: yakın tarihli içerik yok"
+      "count": 6,
+      "status": "ok",
+      "provider": "Siteden keşfedilen RSS/Atom",
+      "message": ""
     },
     {
       "id": "ns12",
@@ -3312,8 +3312,8 @@
     }
   ],
   "sourceCount": 38,
-  "successCount": 29,
-  "unavailableCount": 8,
+  "successCount": 30,
+  "unavailableCount": 7,
   "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir.",
   "dailyDigest": {
     "mode": "headlines",
@@ -3440,9 +3440,9 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-29",
-    "generatedAt": "2026-10-29T18:06:25+00:00",
+    "generatedAt": "2026-10-29T18:20:26+00:00",
     "scope": "last24h",
-    "poolCount": 52,
+    "poolCount": 51,
     "articleIds": [
       "auto-1d4ff025746347a0905fc3fe",
       "auto-d948735545c20cf3072195db",
@@ -3583,9 +3583,9 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T18:06:25+00:00",
+      "generatedAt": "2026-10-29T18:20:26+00:00",
       "scope": "last24h",
-      "poolCount": 52,
+      "poolCount": 51,
       "articleIds": [
         "auto-1d4ff025746347a0905fc3fe",
         "auto-d948735545c20cf3072195db",
