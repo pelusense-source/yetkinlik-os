@@ -226,6 +226,174 @@
       "mode": "auto",
       "feed": "",
       "query": "\"Gainsight GameChanger Podcast\""
+    },
+    {
+      "id": "ns23",
+      "name": "Google Search Central Blog",
+      "category": "SEO ve Google Search",
+      "type": "Resmî Blog",
+      "url": "https://developers.google.com/search/blog",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://developers.google.com/search/blog/feed.xml"
+    },
+    {
+      "id": "ns24",
+      "name": "Google Search Doküman Güncellemeleri",
+      "category": "SEO ve Google Search",
+      "type": "Sürüm Notları",
+      "url": "https://developers.google.com/search/updates",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://developers.google.com/search/updates/search_docs_updates.rss"
+    },
+    {
+      "id": "ns25",
+      "name": "Google Search Status Dashboard",
+      "category": "SEO ve Google Search",
+      "type": "Durum Paneli",
+      "url": "https://status.search.google.com/summary",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:status.search.google.com (core update OR spam update OR ranking)"
+    },
+    {
+      "id": "ns26",
+      "name": "Search Engine Land",
+      "category": "SEO ve Google Search",
+      "type": "Sektörel Blog",
+      "url": "https://searchengineland.com/",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "https://searchengineland.com/feed"
+    },
+    {
+      "id": "ns27",
+      "name": "Google Tag Manager Sürüm Notları",
+      "category": "GA4 ve GTM",
+      "type": "Sürüm Notları",
+      "url": "https://support.google.com/tagmanager/answer/4620708?hl=en",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:support.google.com/tagmanager/answer/4620708 GTM release notes"
+    },
+    {
+      "id": "ns28",
+      "name": "Google Analytics 4 Yenilikleri",
+      "category": "GA4 ve GTM",
+      "type": "Sürüm Notları",
+      "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:support.google.com/analytics/answer/9164320 Google Analytics release"
+    },
+    {
+      "id": "ns29",
+      "name": "Simo Ahava",
+      "category": "GA4 ve GTM",
+      "type": "Uzman Blogu",
+      "url": "https://www.simoahava.com/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://www.simoahava.com/feed/"
+    },
+    {
+      "id": "ns30",
+      "name": "Analytics Mania",
+      "category": "GA4 ve GTM",
+      "type": "Uzman Blogu",
+      "url": "https://www.analyticsmania.com/blog/",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "https://www.analyticsmania.com/feed/"
+    },
+    {
+      "id": "ns31",
+      "name": "Google Ads & Commerce",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Blog",
+      "url": "https://blog.google/products/ads-commerce/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://blog.google/products/ads-commerce/rss/"
+    },
+    {
+      "id": "ns32",
+      "name": "Google Ads Developer Blog",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Blog",
+      "url": "https://ads-developers.googleblog.com/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://ads-developers.googleblog.com/feeds/posts/default?alt=rss"
+    },
+    {
+      "id": "ns33",
+      "name": "Meta for Business News",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Blog",
+      "url": "https://www.facebook.com/business/news",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "https://www.facebook.com/business/news/rss/"
+    },
+    {
+      "id": "ns34",
+      "name": "Meta for Developers",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Developer Blog",
+      "url": "https://developers.meta.com/blog/",
+      "priority": "Yüksek",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:developers.meta.com/blog marketing API ads measurement"
+    },
+    {
+      "id": "ns35",
+      "name": "Microsoft Advertising Blog",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Blog",
+      "url": "https://about.ads.microsoft.com/en/blog",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:about.ads.microsoft.com/en/blog Microsoft Advertising"
+    },
+    {
+      "id": "ns36",
+      "name": "TikTok for Business",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Blog",
+      "url": "https://ads.tiktok.com/business/en/blog",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:ads.tiktok.com/business/en/blog TikTok ads marketing"
+    },
+    {
+      "id": "ns37",
+      "name": "LinkedIn Ads Ürün Güncellemeleri",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Sürüm Notları",
+      "url": "https://business.linkedin.com/advertise/ads/product-updates",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:business.linkedin.com/advertise/ads/product-updates LinkedIn Ads"
+    },
+    {
+      "id": "ns38",
+      "name": "LinkedIn Marketing Blog",
+      "category": "Ücretli Reklamlar",
+      "type": "Resmî Blog",
+      "url": "https://www.linkedin.com/business/marketing/blog",
+      "priority": "Orta",
+      "mode": "auto",
+      "feed": "",
+      "query": "site:linkedin.com/business/marketing/blog LinkedIn Ads"
     }
   ]
 }
