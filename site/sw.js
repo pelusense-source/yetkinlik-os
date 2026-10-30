@@ -1,4 +1,4 @@
-const CACHE='yetkinlik-os-v9';const ASSETS=['./','./index.html','./manifest.json','./icon.svg','./wellness.css','./wellness.js','./software-academy.js','./software-academy.css','./english-b1.js','./english-b1.css'];
+const CACHE='yetkinlik-os-v10';const ASSETS=['./','./index.html','./manifest.json','./icon.svg','./wellness.css','./wellness.js','./software-academy.js','./software-academy.css','./english-b1.js','./english-b1.css'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)));self.skipWaiting()});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))));self.clients.claim()});
 self.addEventListener('fetch',event=>{
