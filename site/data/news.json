@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-30T20:45:00+00:00",
+  "generatedAt": "2026-10-30T21:06:10+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -3564,10 +3564,10 @@
       }
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
-    "date": "2026-10-30",
-    "generatedAt": "2026-10-30T20:45:44+00:00",
+    "date": "2026-10-31",
+    "generatedAt": "2026-10-30T21:06:58+00:00",
     "scope": "last24h",
-    "poolCount": 42,
+    "poolCount": 41,
     "articleIds": [
       "auto-84abd1857de5dfd951d90dcf",
       "auto-6a43442645804206c3587c09",
@@ -3583,6 +3583,153 @@
     "selectedCount": 10
   },
   "digestHistory": [
+    {
+      "mode": "headlines",
+      "headline": "Günün kaynaklı okuma özeti",
+      "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: Yapay Zekâ.",
+      "sections": [
+        {
+          "category": "Yapay Zekâ",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "SaaS ve Growth",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "Ücretli Reklamlar",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "E-ticaret ve CRM",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "SEO ve Google Search",
+          "count": 1,
+          "overview": "1 seçilmiş başlık"
+        },
+        {
+          "category": "Liderlik ve Davranış",
+          "count": 1,
+          "overview": "1 seçilmiş başlık"
+        }
+      ],
+      "cards": [
+        {
+          "id": "auto-84abd1857de5dfd951d90dcf",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "Making it easier for websites to express AI training preferences",
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-6a43442645804206c3587c09",
+          "source": "Google Search Central Blog",
+          "category": "SEO ve Google Search",
+          "title": "Supporting a shared AI training control for websites",
+          "summary": "Today, we're announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIP",
+          "relevance": "Konu, takip ettiğin SEO ve Google Search alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-a86d24c59c826150d16deb11",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "Community safety report and new protections for teens",
+          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-282abbaa7ab0f9511ff5035d",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "The B2B Category the Markets “Hate” the Most Today: GTM",
+          "summary": "Salesforce agreed the other day to buy Braze for $5.66 billion, 6.8x trailing revenue. In most of B2B that price would be unremarkable. In go-to-market software it’s a 58% premium, because Braze traded at 3.7x on Monday. I pulled ",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-03a40b12a6cd29ad55c19ecc",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "Annual Contracts: Maybe Not All They Are Cracked Up To Be",
+          "summary": "Annual contracts seem so great. VCs love them, and they do seem to reduce churn. Seem to. In fact, when CROs struggle to hit a plan, they often want to push customers onto annual contracts. That and pricing increases are classic g",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-43eec06b9f5b2209f83aa5f5",
+          "source": "Meta for Business News",
+          "category": "Ücretli Reklamlar",
+          "title": "NTA Network News. . Live News Broadcast from Nigerian Television Authority. Abuja, Nigeria More from NTA at Website: http://www.nta.ng/ Twitter: http://www.twitter.com/NTANewsNow Facebook: http://www.facebook.com/NTANetworkNews Email: enquiries@ - Fa",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-5cd98958a74359aea5b9bbd7",
+          "source": "Shopify Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "- Shopify themes",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-43cf8dcb3f7e33fd19ad5163",
+          "source": "Shopify Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "Adding product identifiers for shipments to the European Union - Shopify Help Center",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-32badb00985cedc7b1d626c1",
+          "source": "Meta for Business News",
+          "category": "Ücretli Reklamlar",
+          "title": "📅 TOMORROW! 🎃 🍭 🛻 Come out to Mayor Ryan’s Touch-a-Truck-or-Treat! and have fun with the whole family at Niagara Square! 🚒 Climb aboard and explore City trucks and vehicles from DPW, Buffalo FD, and Buffalo PD. 🍬 Enjoy candy, a costume parade, t - Fa",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-10caf35ab7c508a0d7141be3",
+          "source": "Harvard Business Review",
+          "category": "Liderlik ve Davranış",
+          "title": "Build the Mindset That Keeps Your Team Moving Forward - Harvard Business Review",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+          "basis": "title_only"
+        }
+      ],
+      "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
+      "date": "2026-10-31",
+      "generatedAt": "2026-10-30T21:06:58+00:00",
+      "scope": "last24h",
+      "poolCount": 41,
+      "articleIds": [
+        "auto-84abd1857de5dfd951d90dcf",
+        "auto-6a43442645804206c3587c09",
+        "auto-a86d24c59c826150d16deb11",
+        "auto-282abbaa7ab0f9511ff5035d",
+        "auto-03a40b12a6cd29ad55c19ecc",
+        "auto-43eec06b9f5b2209f83aa5f5",
+        "auto-5cd98958a74359aea5b9bbd7",
+        "auto-43cf8dcb3f7e33fd19ad5163",
+        "auto-32badb00985cedc7b1d626c1",
+        "auto-10caf35ab7c508a0d7141be3"
+      ],
+      "selectedCount": 10
+    },
     {
       "mode": "headlines",
       "headline": "Günün kaynaklı okuma özeti",
