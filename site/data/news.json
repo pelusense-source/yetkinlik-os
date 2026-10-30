@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-30T20:28:15+00:00",
+  "generatedAt": "2026-10-30T20:35:52+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
@@ -125,6 +125,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-ed4284631be5bb0083772652",
+      "sourceId": "ns13",
+      "title": "Coping with Uncertainty’s Toll - Harvard Business Review",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T13:06:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GaFBQTTIwV0w3cWdBWnBSVkdmeG9taWJKcnowcEtmM1RVeWZhV3BJYjFweXljZnpQWFNmNS1YQmxvYWEzWWEzYmN0cHl3U2lFU29GY0JDS19pWlEyeldLdHpaUQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-15b3a9aab95bb5633efd46b5",
       "sourceId": "ns13",
       "title": "How to Prepare for AI-Powered Cyber Threats - Harvard Business Review",
@@ -185,12 +197,36 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-759e6782f3be532674bb2dd5",
+      "sourceId": "ns13",
+      "title": "My Library List - Harvard Business Review",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T10:49:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01THhVc2dwSVhsSUtOaFZoT0szMFlyaENnQkZYd1E3MDRHeDdzVXZNTmsxeS1hZkJCZ08yWUYyV1Z6eDI5djVSczg2NWQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-da0c13149d2e5ebba0524a85",
       "sourceId": "ns10",
       "title": "2026 IT Indaba: Building trusted AI through data governance - CIO South Africa",
       "date": "2026-10-30",
       "publishedAt": "2026-10-30T10:30:05+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2dmQzlEREE5OERzVUVpTi1xQXo1UkZrVVhGaTljNW9RRnQ1RWhDU0NyQnctZkpJQzdLUFdsTU9nbDJGOFlRVWdrd3pmal9UaS1tMG1zYVp2cXVWX2g4clFwaEU4TGRlZVdVQXNld1l0b0kyY2FkSTRHSlZDXzF0UHBtMHRPNTlJdlc2TGZyRlJDbDg?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-2db19221bc441da1e62e6926",
+      "sourceId": "ns13",
+      "title": "- Harvard Business Review",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T09:51:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OaThraVFySnV2NzhlVk84VnduUXA4TjZ2Skh4YVR4enZyRHJUVUVzQTNnX3R0U21PNkJJRVE1X1VUZzlpYmk4dw?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -245,6 +281,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-a486f34e25856991209851c5",
+      "sourceId": "ns08",
+      "title": "Sign up - Shopify Partner Dashboard - Shopify",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T04:43:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkX2VHbi1uWlM1YzV2OFF1Umg3bGdWTU9MLThfNk9JUGM3dnZLWFRndHJrYUdpYUh4bGJTbXRwcGNjaGlqdUNBVjJISkM3X0xWVnVjSFdWWG9wVm9QWlRvS1VyR3luZw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-5cd98958a74359aea5b9bbd7",
       "sourceId": "ns08",
       "title": "- Shopify themes",
@@ -263,18 +311,6 @@
       "date": "2026-10-30",
       "publishedAt": "2026-10-30T03:29:45+00:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmU0FyRzVjajZvSEpWamE3Undwb2EwcjNPb1JXZUtWeGVlUFdRS0xBLXoteEpzMk5ZQ2ZfV0psMFJEeGdmSFNhWlFyRWNsd1cwbUJuNQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-2db19221bc441da1e62e6926",
-      "sourceId": "ns13",
-      "title": "- Harvard Business Review",
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T03:07:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OaThraVFySnV2NzhlVk84VnduUXA4TjZ2Skh4YVR4enZyRHJUVUVzQTNnX3R0U21PNkJJRVE1X1VUZzlpYmk4dw?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -467,6 +503,18 @@
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T16:36:34+00:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMENZNUJ3N3FxclRsR2VJRzV3SGZVUy1jUk9LeHpQalFCR3lCTmhqYmk5OFh3NmFqWVUxaTc4UUlKc2JCWTBYdDJMMFJpendxSGJhTVRiRC14RW93YTY2cS14TlVIel9TWFQ0UWlIM1psQWZjaE1nWnNNdmgwSXJiVEt1U2xEY0hCYzlpazNtZ0w2NUZxWDQ0bHdabDA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-8d8cce3ef272562f9591d1ac",
+      "sourceId": "ns08",
+      "title": "Using the Shopcast dashboard - Shopify Help Center",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:31:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHMzaGtWbUhJNnJiSUhXX1hGemRBenplUTRjbzl4MHRXbUpZekhJbGxRZ2d6bjltRHBnVXlSNjZTN2hoNkd5RW50Q01QaTZ0WG45dU9uX1FQV1h4c2d5NjZUOW9vSm5Sa3AwMlFFTThEWHhQQWczMnd3VDZxSnV1b2xCUy1MUFk?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -723,18 +771,6 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-a486f34e25856991209851c5",
-      "sourceId": "ns08",
-      "title": "Sign up - Shopify Partner Dashboard - Shopify",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T10:39:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkX2VHbi1uWlM1YzV2OFF1Umg3bGdWTU9MLThfNk9JUGM3dnZLWFRndHJrYUdpYUh4bGJTbXRwcGNjaGlqdUNBVjJISkM3X0xWVnVjSFdWWG9wVm9QWlRvS1VyR3luZw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
     },
     {
       "id": "auto-a4f4ad1864de3af5273251d7",
@@ -3087,42 +3123,6 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-b7481608bdf8fb62d4c4abb4",
-      "sourceId": "ns29",
-      "title": "Optimized Tagging Experience For Google Tag Manager",
-      "date": "2026-10-13",
-      "publishedAt": "2026-10-13T02:00:00+00:00",
-      "url": "https://www.simoahava.com/analytics/optimized-tagging-experience-google-tag-manager",
-      "summary": "With a recent update, the Google Tag Manager and Google Tag technologies are finally merging. In my many posts about Google Tag, I’ve often lamented the fact that while any given Google Tag is essentially a wrapper for an underlying Google Tag Manager container, for some inexplicable reason Google Tag Manager containers themselves did not have the capabilities of Google Tags ( and vice versa ). Well, that’s a thing of the past now. By upgrading to the new tagging experience i",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Siteden keşfedilen RSS/Atom"
-    },
-    {
-      "id": "auto-0f8b114cd6a5817083bb8af2",
-      "sourceId": "ns15",
-      "title": "Leaders Eat Last - Simon Sinek - U.S. Air Forces in Europe - Air Forces Africa (.mil)",
-      "date": "2026-10-12",
-      "publishedAt": "2026-10-12T19:34:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQ2NkXzF5QWpaV2FOSjM5V05tY3RPX1NEZVVjTTBnbzRjRWZZMGUxdTdHV24zOTdvMlI4WHhlSXJpQ3E4VGN1MWxJRzdTUVBxM21odHRBT0xHbGo3d2xLa0xUbzRLUnM?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-0b8669a7684f16cea3bc6082",
-      "sourceId": "ns32",
-      "title": "Google Ads API Release and Sunset Schedules for 2026-2027",
-      "date": "2026-10-12",
-      "publishedAt": "2026-10-12T16:57:15+00:00",
-      "url": "http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html",
-      "summary": "Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI . As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines even further - moving to two Google Ads API releases per month starting from version v26! This faster cadence gives your automated agents and workflows near-instant access to cutting-edge features, allow",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
     }
   ],
   "sources": [
@@ -3209,10 +3209,10 @@
     {
       "id": "ns11",
       "name": "Annette Franz / CX Journey",
-      "count": 6,
-      "status": "ok",
-      "provider": "Siteden keşfedilen RSS/Atom",
-      "message": ""
+      "count": 0,
+      "status": "unavailable",
+      "provider": "",
+      "message": "Google News RSS: yakın tarihli içerik yok"
     },
     {
       "id": "ns12",
@@ -3432,8 +3432,8 @@
     }
   ],
   "sourceCount": 38,
-  "successCount": 30,
-  "unavailableCount": 7,
+  "successCount": 29,
+  "unavailableCount": 8,
   "disclaimer": "Otomatik RSS başlıkları ve yayıncı özetleri. AI özeti varsa yalnızca mevcut açıklamalara dayanır. Google News RSS tüm içerikleri kapsamayabilir.",
   "dailyDigest": {
     "mode": "headlines",
@@ -3560,9 +3560,9 @@
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
     "date": "2026-10-30",
-    "generatedAt": "2026-10-30T20:29:06+00:00",
+    "generatedAt": "2026-10-30T20:36:20+00:00",
     "scope": "last24h",
-    "poolCount": 30,
+    "poolCount": 33,
     "articleIds": [
       "auto-84abd1857de5dfd951d90dcf",
       "auto-6a43442645804206c3587c09",
@@ -3703,9 +3703,9 @@
       ],
       "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
       "date": "2026-10-30",
-      "generatedAt": "2026-10-30T20:29:06+00:00",
+      "generatedAt": "2026-10-30T20:36:20+00:00",
       "scope": "last24h",
-      "poolCount": 30,
+      "poolCount": 33,
       "articleIds": [
         "auto-84abd1857de5dfd951d90dcf",
         "auto-6a43442645804206c3587c09",
