@@ -1,9 +1,381 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-02T07:55:27+00:00",
+  "generatedAt": "2026-11-03T07:46:12+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
+    {
+      "id": "auto-6e589e58ca383af5a408273e",
+      "sourceId": "ns17",
+      "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T06:19:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-ba43bcee6f2d70099ae747cd",
+      "sourceId": "ns17",
+      "title": "FlashProve: an open-source library for provable inference - Anthropic",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T05:25:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GMkRLdnh0RU5YakZxeWdIVms3QU9tQVpJdHN1MFJ6RFRGcWNpenFvdThnYmFhRmRrMVBZUWJCVmtkZHZ1dlQyX19kVVBYdGJZVHRLaTN1NzJLZXV1SVJkcUtpSDZMMm1lLWNYbWgtNA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-4487735958b9892fe132487c",
+      "sourceId": "ns17",
+      "title": "Progress on provable inference for large language models - Anthropic",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T04:43:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-a486f34e25856991209851c5",
+      "sourceId": "ns08",
+      "title": "Sign up - Shopify Partner Dashboard - Shopify",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T03:43:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkX2VHbi1uWlM1YzV2OFF1Umg3bGdWTU9MLThfNk9JUGM3dnZLWFRndHJrYUdpYUh4bGJTbXRwcGNjaGlqdUNBVjJISkM3X0xWVnVjSFdWWG9wVm9QWlRvS1VyR3luZw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-7cadf06b65e4ac08b97a42f0",
+      "sourceId": "ns17",
+      "title": "- Anthropic",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T02:16:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-e9b65ab245bd520dc9bbc3e8",
+      "sourceId": "ns13",
+      "title": "Boards Need Conflict to Make Better Decisions. Here’s What Holds Them Back. - Harvard Business Review",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T01:20:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSG00MjBhdXk2OU5haGR2R0FjSUYyX05kQXkyRTNUTHBBZ2JHVk1HeVQ2YUd4QjRyYTg4cEJvVTBvRjBXM2RLWm9yYkZyWEV0UVgzaGNqYWVmSjhCWUs2THNQb2MtX2hZTTZZcjdQb25qTmpKQmc4bVZUY1lKSGJIVjVGOHlrZjNraC1uUEFzNGtyRGk5Rkx6WnpvSko?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-4532ac2f9ca851d0d25480f9",
+      "sourceId": "ns08",
+      "title": "- Shopify",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T00:55:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRadkdIbDdkTHVFZ1psdE5zTkU4TUpSVjFWRTRrcVpPbVhkWmYzUlNvSVdZek1LU3J6VHk2ZTh6S0ktT1d2T2VnQjZHbHVFQzB5anhEbjlzT1dIeEJoZG05clZmd3RtSFRjMFFKdU51TjQyREw5X1BiLV8tNmNqMURVbFJDQjRzQXc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-43cf8dcb3f7e33fd19ad5163",
+      "sourceId": "ns08",
+      "title": "Adding product identifiers for shipments to the European Union - Shopify Help Center",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T00:21:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0tpRXJpX0dKcjJaYjZkUWVSLS1QblA2T0VndGhCQWJvV2dtMVNmcFVRRnhnYzRkYk9CQnQzMHV5WjBpZWdEeVNVZjY3ZlR6bG54YkRUT3VGaVFlR0dOalpTVWFwSkU0bTg3OEVRVzhuU1YwaW5Hdkx1WGc0R0g3YnoyeE9WeW8?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-b232f703509e1aab4eab6f85",
+      "sourceId": "ns13",
+      "title": "Why HR AI Needs Rules, Not Just Reasoning - Harvard Business Review",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T22:52:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZzBGb29BU0gzTzFoOWtqZjNubTJCZl81LVpWVloyZEVEVEt3dGRrN0w0aDJVa0ZhNno2M0VyaUZ2WW1rOHRiUUVtb0Z2blpjaV8yQ2E2V3VET3djWWRaVy1uWUdTbm8zR3E5cms3WmtyLWlRY0hzSnRaT2VKaE0?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-eba985d19bb6da898954597b",
+      "sourceId": "ns08",
+      "title": "Official Rules | Start for Reale with Alix Earle - Shopify",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T21:53:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BSG5LcWo5clBhckQ1NmptQ0ZHeWdyMEVFbEdtZE5DQ1VMb01XNlNGQnJ2X0dHS3dSS1FpeDQ1Y2xLUFE2T2RtWFhic0N3T3FyM0NiQ0Z1R0ZLUFdLWjIxQl9qNl8?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-c59e8b30c78260472b2dbfed",
+      "sourceId": "ns08",
+      "title": "Enter the Student Founder Search | Start for Reale - Shopify",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T20:03:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xcVZsemZDYmJ6cldQWFlEOGtsX3l0aU4wanZ2eHJxVU9MOWVXbnJPYzdHd0YyM1lYUi02RWx4MXFDS2ZaZWJTWWpkV2djRjZ3YXhlc2phTDU?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-bca108e4c77bd86b238b884f",
+      "sourceId": "ns16",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-0d297090385ad5a7245151aa",
+      "sourceId": "ns16",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-6b259478f8e81adf098a4f48",
+      "sourceId": "ns18",
+      "title": "The latest AI news we announced in October 2026 - blog.google",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:55:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzhIaGZmbzJ0NEFDSzlhcG93cXczNlNoTWtpYXFuWjR0MjBwRWppUGdKTjZSYUVrQXAyc0RQck1CQmZaMHg4XzNXRlpPOXlPYi04T2V5TllPYnFNQWc5b0w1UEhreGp1TGRZR05NWEVlX25sVzhsSEFUcVRjQzVQREhzRHVPVjlGTjl3?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-4f3c7d70d89fd284285295b4",
+      "sourceId": "ns09",
+      "title": "AI maturity in marketing: What the research reveals",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:50:05+00:00",
+      "url": "https://blog.hubspot.com/marketing/ai-maturity",
+      "summary": "AI maturity explains why 98% of marketing teams now use AI in some way, yet only 10% report transformational results, according to our 2026 State of AI in Marketing research . AI maturity measures how consistently a customer-facing team turns AI into measurable business outcomes, and it matters more than the number of tools or pilots you’ve launched.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-a4f4ad1864de3af5273251d7",
+      "sourceId": "ns17",
+      "title": "Anthropic in London: AI and Science - Anthropic",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:49:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QV0g3WHluSnFnU1Y2QWlHSkx5RTZwd25fZEhkM28wZ3U2S0pFczdhQUZBOHFibVh1N2kyUWIyMjdIVUtld0EyeDg3Q2cyNWZUQi1BMFBWTWE2bmJKYkdGS0xzNGdZeHFyVVVDa0QzaENYU0xSZXc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-79fb3198d15e693df46b3249",
+      "sourceId": "ns09",
+      "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:45:05+00:00",
+      "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+      "summary": "Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs. Semrush, and here’s the high-level takeaway if you’re trying to choose: Scrunch is a dedicated answer engine optimization (AEO) tool built to monitor how your brand shows up in AI answers, while Semrush folds AI visibility tracking into the SEO suite many teams already run.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-3b9b7b3d6a58c18921dfa975",
+      "sourceId": "ns13",
+      "title": "The “Human-in-the-Loop” Fallacy - Harvard Business Review",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:44:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLTW01UHlVSWdPTS1MZU5TTm56cW5XamMtX1h4YzJmN3BXZWdmM3YwNGFEbVpVVVdwLTA5c014b2gtb2pGcDZmak9nWVRnRklWSzBoWmZNRVlTV29rbDkxRXlNaw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-2b66f03e7cc354c3d319c17f",
+      "sourceId": "ns26",
+      "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study - Search Engine Land",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:15:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-ef23eee3177f2583fbf25d9f",
+      "sourceId": "ns18",
+      "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons. - blog.google",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:11:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUt4SEhrV2tsLXVFVFZXZHNEWVlQS0RTeElRaTBuLXNpTzlOdnVDelZQLWprdmdlbmdFeHA2Y1QzQ3hzRUpfNGhvU3pZOHF3NE5fWVNDYkNiMUdzdk84R2Rmd3VOSUkxZmFXN25pbjNQR2Q4bkFKY0g0ZGU0ekxIVGM5eHVhbHF4Q1BhLS15elkxeENJaV9yZ21OakpPYjdW?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-93262bab38b8a8cbc3889c7a",
+      "sourceId": "ns13",
+      "title": "When Cardiac Care Comes Closer by Bringing Clinical Decisions Within Reach - Harvard Business Review",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T17:07:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODZvUnJ3OUxwQlZlZnVFLTgtRktJZ1ZXdGpDVHljRjRRVm9LTFJOMlZsNFBOb3hwSl9kVDQxclRkX1JQc2FpRGNGZDdtaEdrNDBuNzlwRlJkMzlONkw0cHZuaHVxSldqVnh6N2RSYUNHMUN6Yl9GM0YtLTc3MGNHZXVQalpBaHZxSTRncmh6R3JuUnM4bjZkajdOV20temFmMU9OTEZUZGR1R2w4?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-49211dded7333248cfcf0845",
+      "sourceId": "ns26",
+      "title": "Beyond demand capture: Why performance marketers need brand marketing - Search Engine Land",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T16:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bjlHaWQ2X2U2bU84ZVlqbmVQLTRPalFzaXFoc0JVdjN4SURGSGFsQzZoc0tPZkE1NXktZGhyUndVVHhobl83QVRodWNDSVZZM1U2bGQ1ZTBDdmZEMkNQcWNibEF6OURodW9vRDNMWnRyZnVRS2ZLOUFJQTZVdw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-277870ffc8d71544c0465c13",
+      "sourceId": "ns16",
+      "title": "Scaling Git at OpenAI",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:30:00+00:00",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-69f08c49a1a0c4a898011390",
+      "sourceId": "ns21",
+      "title": "Why You Don’t Want Humans Doing Outbound Anymore",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:10:48+00:00",
+      "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore",
+      "summary": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered “insights” on buyer intent and AI efficiency … and shared none. It just listed their three product lines, and asked if I wanted to “benchmark” their software. The second email, sent... Continue Reading",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-f0fe98c6764916096dc80ed4",
+      "sourceId": "ns26",
+      "title": "Every AI follow-up question is another SEO opportunity - Search Engine Land",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wU1VqMG91U0NhZmJmNmEyZXUxX1dXYnFNN3NfZThYdmk2RlFneC1UcXdNdjl2eHZMYzFULTRwMFhOYUtDSWN3djlPbjFkbnlaVkRrQTBkZ1ZQcU5RWkMtYWhMZGI1ZVdxYzY5MnR1Q0l6eWg0M3RiX0wyZDZDdw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-5d33ed0c66ace544e65f6063",
+      "sourceId": "ns16",
+      "title": "Introducing the Grid Protectors Program",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:00:00+00:00",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-64f55735e50065c7935a8263",
+      "sourceId": "ns13",
+      "title": "Research: When Workers Adapt Their Resumes to Fit the Political Moment - Harvard Business Review",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T13:49:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlNjaDBnV2NBM1pVSlFZY01rcXEycmdMb2oxblBaSG8zbUtfRUVXUEUyLXlva0NoNHlsMVBObVlRZlltdHYxdzNSbmF5SDRWdDNyVjdOY28tSG0tNnVrVGN1M0ZOaU1nempBWHpvV3U1NUhGelBBVlY0dzJ5UXg1SkZ1ZHNsNk54ZXJJV1pHb1pZWkdvSHRYcg?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-699d9c655a82fce8b5d1f8a3",
+      "sourceId": "ns21",
+      "title": "When Growth Slows, Folks Start Wanting to Do the Crappy Things. Fight It.",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T13:27:44+00:00",
+      "url": "https://www.saastr.com/when-growth-slows-folks-start-wanting-to-do-the-crappy-things-fight-it",
+      "summary": "So when growth slows, the conversations change. Especially from your CRO. When growth slows, the conversations change. Especially from your CRO. You start to hear: A ton of talk about raising prices. A lot. There are good reasons to raise prices. You added a lot of value, the market moved, you were underpriced from day... Continue Reading",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-45be7c49a3279bf9e396fc7a",
+      "sourceId": "ns08",
+      "title": "I built a Shopify app to catch sale price issues before Black Friday — looking for feedback - Shopify Community",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T09:52:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONU5aVWNDQUgxT19Xal9NajNUYzlDNWlEN3FEdGpHTlZSc2pja0ktUHJKRGNrSjZkVXdaWmhVQjhYSm9KaUt1UkpueFRSSlpfR0hwWFNFaWlGSmx1Q25QOEpsWVpabFlQQV9INjdqRVVSbFV0RUtXdjJYR0E4d3NoNHNNdDlSWVl5aGhkYVRONDBXV0R5M1E1aG14d1R2U2RrZFdOZTF3SDRzck00WnR2RzJ3T0RsZ29NdTlic3ZCTjhfUkluVU9N?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-5a014341bc3fc0f1d8b6431c",
+      "sourceId": "ns16",
+      "title": "LifeVal",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T09:00:00+00:00",
+      "url": "https://openai.com/index/lifeval",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-6f10825eba75240b4acfda56",
+      "sourceId": "ns08",
+      "title": "Shopify CSV import repair — fixed $25, free file assessment first - Shopify Community",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T06:55:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk5vZDFLb0JmVm0yQWFIZVBUdDduaUs1VXBKRVE5V3FxaU9VSDVPeUZsRXBoNzFhUnYxcmxtdTctamo3aWV3NEdsazlhQWptUUdkaURqUHlvNUc1cFhPYWhSSFRyRUF6OWwwZC1rRVBfY0pRRHZhTERvUm9LbGg4ZUVncUtETGVzQ25HWGMxWFZKZU1hZWs2R0dPQ2xCdTkxUVE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
     {
       "id": "auto-5cd98958a74359aea5b9bbd7",
       "sourceId": "ns08",
@@ -17,40 +389,28 @@
       "provider": "Google News RSS"
     },
     {
-      "id": "auto-a486f34e25856991209851c5",
-      "sourceId": "ns08",
-      "title": "Sign up - Shopify Partner Dashboard - Shopify",
+      "id": "auto-945f879ef3a469b4aebe760c",
+      "sourceId": "ns16",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "date": "2026-11-02",
-      "publishedAt": "2026-11-02T03:50:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkX2VHbi1uWlM1YzV2OFF1Umg3bGdWTU9MLThfNk9JUGM3dnZLWFRndHJrYUdpYUh4bGJTbXRwcGNjaGlqdUNBVjJISkM3X0xWVnVjSFdWWG9wVm9QWlRvS1VyR3luZw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "publishedAt": "2026-11-02T00:00:00+00:00",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
-      "provider": "Google News RSS"
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
-      "id": "auto-4532ac2f9ca851d0d25480f9",
-      "sourceId": "ns08",
-      "title": "- Shopify",
-      "date": "2026-11-01",
-      "publishedAt": "2026-11-01T23:41:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRadkdIbDdkTHVFZ1psdE5zTkU4TUpSVjFWRTRrcVpPbVhkWmYzUlNvSVdZek1LU3J6VHk2ZTh6S0ktT1d2T2VnQjZHbHVFQzB5anhEbjlzT1dIeEJoZG05clZmd3RtSFRjMFFKdU51TjQyREw5X1BiLV8tNmNqMURVbFJDQjRzQXc?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "id": "auto-4094d4340f9e66f9e2fcbdf5",
+      "sourceId": "ns16",
+      "title": "Qodo builds context into AI code review with Codex",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T00:00:00+00:00",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-6e589e58ca383af5a408273e",
-      "sourceId": "ns17",
-      "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
-      "date": "2026-11-01",
-      "publishedAt": "2026-11-01T23:04:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
       "id": "auto-9738a4ba0b275892104c206a",
@@ -107,18 +467,6 @@
       "date": "2026-11-01",
       "publishedAt": "2026-11-01T03:47:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmU0FyRzVjajZvSEpWamE3Undwb2EwcjNPb1JXZUtWeGVlUFdRS0xBLXoteEpzMk5ZQ2ZfV0psMFJEeGdmSFNhWlFyRWNsd1cwbUJuNQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-7cadf06b65e4ac08b97a42f0",
-      "sourceId": "ns17",
-      "title": "- Anthropic",
-      "date": "2026-11-01",
-      "publishedAt": "2026-11-01T02:16:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -323,18 +671,6 @@
       "date": "2026-10-30",
       "publishedAt": "2026-10-30T20:01:26+00:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1La3RaYjJoUk1QQkNPeUNuS2JDSWl5UmYzRnBFclhsdGwzVXBjdjBaN2xZMktuVmtqT1pUMXZuTGpOdDh3NUJ6R0ZnV0lsLUVZUXk0UnlJTlp4bUQxNEQ1YVdrTHFCME1DU0tPeGMwWERWNUVqdmNtcXRBUXhLQQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-43cf8dcb3f7e33fd19ad5163",
-      "sourceId": "ns08",
-      "title": "Adding product identifiers for shipments to the European Union - Shopify Help Center",
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T19:18:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0tpRXJpX0dKcjJaYjZkUWVSLS1QblA2T0VndGhCQWJvV2dtMVNmcFVRRnhnYzRkYk9CQnQzMHV5WjBpZWdEeVNVZjY3ZlR6bG54YkRUT3VGaVFlR0dOalpTVWFwSkU0bTg3OEVRVzhuU1YwaW5Hdkx1WGc0R0g3YnoyeE9WeW8?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -725,6 +1061,30 @@
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
+      "id": "auto-ae0510cc2640954879195f12",
+      "sourceId": "ns15",
+      "title": "Why Leaders Should Eat Last - Yahoo Finance",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUklEb0x0NTBRcnlkTjltX3laSWtySjNTWG1lcmtsU252TDlqSXJyV2VoMGYyWVFIblZKZF9PV2t5V2NWdHRuTnBJd2V5SU5kb2ZNa1g0MzRCYXdXaDA4dVVRV1VSY3YzSFh6NWhPX0VuT19KRzUxc0VWMXZyZEd1S3lMSnc1QVAxOGVCbDlR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-81f35a5c8249a9547983014e",
+      "sourceId": "ns19",
+      "title": "What Is Access Control? - Coursera",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T03:06:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50ZlM1VVZvU091dTA0ZUQyNXdWQXRCU3l1Qy1yT2QzX3RjdWFHenpjV1dnVS1McXlXaTd6VjBUTlMwOVl2QjRkQjR3TVlVaF9ISUN6T2E0ZXNHTU5GRlBv?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-b61b37f4b6397fb613040d3b",
       "sourceId": "ns19",
       "title": "How to Write a 30-60-90 Day Plan (+ Template) - Coursera",
@@ -761,12 +1121,36 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-fabe983be32195f49a86716e",
+      "sourceId": "ns19",
+      "title": "What Does a Technical Sales Engineer Do? Your 2026 Guide - Coursera",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T00:41:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UTGloM2I0dTlHRTYwMEdVRm5YYkVudlNPSmRCYXpCdjllR0NPaWxwRmJnd2FXc09uSlktUDk2TnB0dkhadW8yZXZPN1RRX1Mza0s2aWpMNlk0Q3hrUk1hX1ctdVFnQnFQN3c?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-2a093f52990f5e82b83990aa",
       "sourceId": "ns19",
       "title": "What Is a Tax Advisor? Duties, Pay, and How to Become One - Coursera",
       "date": "2026-10-30",
       "publishedAt": "2026-10-30T00:37:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzeEp0ZU9pUEkwc2Voc3EwRzk0TWVqeURNRXp2UjJrUjIwYlMtV3NFdEhGeU5YdTFEM2Zwb3RIbjQzUjRuSkZTeDl2TG0xbUtZS0xoZEx2bzQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-57362f3dd0e74c28f1b94239",
+      "sourceId": "ns19",
+      "title": "What Is the SPHR, and Is It Right for You? - Coursera",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T00:26:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54TWxaNS1feUNjc29hUVN1eXluX01Kd0ZHM0hLM3FsTjNBc0RoYXRfOGRDZE91YmZzb0xCb2tadndndHZFWXN5VWlfbDI4VkE?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -845,6 +1229,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-1a710695bc9f6771191f7ecf",
+      "sourceId": "ns19",
+      "title": "How to Succeed in a Panel Interview: 5 Tips to Know in 2026 - Coursera",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T22:31:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aelZfLVZUT1JvUEhHX2dNcE9tWW8zdDUxblQ5bHFfNmxaSl9TM2I5clB1eThSQXZKd1JWc29tZnRqX3dJSl9OcHhPQ25vc0ZLVzVSZWR0alNPWi1RVnc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-5c06a32a8a74c26e8824576a",
       "sourceId": "ns19",
       "title": "NLP vs. Machine Learning: What's the Difference? - Coursera",
@@ -863,6 +1259,18 @@
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T22:14:57+00:00",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGa0lSdkx6VWx6b0xaLUt3ZkRFeG5kOEhsYUgzR3JpTjIyWU44QS1OUFQ3TVNYeHk5NFFMRUVGbURmcm1pazk5SV9ac3VRUjVXT1VPTnJfNEo1SW80eTRZd3hMYlRKUGtxOWdoMA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-9678820701642fef75b763df",
+      "sourceId": "ns19",
+      "title": "Micromanagement Meaning and How to Deal With It - Coursera",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T22:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TbXVBZlN3NC1mTUJQdlRBRWxQOW1qd0QxMzIwdGIxMTBMS3BkdU1GN3JNa2VSOU40VnRMbnJhNF9XSzljMExra0dST3dkR0VTdHc3ZGRGSTJXcmwzelFz?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -917,6 +1325,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-72497c02ae4ee47c45398d21",
+      "sourceId": "ns19",
+      "title": "What Is Zero-Shot Learning? - Coursera",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:48:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1taGpOVjN2c2V3LUdkaGJjdnlwOFZWbUVxal9OWGs2N3hzcXhqNTAzMW55TGNjX2J3TnpzWFlaVHZnekgyUnJrUFVYVTNtUFl0aHltZV9Qelk3TVpodUNEVlRlQlRJYkQxdnIyMw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-be20dff01839384f5ed84a7f",
       "sourceId": "ns26",
       "title": "Google AI opt-out test finds unexpected drop in organic clicks - Search Engine Land",
@@ -963,6 +1383,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-300da106c1411209dd9422f3",
+      "sourceId": "ns04",
+      "title": "REST API Overview - Vitally Help Center",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:55:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdXRYaUFISFBLTnZUMmV6Q2s2bnFiSS01MEt5VVg5cFF6eTg5Q2JDTFhfbTVLRDJDaVZ0ajVnTUg1cmVEbGVTX0h2enBPVGZNaEFIX25oRF9LNVpvbC1OZHB1M0dONFBmdFlZdlRR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-a1328631fae820285bbcdcd5",
@@ -1335,18 +1767,6 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-a4f4ad1864de3af5273251d7",
-      "sourceId": "ns17",
-      "title": "Anthropic in London: AI and Science - Anthropic",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T07:04:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QV0g3WHluSnFnU1Y2QWlHSkx5RTZwd25fZEhkM28wZ3U2S0pFczdhQUZBOHFibVh1N2kyUWIyMjdIVUtld0EyeDg3Q2cyNWZUQi1BMFBWTWE2bmJKYkdGS0xzNGdZeHFyVVVDa0QzaENYU0xSZXc?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
     },
     {
       "id": "auto-d948735545c20cf3072195db",
@@ -2703,426 +3123,6 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-a9c488820a62ac4adcd9d66c",
-      "sourceId": "ns16",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T22:00:00+00:00",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-a47e68dfce9f962cbf89faee",
-      "sourceId": "ns19",
-      "title": "Mixture of Experts (MoE) Explained: What It Is, How It Works, and Why It Matters in AI - Coursera",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HcDUzXzVXVWtRa0RVOXZBZG5WVDI3UzdhVjJZZnpMTjA3LWhLX0p3Ym5rczFsb251MWZNMEU1dUNNaGhoNWVSai10bjQtemNrbUZJa1B0X3F2MHc5RWNTOFpn?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-f2dd9452a5e7ae6b3380f674",
-      "sourceId": "ns20",
-      "title": "Leadership Live with Dorie Clark: Leadership 2030 and Beyond - LinkedIn",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:50:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN043OFRRYWhBUURqT0tVY2d4UmtJTGJ2c2kwN0JlNHpCYi1QcDdjNWpLWVdlYjF5SEdNczhpckQ1Mmc1YVRKVTBocVFCaEFqaElnRVc5b2tvVjRweXQxRWNRSm1jVjZqR1dIX0NETkI1LU9leGQ0NnRPRWVGazVjUEVfWnJjRk1OeGRnYkZYLWxHc1hmVXZvTQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3a3d4f8138df4759bf6a9be2",
-      "sourceId": "ns20",
-      "title": "Malware Defence: Network Protection, Endpoint Security, EDR, and XDR - LinkedIn",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:48:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1VXb3NidGQ0a1lVRlpFRGQtcTlUNmRORVdVaWFhLXVscjhjeXNOMWFzMDhkTjI2WUN4bFhUR3JNMmdad0VHNFh6Vzh3TFdqU0h1Zl9JQllvYVZzTlBsTVJ2SWVMc1lfZ19sdjhWTDRpRnhXczJsQzMwY04zanhtRDViUnFiNWd6bjJEZV9hLUh1endCczc3SE9IN3lZZkE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-21e5cfeef4c0c1755ee3f473",
-      "sourceId": "ns20",
-      "title": "Introduction to Network Security: Principles, Standards, and 5G Solutions - LinkedIn",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:48:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUdqQzkzcFlMdDZhbFZzOVdSRldYV0tvU3ZkaWo3V3JqSk5aclhhaEZQdndIbmswMXFiTC1QeXlYRWI0aEVmZzd2ZHhNajFtbWU2eFR5a1hUSWxrZUxyQTdqaEQzLWFOaWI5Z1pPYWk4OXVlSDZoWl9SNklNd3NPbERUQ0dNUWNkZHZBTHNSa1BxVWdQZFBxZFNMYjFaOUE1OGlvVTh4bw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-bec5eb35f611e8adfb1894bc",
-      "sourceId": "ns20",
-      "title": "Hands-On Synthetic Data for AI Innovation - LinkedIn",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:48:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0RwdDZBelJIQVpoQ3hOS2ljSlRfTnZLSlFQbVJCQlNFVDNCZmVpRTRMVy1DUzBGWm4tWU9GZFd2RGJXa2FkZ0ZldXBIbHBrVV9tMjZxajZkbVNJRDV1UDZReXphbmx6d0ZiUzJYeFhpVHcxLWVrUUFFTW5rN3FqZVNIeXFIVm43aHFKaDA5TzVPYUlfNE9YMGxONlV4cGgwbk5yT3RPdnZMeDAzZllmSFFla2dwV1N3WHYxa1NPWDkzSkZRcHpsSzhraHJTTG54LUR6Ni1wbndaOEE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-b37cd636268cf2d51337a62c",
-      "sourceId": "ns10",
-      "title": "Kustomer Study Reveals Gap Between Belief and Proof in Customer Experience Revenue Impact - CustomerThink",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:47:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXdfM3NXVzFvS3lWMWFVNk5jMmtqRC1FQjVORWNveUtlSUo5TjRfcjZmbl9EOUpYbndMSXJ5dWpKbjBXNkRFTHdXbzcxSjVvemxJNF83U0U4bDVRMW1KUVJHMjBxeDlwcnZDNjdtRHVRcE1ab3RaLWhWM2R1eUswYXBsQnFYd00tOXJrNWEyOE12SHJpYlNIUzRSbDktbWJjM3BpZU5SNjA0ZXNjUGZMeWhlMF9MSjA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3e8293cd5e6acf700cf13b37",
-      "sourceId": "ns19",
-      "title": "Docker Compose: What It Is, How It Works, How to Install, and Why Use It - Coursera",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:43:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vNW1UMjZoSHFER0x6UDY4UVVEVEFhS0tJYkZGcWdyNmdaaE1WSldPMjNDeS1FVnpLQ09YTU9rdDg4dTVzQTlWVzBRaldKa0RxMTh5MWlHMVEyZWR1?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-20e6c453cffe92284c2ea869",
-      "sourceId": "ns19",
-      "title": "Dijkstra's Algorithm: Definition, How It Works, and Examples - Coursera",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T19:24:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4bjFPdVhaUnlQMnhNT1RxLWVaYkV1YnVrMXp5UjQ3ZDg2M2NfdUVhdHpSaDIzbENSeFB1TnNTMkJpS3gxMDd1TTZGcE5sQ25LUUZTN0Q0VHFSaDVIX0N0alhLMA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-1f09618f1b0c8c24e2e27473",
-      "sourceId": "ns19",
-      "title": "Business Systems Analyst Salary Guide - Coursera",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T18:52:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KR3ZkRW9vYnZVeG51RFZIRzA5aTkzdmJBYlZRU2dhcEZfYmd3YkxpQmthaXg4cndJZk9oRG1HZU5DNW1LdmFhSE5BLV9XRlJqVnFRaWJudVN4Z1BZZkw1SEM0MXBhOF9TcDNiejN4SF81QkE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-b7e1dc6bbdd0fcd6dd59e886",
-      "sourceId": "ns10",
-      "title": "Brandweek 2026: Is Retention the Real Problem in Marketing? ft. Doug Zarkin - ADWEEK",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T16:09:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWJGTDJpbEFuWEhoWGpIaU40blF0UU03VW5haUZ5NmRyNXFoTUxkdWNUT1lycVdUek5JdlE4RXhOa2RDempkc0JGeWE0RXcwc2JjMmRiMVhKb2YyZDkwNUtfQnNQVE03MmJPR3F3dC1OM1lsWWJKeVVrejA4QUx5Tmkxdk1HNnhHampTdkVUOFhPSHp5U2R5YXYyNHZ4TkRmcU9qc2k2VFg5X3NVV196a1BB?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-f3a4c115898f8e45656c60ce",
-      "sourceId": "ns21",
-      "title": "5 Interesting Learnings from Anthropic’s S-1 at $16.3 Billion in Half-Year Revenue: 900% NRR, $6.6M in Revenue Per Employee, and a 10% Adjusted Operating Margin",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T14:37:47+00:00",
-      "url": "https://www.saastr.com/5-interesting-learnings-from-anthropics-s-1-at-16-3-billion-in-half-year-revenue-900-nrr-6-6m-in-revenue-per-employee-and-a-10-adjusted-operating-margin",
-      "summary": "Anthropic filed its S-1 this morning. It plans to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT,” and the share count and price range haven’t been set yet. Largest IPOs in History, by Deal Size 1. Anthropic (2026) ~$100.0B2. SpaceX (2026) $75.0B3. SK Hynix (2026) $26.5B4. Saudi... Continue Reading",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-8eb6001a836a6e50b8fb133e",
-      "sourceId": "ns16",
-      "title": "Working with academic communities to build scientific understanding",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T14:30:00+00:00",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-ca0217236320d064cc9b5089",
-      "sourceId": "ns21",
-      "title": "The Simplest, Highest-ROI Place to Put an AI Agent Is Your Contact Me Form: 614 Meetings, $2M+ Closed, and 71% of a Month’s Deals",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T14:13:08+00:00",
-      "url": "https://www.saastr.com/the-simplest-highest-roi-place-to-put-an-ai-agent-is-your-contact-me-form-614-meetings-1m-closed-and-71-of-a-months-deals",
-      "summary": "If you’re trying to figure out where to deploy your first real AI agent in go-to-market, start with the most boring page on your website. The Contact Me form. No one should wait days to hear back from a 21-year-old human whose job is to qualify them. And yet that’s still how most B2B companies... Continue Reading",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-effe493ade1ecdf0569eb7b1",
-      "sourceId": "ns21",
-      "title": "A Record 8,625 Startups Raised Their First Venture Round This Year. Smaller VCs Now Have to Find Founders Before They Found Anything.",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T14:10:24+00:00",
-      "url": "https://www.saastr.com/a-record-8625-startups-raised-their-first-venture-round-this-year-smaller-vcs-now-have-to-find-founders-before-they-found-anything",
-      "summary": "Through Q3 2026, an estimated 8,625 US startups closed their first-ever venture financing per Pitchbook. That already beats 2021’s full-year record of 8,507, with a quarter still to go. 2025 also came close to the 2021 record, so this is two near-record years in a row. At the current pace, 2026 lands around 11,500 first-time... Continue Reading",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-840a11ca016de76af81908b5",
-      "sourceId": "ns04",
-      "title": "AI Meeting Recorder - Vitally Help Center",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T14:09:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OSWZCYWZMOHVmaERoZ2lTZmxvRVJmTE55UFpKR3BLUE5DTGs4a2p0WFJUZnh0dFJyMFJoWjNhYjZNa1dHN094a3VEY2s5aGFzNHhXVGVuN3ZYcUpJblBjTnc4eHUxR1k0QnhHRU04a3dEQQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-f265e0e217458a69907b92b9",
-      "sourceId": "ns17",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering - Anthropic",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T13:11:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-ff1855fdc4501e71d8d9bf54",
-      "sourceId": "ns09",
-      "title": "How to create Claude skills: What your team actually needs",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T12:45:04+00:00",
-      "url": "https://blog.hubspot.com/marketing/create-claude-skills",
-      "summary": "Claude skills help teams save repeatable workflows as instructions that apply automatically — without pasting a long prompt into every chat. A team writes the workflow once, and Claude applies the skill every time.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-71db857cc0a9b0c17f19b4a9",
-      "sourceId": "ns10",
-      "title": "Customer Experience Guest Speaker | Keynote Scott Steinberg - https://www.futuristsspeakers.com/",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T12:23:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3RkX3RUWjkta2FybkxzcG50RTd1Y2FDMFNqdjVyT0c3bGtOck9WVm1HaW1GX0RSYUIyVXEtdnhBa0FlZ25EYmtjS1cyRWFDNmcyRXFtRlh6T3B0azRtTW5XdFJ3bDB2eTV6czFXa3d3R2MtUE9DVFJrR0pfYUhaVFNkYm1KQQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-2c29456e4f819aa372de227c",
-      "sourceId": "ns17",
-      "title": "Preclinical Characterization of a Bispecific Bridging Antibody for the Treatment of LAMA2-Related Congenital Muscular Dystrophy - Anthropic",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbEpLOHhyMm54RUg2d19Mb1pXNkpFZnlGeGFZa1psREEwUTBuT1FONGlaWnN4VWRVNlpTYUhpMlBrZTYzSFNMZ1FEelFJVFBxdnhyZGl4OGppb01ScXFrRjEwRUVtSW1hLXRYRXp4bmVfNm1SLUlYLU9jekk0LU0?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-20014fc5d9fd24143ba35540",
-      "sourceId": "ns19",
-      "title": "What Is the Purpose of the Purple Team? - Coursera",
-      "date": "2026-10-25",
-      "publishedAt": "2026-10-25T00:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15YzEwTjRTTXVKbGQxVW9nNWNDSWJzd2FmYUtTazNEZWxWbVhUZllIdFQ4U1hYd3FWMVI1TjlfTkpaMHl1ZzEzSDBLMnFTVEZ5UTdoYlRsTUs?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-ebb1b05657a896035363aa3d",
-      "sourceId": "ns19",
-      "title": "Dropout in Neural Networks: Enhancing Model Robustness - Coursera",
-      "date": "2026-10-25",
-      "publishedAt": "2026-10-25T00:12:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydTFJc3pGQkRMUkVnM0M3cGlMMVNCOW01cFFNeTdLc3pXblBHbWhMTEpJZmU0eU55NEFMT2tzOWM4X2l5U2Z5ZjhSVWhCNU5RSlZqY3RsaVdvLVRhTW43NjRpWm96SDQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-1824a70510414a0a70f07670",
-      "sourceId": "ns19",
-      "title": "What Is Social Influence? - Coursera",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T22:50:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVRUZWOHRWdVBVX3NqNTNIMG5iUm5CZXNBbmtRMnZjMXExVHd2MDZuamhMdFB2UFQxOFp2M2ZrbDhjZUQ5RWJvWTFvSV96bHBiMVFqUmtyWEtZbkM3ZjZB?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-a62e6c9c45fc36157e47dd00",
-      "sourceId": "ns19",
-      "title": "What Is a Social Media Marketer? And How to Become One - Coursera",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T22:46:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xLVJrdFlmSFJ6SldGQ0w3cWYwZnBVSkJpeEUzZGF2WC1VTl9jQ0pSZ0R5SWtlNTh0cldyeHU4eU0tX0hnMHpqN0RWVC1qZGVVTG54cVh5RDRXdkllQk5OcUhQUG9MQQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-2c5fdc275ca6ba0dca951e4d",
-      "sourceId": "ns19",
-      "title": "Starting a New Job: 18 Tips for Early and Ongoing Success - Coursera",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T22:35:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Fckp4eXRxN0ltV0pOS1VveUVXZ0Q1bXRWdGZzSmx0dXZfMHRaYUc3dkl0RTFUcWdPV2Z2bi16cnNhcll1Qjl6R21mUGQwa2JMN3lEUTNzRW83aUxkeXlxQzhn?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-dac496c5b63088df0211c992",
-      "sourceId": "ns19",
-      "title": "How to Improve Data Analysis Skills at Any Level of Experience - Coursera",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T22:28:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2bmtUcjNGWnRWempnRUVkQTZBLUJNRUpSN3k0V2huUTBqUG9pUjd4TjJaM2FwOHJlRjZHTjU2RzFOUFdvZ0VtWlB3ZmQ4dGZKZGJWRUJOd1UxTTV2WjJmQUowTFVwVmZmMlItMkJudmZUY2xzUkpXWQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3800096ece882c3af5a96201",
-      "sourceId": "ns19",
-      "title": "Figma vs. Sketch vs. Adobe XD: Which Design Tool Is Right for You? - Coursera",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T21:13:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKd3NUNWZwNzdRWHJlc3R0LWdIUjhIN1dTVmVWcjl4V1RxdktTVFhGWTdRdkp1c2w5Q0FaRElmT1gwSHVBVTRuZFdzUWFrUnNJN0FtYzQzamJZcE1HeFpMTDFBZENvMjJ1RllyWmRR?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-e9562b2b600fe166adbddd81",
-      "sourceId": "ns19",
-      "title": "What Is an Empathy Map? - Coursera",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T17:23:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EU0daSGN4QXFvbE9tSGhRQnFCNlQ1QjJHdkY2UGxCQTFTd1B6X0VRcGgxMkVHVloxQUIxUVZrQkR3VE4tVFR5OHVTU1JEUUJLNGdsNm0yTlhXTkp3S2NqU3VwVQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-2bf4b350100ef63862cfeb0c",
-      "sourceId": "ns07",
-      "title": "Ask your AI agent about your data - Kissmetrics",
-      "date": "2026-10-24",
-      "publishedAt": "2026-10-24T01:43:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mZUZDOWRVcE5ja2QyNFZRd1FTTk56NzdTbmhPQ2x6ZllqQktRSktZVUU2OElzRHhoenFNR2xvN2NOSVJ2U2UxMHBqNmxZZw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-216068af4defc27c7a33d5b7",
-      "sourceId": "ns19",
-      "title": "What Is an Associate Degree? Requirements, Costs, and More - Coursera",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T22:36:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2FJUEF5WU1OZjJvS0tvQmZYY0JWYWFFUVFtS0RPNVhjRlJqZnVILUpoNDlNZ1FWbTJFVnlyMktwdXVhUml5VUVsZ2VYcmtvcXBBeGI1Z3pHSzNoVjFpUXBrWDlSNWFHbVVmWFo0cXRFRUEzU0IxamdreVV4Q2s2NnpzZ2hSV0ZNd2h4b0JB?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-398ab940d155c1eb55c132b5",
-      "sourceId": "ns07",
-      "title": "Lead generation analytics: see which campaigns bring leads that close - Kissmetrics",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T22:23:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82dTVvbWdNa1ZJQTQzNDVTYUxLemlpYTRLd0R5R014Rk5UZlV4VjBOLTJrNUtvTUc4TVFqM25zVGZhU0o5?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-6dd7a7fa1979aef97a624754",
-      "sourceId": "ns04",
-      "title": "Amplitude - Vitally Help Center",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T22:04:52+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xYVRRZmJDVE9HRWNubXk2blE5N2VIV3N6cUQtam9IdW5QMmNydEdXTGJ0SlVTbHlYQ3RhcFg4UV9RTGhSQ05HTms5M0xJaWw4VjdNQnh5cWIzcEtmN2FGb3dEQQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-19390d35879497da3612e7fd",
-      "sourceId": "ns20",
-      "title": "LinkedIn Premium Company Page Plus and Pro: Grow Your Brand Influence - LinkedIn",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T18:26:19+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbE9UT2tnRjVnMm9pREtSbjFlandiRjB2NWlRWlRPWEFWTnFCeHNwZ1A1dzFmRmRtemFXVWM3NHNLX2hOVlZxdTBJUDhodkZ5d0hNSTIzQzBWRjRrbTJmSlExVGo5S19mU3gzNnhVcGNkX0lkSGkxUlRZX3I5X1JkdkVlOHExTVpNV1d6STF5T1F1TmI5cWlfMmQyVXVOMnM0U0RTTA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-456639082803c9eab16f1277",
-      "sourceId": "ns09",
-      "title": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T16:10:03+00:00",
-      "url": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
-      "summary": "Profound and Bluefish AI both help marketing teams measure how brands appear in AI-generated answers, including visibility, citations, and competitive presence. Profound and Bluefish AI differ in their approach to engine coverage, prompt controls, data capture, reporting, and how insights translate into action.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-854184ce0c87e45d33e0c1be",
-      "sourceId": "ns09",
-      "title": "How to identify content gaps for AI visibility",
-      "date": "2026-10-23",
-      "publishedAt": "2026-10-23T15:55:04+00:00",
-      "url": "https://blog.hubspot.com/marketing/ai-content-gaps",
-      "summary": "Learning how to identify content gaps for AI visibility starts with a question that traditional content gap analysis doesn’t always answer: where could a brand contribute something useful to an AI-generated answer, but isn’t being mentioned or cited?",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
     }
   ],
   "sources": [
@@ -3401,7 +3401,7 @@
     {
       "id": "ns35",
       "name": "Microsoft Advertising Blog",
-      "count": 4,
+      "count": 5,
       "status": "ok",
       "provider": "Google News RSS",
       "message": ""
@@ -3438,55 +3438,109 @@
   "dailyDigest": {
     "mode": "headlines",
     "headline": "Günün kaynaklı okuma özeti",
-    "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: SaaS ve Growth.",
+    "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: E-ticaret ve CRM.",
     "sections": [
+      {
+        "category": "E-ticaret ve CRM",
+        "count": 3,
+        "overview": "3 seçilmiş başlık"
+      },
+      {
+        "category": "Yapay Zekâ",
+        "count": 3,
+        "overview": "3 seçilmiş başlık"
+      },
       {
         "category": "SaaS ve Growth",
         "count": 2,
         "overview": "2 seçilmiş başlık"
       },
       {
-        "category": "E-ticaret ve CRM",
+        "category": "Liderlik ve Davranış",
         "count": 2,
         "overview": "2 seçilmiş başlık"
-      },
-      {
-        "category": "Yapay Zekâ",
-        "count": 1,
-        "overview": "1 seçilmiş başlık"
-      },
-      {
-        "category": "Customer Success ve CX",
-        "count": 1,
-        "overview": "1 seçilmiş başlık"
       }
     ],
     "cards": [
       {
-        "id": "auto-53002b75f9b058959af9126e",
-        "source": "SaaStr Podcast",
-        "category": "SaaS ve Growth",
-        "title": "Our Core Vendor Was Down for 24 Hours. Our AI Agent Replaced Them Before They Came Back Up.",
-        "summary": "The other day one of the core products we run SaaStr AI on went down the entire day. Not degraded. Down. For the entire day. Every screen in the app showed a large “INTERNAL ERROR.” The API returned the same thing, which meant eve",
-        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-        "basis": "publisher_excerpt"
-      },
-      {
-        "id": "auto-9738a4ba0b275892104c206a",
-        "source": "SaaStr Podcast",
-        "category": "SaaS ve Growth",
-        "title": "Jason’s Takes on This Week’s 20VC: Anthropic’s S-1, Microsoft’s 27% Buyout, and My 100-Day Rule",
-        "summary": "What founders should do differently after Anthropic’s S-1, Microsoft’s buyout offer, Cloudflare’s 20% cut, and a Qwen model trying to reach a server in Beijing Every Thursday, Harry, Rory and I go through the week’s news on 20VC x",
-        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-        "basis": "publisher_excerpt"
-      },
-      {
-        "id": "auto-5cd98958a74359aea5b9bbd7",
-        "source": "Shopify Blog",
+        "id": "auto-4f3c7d70d89fd284285295b4",
+        "source": "HubSpot Blog",
         "category": "E-ticaret ve CRM",
-        "title": "- Shopify themes",
-        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "title": "AI maturity in marketing: What the research reveals",
+        "summary": "AI maturity explains why 98% of marketing teams now use AI in some way, yet only 10% report transformational results, according to our 2026 State of AI in Marketing research . AI maturity measures how consistently a customer-facin",
         "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-79fb3198d15e693df46b3249",
+        "source": "HubSpot Blog",
+        "category": "E-ticaret ve CRM",
+        "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+        "summary": "Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs. Semrush, and here’s the high-level takeaway if you’re trying to choose: Scrunch is a dedicated answer engine o",
+        "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-bca108e4c77bd86b238b884f",
+        "source": "OpenAI",
+        "category": "Yapay Zekâ",
+        "title": "Rewarding defenders with bigger bug bounties",
+        "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-0d297090385ad5a7245151aa",
+        "source": "OpenAI",
+        "category": "Yapay Zekâ",
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-699d9c655a82fce8b5d1f8a3",
+        "source": "SaaStr Podcast",
+        "category": "SaaS ve Growth",
+        "title": "When Growth Slows, Folks Start Wanting to Do the Crappy Things. Fight It.",
+        "summary": "So when growth slows, the conversations change. Especially from your CRO. When growth slows, the conversations change. Especially from your CRO. You start to hear: A ton of talk about raising prices. A lot. There are good reasons ",
+        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-b232f703509e1aab4eab6f85",
+        "source": "Harvard Business Review",
+        "category": "Liderlik ve Davranış",
+        "title": "Why HR AI Needs Rules, Not Just Reasoning - Harvard Business Review",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-6b259478f8e81adf098a4f48",
+        "source": "Google AI",
+        "category": "Yapay Zekâ",
+        "title": "The latest AI news we announced in October 2026 - blog.google",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-69f08c49a1a0c4a898011390",
+        "source": "SaaStr Podcast",
+        "category": "SaaS ve Growth",
+        "title": "Why You Don’t Want Humans Doing Outbound Anymore",
+        "summary": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered “insights” on buyer intent and AI efficiency … and shared none. It just listed their three product lin",
+        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+        "basis": "publisher_excerpt"
+      },
+      {
+        "id": "auto-e9b65ab245bd520dc9bbc3e8",
+        "source": "Harvard Business Review",
+        "category": "Liderlik ve Davranış",
+        "title": "Boards Need Conflict to Make Better Decisions. Here’s What Holds Them Back. - Harvard Business Review",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
         "basis": "title_only"
       },
       {
@@ -3497,42 +3551,165 @@
         "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
         "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
         "basis": "title_only"
-      },
-      {
-        "id": "auto-6e589e58ca383af5a408273e",
-        "source": "Anthropic",
-        "category": "Yapay Zekâ",
-        "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
-        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
-        "basis": "title_only"
-      },
-      {
-        "id": "auto-a162ff2391ff556e9a0b480b",
-        "source": "Customer Experience (CX)",
-        "category": "Customer Success ve CX",
-        "title": "What Are Customer Retention Strategies? Customer Retention Strategies In A Nutshell - FourWeekMBA",
-        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-        "relevance": "Konu, takip ettiğin Customer Success ve CX alanıyla ilgili.",
-        "basis": "title_only"
       }
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
-    "date": "2026-11-02",
-    "generatedAt": "2026-11-02T07:56:07+00:00",
+    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T07:47:06+00:00",
     "scope": "last24h",
-    "poolCount": 8,
+    "poolCount": 30,
     "articleIds": [
-      "auto-53002b75f9b058959af9126e",
-      "auto-9738a4ba0b275892104c206a",
-      "auto-5cd98958a74359aea5b9bbd7",
-      "auto-4532ac2f9ca851d0d25480f9",
-      "auto-6e589e58ca383af5a408273e",
-      "auto-a162ff2391ff556e9a0b480b"
+      "auto-4f3c7d70d89fd284285295b4",
+      "auto-79fb3198d15e693df46b3249",
+      "auto-bca108e4c77bd86b238b884f",
+      "auto-0d297090385ad5a7245151aa",
+      "auto-699d9c655a82fce8b5d1f8a3",
+      "auto-b232f703509e1aab4eab6f85",
+      "auto-6b259478f8e81adf098a4f48",
+      "auto-69f08c49a1a0c4a898011390",
+      "auto-e9b65ab245bd520dc9bbc3e8",
+      "auto-4532ac2f9ca851d0d25480f9"
     ],
-    "selectedCount": 6
+    "selectedCount": 10
   },
   "digestHistory": [
+    {
+      "mode": "headlines",
+      "headline": "Günün kaynaklı okuma özeti",
+      "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: E-ticaret ve CRM.",
+      "sections": [
+        {
+          "category": "E-ticaret ve CRM",
+          "count": 3,
+          "overview": "3 seçilmiş başlık"
+        },
+        {
+          "category": "Yapay Zekâ",
+          "count": 3,
+          "overview": "3 seçilmiş başlık"
+        },
+        {
+          "category": "SaaS ve Growth",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "Liderlik ve Davranış",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        }
+      ],
+      "cards": [
+        {
+          "id": "auto-4f3c7d70d89fd284285295b4",
+          "source": "HubSpot Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "AI maturity in marketing: What the research reveals",
+          "summary": "AI maturity explains why 98% of marketing teams now use AI in some way, yet only 10% report transformational results, according to our 2026 State of AI in Marketing research . AI maturity measures how consistently a customer-facin",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-79fb3198d15e693df46b3249",
+          "source": "HubSpot Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+          "summary": "Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs. Semrush, and here’s the high-level takeaway if you’re trying to choose: Scrunch is a dedicated answer engine o",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-bca108e4c77bd86b238b884f",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "Rewarding defenders with bigger bug bounties",
+          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-0d297090385ad5a7245151aa",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-699d9c655a82fce8b5d1f8a3",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "When Growth Slows, Folks Start Wanting to Do the Crappy Things. Fight It.",
+          "summary": "So when growth slows, the conversations change. Especially from your CRO. When growth slows, the conversations change. Especially from your CRO. You start to hear: A ton of talk about raising prices. A lot. There are good reasons ",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-b232f703509e1aab4eab6f85",
+          "source": "Harvard Business Review",
+          "category": "Liderlik ve Davranış",
+          "title": "Why HR AI Needs Rules, Not Just Reasoning - Harvard Business Review",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-6b259478f8e81adf098a4f48",
+          "source": "Google AI",
+          "category": "Yapay Zekâ",
+          "title": "The latest AI news we announced in October 2026 - blog.google",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-69f08c49a1a0c4a898011390",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "Why You Don’t Want Humans Doing Outbound Anymore",
+          "summary": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered “insights” on buyer intent and AI efficiency … and shared none. It just listed their three product lin",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-e9b65ab245bd520dc9bbc3e8",
+          "source": "Harvard Business Review",
+          "category": "Liderlik ve Davranış",
+          "title": "Boards Need Conflict to Make Better Decisions. Here’s What Holds Them Back. - Harvard Business Review",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-4532ac2f9ca851d0d25480f9",
+          "source": "Shopify Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "- Shopify",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "title_only"
+        }
+      ],
+      "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
+      "date": "2026-11-03",
+      "generatedAt": "2026-11-03T07:47:06+00:00",
+      "scope": "last24h",
+      "poolCount": 30,
+      "articleIds": [
+        "auto-4f3c7d70d89fd284285295b4",
+        "auto-79fb3198d15e693df46b3249",
+        "auto-bca108e4c77bd86b238b884f",
+        "auto-0d297090385ad5a7245151aa",
+        "auto-699d9c655a82fce8b5d1f8a3",
+        "auto-b232f703509e1aab4eab6f85",
+        "auto-6b259478f8e81adf098a4f48",
+        "auto-69f08c49a1a0c4a898011390",
+        "auto-e9b65ab245bd520dc9bbc3e8",
+        "auto-4532ac2f9ca851d0d25480f9"
+      ],
+      "selectedCount": 10
+    },
     {
       "mode": "headlines",
       "headline": "Günün kaynaklı okuma özeti",
