@@ -1,9 +1,525 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-12T07:51:23+00:00",
+  "generatedAt": "2026-11-13T07:50:17+00:00",
   "timezone": "Europe/Istanbul",
   "retentionDays": 45,
   "articles": [
+    {
+      "id": "auto-ad843ce2f0c7e89ef1a1a868",
+      "sourceId": "ns10",
+      "title": "Jaipur menswear brand QB MEN raises pre-seed funding, targets 100% growth - Indian Startup News",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:31:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazNkVnNyUkNMWms2NVRBMVEwX3VMM3VmVU94bUZkQXJiazBwbVRKSHJNT0tPaFN3WWt2VmV5eHVlYkQ0X2V0SDRuVjA5ekw4U3BXNG1YaEtyYzBYRW1OVnUzYnE4ajhpbjctS3JpdF9uS3J2MlJ6S0h6SDFmZVNTZ2RfWUlOeXRKQ0pVcWhFME9kN0UwQzRtNUkweGZpSGtOQUdqczBCX20yckNGM1I5U2JaZ1ZWaUJSbVHSAboBQVVfeXFMT2szZFZzclJDTFprNjVUQTFRMF91TDN1ZlVPeG1GZEFyYmswcG1USkhyTU9LT2hTd1lrdlZleXh1ZWJENF9ldEg0blYwOXpMOFNwVzRtWGhLcmMwWEVtTlZ1M2JxOGo4aW43LUtyaXRfbktydjJSektIekgxZmVTU2dkX1lJTnl0SkNKVXFoRTBPZDdFMEM0bTVJMHhmaUhrTkFHanMwQl9tMnJDRjNSOVNiWmdWVmlCUm1R?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-c9ad8ee6d9ffe91450cbdd75",
+      "sourceId": "ns08",
+      "title": "Agentic Logger - Log AI shopping agent mandates and tokens to order metafields. - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:55:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1VTZ4YnhSMWszUFVqRkZaWEtyUHltLXBiQW9TdU5OOGJrakZRYnlCUjV0SjNPaG5JNXktWmc1QzZCbVUxc1ZmazMwR3dqZlBl?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-2708efe0b5cb5fb077b68d07",
+      "sourceId": "ns08",
+      "title": "Solymar Payment Terms Extended - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:55:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vS1BsR2dyZEpVQk91NDlrT3hrRllHZGxDTjBJWDJTRzlMUkVpclduY3FJMThnaFh4STU1U3dnaDBzT3NTcWYtY1dvaFprRlFoZVNlSg?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-7726e0f7d8863444165c938a",
+      "sourceId": "ns08",
+      "title": "Outline ‑ Upsell & Discounts - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:47:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Hd2VKNWMtN1lkajk5ZVRyUHJwMkxYVmZuaEktUE0xSXhTR083WFVIQk5JTHZ3TDVMSUJLRzZZanZFbi1NNTFpTV9n?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-0a666f046071940273970d20",
+      "sourceId": "ns08",
+      "title": "RC Product Gallery & Lookbook - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:47:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aYTdVMktzTEJVUEdvdXd5OE40Y1UxeU42N1JFVktiZDFtamFQUW1VUFB3d2tsRlVlMFprdFlkTGRaZkVId0tRamJocHBvRzRtdm5LdFFfZmZ6aDJzSEVZ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-ec139df405614881255981f3",
+      "sourceId": "ns08",
+      "title": "Wholesale Tiers - B2B tier pricing that applies automatically at checkout - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:47:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LUE5Jb2NaTVBWZlV1TEs4SUlwcHFaS3hwR0lxS1N4ZnVVb2tFMUJ4XzRLRkJTcV8yeV8tMmE5U29uTVZTUlVad283N3dhSjNqbjhKRU00MA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-b7fa5cafe42e014fb6cbad75",
+      "sourceId": "ns08",
+      "title": "Lit File Upload – Photo & Logo - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:47:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FcDVnZk91QUVFZEt1dF9BWFZqTzV1cjBjR2EzcFVsWWpveHQxOFp0dkVGdE1Na2RDUzhuWUx3VVlnNTFfTmx3UlQxUEJ2ZU1BaVE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-8154f7dda3b243453e99b8dd",
+      "sourceId": "ns08",
+      "title": "Lusus: Spin Wheel & Discounts - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:47:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1UDZMT1g4VkVjNG9PTlJQamN3UFNfWjF5S3k0cHFFcnh5cFZzTHJac21tMTdqSXJQNGlUalhlU0F4YVFC?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-227291f93396c0fefd4cf6fc",
+      "sourceId": "ns08",
+      "title": "Tinx Customer Portal - Shopify App Store",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:47:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rX05yVDU3V0hhQmJ4RndaUlJ0RmFjLURNU01lc3g1dktPSy02S1d6T0FWTHJQcHZOUVBHRkdaR2UwX0tXQkRtMzNMNWI1UGxUWVAwUzU2M0Q?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-a6ba31e498d08bcb88b1eb57",
+      "sourceId": "ns13",
+      "title": "Leaders Shouldn’t Underestimate Time-Based Rewards - Harvard Business Review",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:44:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rUkRCUC1DUy1UMXdSSk5mSGdGNUcweGUyUkZpZ0RSX1VZRWpkbHRPRHNLWmN4RkVEd25HQ3pRRGExYjJVZVI1NGdfTURoRGpfZ3VnWHVmeTgwM1JoVnVuOUI5b0w1Z1h1eVJ2dDNubnNkYWg1ZE5oMWkwbTZLUQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-e4e68d617db862693e57ac06",
+      "sourceId": "ns26",
+      "title": "How to create a trend-aware content calendar for AI search - Search Engine Land",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T22:28:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJ6b0J0VE5YUUJVMDVYVUNEOWh3NUM1RHdLbURyeDBmdTB6aXRMbWJLenJmYUpSMzZudV9PVUpCak1XSVIyRTBlWWd2Z2dEVlV0aDBGQjhqWV9qN1EyQ0gxOTUxQV9ZX0lsbWdkRnI5NTNLUDZnemp6V0hUdXN4U1JXa0NhbkdKbE1EMFBfNFd4Zw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-4b7d6b42171c12d5b5585517",
+      "sourceId": "ns21",
+      "title": "$1 Billion ARR Is the New $100 Million. The Public B2B Companies Below It Show Why.",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T21:22:53+00:00",
+      "url": "https://www.saastr.com/1-billion-arr-is-the-new-100-million-the-public-b2b-companies-below-it-show-why",
+      "summary": "When I was a B2B CEO, $100M ARR was the line. If you got there, you couldn’t be killed. Your brand put you on every shortlist. A new entrant needed years to match your feature set. Renewals from your installed base funded the next product. Competitors could out-raise you, but they couldn’t out-ship years of... Continue Reading",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-5dd40206d557a6110110b81a",
+      "sourceId": "ns13",
+      "title": "Can Dr. Bhatia Triage His Team's Symptoms? ^ 9131 - Harvard Business Review",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T21:14:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWd1Ylk4bUo1cy1zcktzUzFNODFxUFU0M1VuaWx2LTZlVGpNWF9xYXJETXFSeVJkNlp4ZDVCTVo4Q1B4NDBaMGhHZU4wd2dwLWhOQzBKeGRlckItaThfSC1fb2hpQjVnMW5rZmpHcnBuZ2tKOHhnakRGdkxGNXZBUGY2Wk42U2xJOVI4M1Z1TGhBcllfb2tz?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-51a8a09ce2c46553ce3306d2",
+      "sourceId": "ns18",
+      "title": "5 new Google Flow Tools designed by visual artists - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T20:41:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlA3YkRWODVZa2NaUDZUMHptUmp3bGJyMjVaUTRIUF83a1ZjSkFRT2pGYjd2dDAtVHZSUlhHNGd0LUpqYkpjTW1ySnFyQ1dvY2ZzQjIwVmZGQmZxV0dKV08zZHczVmFIVzRlR1RnZGVLbTdRSkFlcVo5UVhieWN0VDhDUFAyNTE3OVBZcFJTSWJPNHhRTWFB?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-26b653ba4fbf555ce55e6161",
+      "sourceId": "ns33",
+      "title": "From measurement to capital allocation: How leaders are putting incrementality to work",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T20:06:02+00:00",
+      "url": "https://www.facebook.com/business/news/from-measurement-to-capital-allocation",
+      "summary": "Marketing measurement has become more sophisticated, but finance leaders still face a fundamental question: which investments are generating growth that would not have occurred otherwise?",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-67672a694e389b29af5588bf",
+      "sourceId": "ns16",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T20:00:00+00:00",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-e884701ead6a2e89a0095a87",
+      "sourceId": "ns26",
+      "title": "ChatGPT Ads adds Target CPA and CPC bidding, expands product campaign controls - Search Engine Land",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:38:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWw2VWZyZWVaQ2lCREYwQmo5eFFJbDdMMmV0TnBDV0tkX0FRNEZnUGt1VEZpRmUwVTcteW84S05LQ2lIdjZxTF8ycDVINWJkVlg1VGwyNVNJcmZ6LVVLdTlHOFN6cjhtWDZSS25FQS1mOU1DRVZUR1Y5OGdMNEczVzFBVWVON1pwWE1yRHNscWdxT1VlRmtKamVMSS1ibER1NmJEM2pFb3hiQXVqdVduWGg3cw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-33f9677cf841499bf5bfccac",
+      "sourceId": "ns26",
+      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:31:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-3f4bb4accd669310ec8f6700",
+      "sourceId": "ns13",
+      "title": "Measuring Performance: What Should Count? ^ 9107 - Harvard Business Review",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:28:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjJ1emMxT2c0b3N6OUhhcFliZXRzS1JHaEJRREhUb3pIc0R0U1RMMEg4TUNLaG13X3hDYzlmak1qMTlTc3ZvMUVrdGliM0Y4OVpzbGhranFuN1pmTGlQNnUxalNrU2lDc0k1cTRQcTJ2MHhscWdyUnNBOVdwZGE3TjNaamR5bGo4STRUcG5Db1FwSkhGcEE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-0ba48dfd94ae0acb978c791f",
+      "sourceId": "ns18",
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:06:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJnSDNidWM0SVJfeVVCbDJXelYxX0pRejVJakk1dEVTSzAzd1BoODdSU3FkeG5tZ2xhVnE2M2ZOMmVGUzFEMFIzNzNJOW15WWRfNXBDM3pUZGxXQmo5SmQwcW5OVG91eDZNSjBTNlY2QVdpOXE1MDl6TldJSVFJSGpxc1ZtZzJZaHpreS1xeVVsN0FrZklFS1JOOA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-fc0539be73bdd125b0eac66e",
+      "sourceId": "ns18",
+      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:04:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-02029c7481672acd696727d2",
+      "sourceId": "ns18",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:03:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEx3ZWpIeklDNURpS0RHX3B0RWZ5andjREM4R2FqVUdUSGNQTTNXUkhwb1haZmlreVA0bE9IX1pMQldlUVQ2Y3JPckYwaFIwSEFHcTNjS2hMNzFvNV9lWTdoQ2c4c1UzZUVnLTY1WWFwcjR5bUEwWWdtdTBuZ2t1bGxyQzJMeGpiaF9IbjRlVXJtVmtHTXJZ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-cdea7733f207804f4ef2b84c",
+      "sourceId": "ns13",
+      "title": "Jensen Huang Has Resigned. How Will Nvidia Replace Him? - Harvard Business Review",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:39:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkl2cllkWjFacWp1NVlqNU9KdHBfLVBBbW1EN0NEN0JfdzBHSlV2M1VfQ3FkVFMwdmhOaGdtYUJXZG00NlY5Zy1Kb25WM0xBVkoxMEdLbDRLUVRPem10WXJoa1lvRHJBSFlscnVxMGtlY0JTSjFZRkhhTGJleDRSRGswcw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-f67eb614e0016001bab4eade",
+      "sourceId": "ns18",
+      "title": "Get quick answers from Gemini on any website. - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:13:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2NXY2V1TlhCOTdiQnMyWFJWU0VZVmlHNHRFUVZpRFBKYXNmMHhqWlJRa2pzVmxmekNGajBERkdrMkpmU2h2Vjd0OE1qN0k3U0VKYXNETlNiNnlvX0ZhVFZjTmxlVVpOVU5nanI3OVFmdUEwVUo5eDRxWllmT1hSeU5MR1B6XzlsR3hfVFg0bjJOaGM?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-20cac8c8c3823a83ad287206",
+      "sourceId": "ns18",
+      "title": "Meet the 2026 Google PhD Fellows - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:05:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVd3eHpIQkpOUmV6UTVmdkVscVZTZm0xU2VmQW1EcjYwUkNLTklkTkwwSVNhQnJibkJzRkNzRUtPTlRBMm9FVkRPbFlHTDE2VUcwNUE2Y0NvcW00Tnp0djNpX3BCaktETzhEMkdPb2pCOFd3eVNwSndVT1U0UUl6b21tNzNSTUZ3STl4bWU4dw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-fa092f278439154f2e694e2b",
+      "sourceId": "ns18",
+      "title": "We're launching a $10 million Energy Impact Program in West Virginia. - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:05:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdnBldTFzZW8yWFFvQndVZk5RTHowcy1JUFJnclpGdS0yaHJFenNmNklJc3AwNkJaVHFHZGNCakNEVWpVcjR5M3JaWkZnOTkxN05HSGZLTzVRR1dRQVhHT29pV09hTnBYS3padFJVTS1GQURiOHh5cS1tbFhPUVAydF8xUGU4WGtOWHhuYWppc2o2MXZKQkd5eEtHbFZnY01hcFdqTmxCSGpzeEM0djU3T3dKOHM?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-aad7894582764e6077899ef8",
+      "sourceId": "ns18",
+      "title": "Scientists are using Google AI to help restore giant kelp forests. - blog.google",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:05:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1A0NjZYakxsRjUtRG15VEY3VUxUaE9PNlZYXzR6TF9JZVoyeVdfckNJSW9fNk4xY25qQlFvUTdaODVXdmJqRDVacUFNalVNQW9lcjBkRjRTeXhYU2VpT28tTDJldktsemdZNGYxMXVIZDBMT3dGSDE2N0RaVjBTTi1rdy0wVkMwSE1SQzhwbXhKNENxaEF1MEswbXotTHlaai1N?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-8b04d9966c8da43f1d84a214",
+      "sourceId": "ns02",
+      "title": "Login - ChurnZero - ChurnZero",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T16:37:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MYmdvTnVVcElwMm1yVjlvVjVHUlRLWk1PRzBFaWpieVhOWGFuM3hUcjA4MDNyaVRROGpIUHhmbGxQZ1F3WlE?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-206a52e6f2ce3c221c0fe86e",
+      "sourceId": "ns26",
+      "title": "Google Ads details new Data Strength Uplift metric - Search Engine Land",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T15:36:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCTHpfeUM4WHdxWWd6eVBQbS03OHVnbTdlTVdlQ1ctd2hLNTU5OWtWOGFDWjlaUk81Q0J5WXNnV2RKNEtZa3pOeGVjNFM2T0ZzQTZSQnBaMEdxcXl0S2V3aGMxS3hiMENCS08zU3VfZC1NaGZjZGNGcXc4ekxES3oxYjFGbmdtQmFDQi1ucw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-45ed83896c3c7531962f78a9",
+      "sourceId": "ns21",
+      "title": "A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T15:00:54+00:00",
+      "url": "https://www.saastr.com/a-great-b2b-agent-doubles-your-acv-most-ai-features-dont-move-it-at-all",
+      "summary": "This week one of our portfolio companies launched its first real agent. It’s a vertical software company at about $30M ARR, growing well, with a loyal base and a sales-led motion. The agent doubles ACV. There’s no free version. In the first week, 3% of the customer base bought it. I think that’s what a... Continue Reading",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-7898e5afed3d8f392142de66",
+      "sourceId": "ns26",
+      "title": "Google Ads clarifies AI-generated public figure impersonation is banned, even with disclosure - Search Engine Land",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:42:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVl0cEgtaFJoTWhRQ005dUNlMGJQM09DWXdqVjdpdnBrOUNTREdfNzNveDI4bXZPV1lNVVZIc1lOT3h6WXg3ckNsc2d3Z1kzNl9weHRONEtMX3BYUU9lX2U2WUFscVFJZGJRd01lM2VJQTVPRkYyNm00Vy1VQUItdWhnNS14STZqeWpWRmdkRHlBVFdzWGhNb3hHbUt0aG5RTG1KSWljZkplUTJmV1FVWkhkRUpPSklvNldPRTN4N1F4ZzNrZzNF?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-7d22140edfd8ff656203eea9",
+      "sourceId": "ns13",
+      "title": "How AI Erodes People’s Sense of Value at Work - Harvard Business Review",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:44:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4dldNUlR0YTNibnZFcWxHTU9nakZnUldoMi16NFhpbmRyeE84bUhpN2MtVUp0U0EwU0o5MmdqUV9tUWJMVTdTN1c4cW11UFAtSTNmcklOblNpU2xtMk1Qa1J2Vkk1X3E4dW4zU3BPcDdQMzgxNk1n?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-566bad02aeddb27de393666f",
+      "sourceId": "ns15",
+      "title": "Renewed Hope For Ledzokuku: Lawyer Andrew Nii Adjei Khartey Declares Intention To Contest NPP Parliamentary Primaries - Peacefmonline.com",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:42:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTV9KY3pYaEFYVGdOSmJUNUp6VXZtcm5vOFRXVGdVMXJ0UVRoUG1QUDM3dG1UZnhsMzNldWx6LUZhVWphTjJlanBaSVNEWTVBSzNlUmVJUi1ROWYwQUZNd1ZoT1E4Z2syNnh6Q2s3RDZiTlh6YWJFajM1dmxqRmJPcmhRMGtoNmF2YVJQeGg2NENNSXRxLUlUSVozaExEeG1vNFV3NE9hZmI1SE1MQzRFbVNMLWlKbS14RDZQUmZPM2JRZHFXQ2NzUG5aUmNLeVRqdDJFam9oNVpuajhwQmhuM0JXdF9KLWl5aEV1dGFVTFJVcEk?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-b06f8bcd76efdc2ab9e842c5",
+      "sourceId": "ns10",
+      "title": "Will KeyCorp's Digital Banking Enhancements Aid Its Growth Prospects? - TradingView",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:39:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFhjajY0VjFETmlYQnV3Qkx4TnZOT1dJSl93bTgtSEY4RjgtQU9BblF4cG9OeHBQUndZb2VqVUc5TUtoSXFMY1pPczVGdTk2dXNTNEpGeHlKMjQzX18tcl93ejVJaHJKcWl3NUxIMGpIa1J2b0NBUkU1eTFmaVFXQjZ3Nll2dXdQd2o2Rm56cmRDREgzOGZoazF0UGkxVW9hbE96Y25aOWZtLXdPZjVEb29tOUowRUhoWEtEMDBRQkREQQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-dba49728751cf40865e5d516",
+      "sourceId": "ns26",
+      "title": "Google Ads launches Invalid Traffic Overview Card - Search Engine Land",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:17:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNCcm1aN0QtNXRfTGU4R0dBcEdtRTJqVXRnM1l3dkkzeGFQcDJkb0VCLVVoeDBRQXUxS25GZk10bVlaSnVKaUxzZGtESFBtdERpTm9wM2tab2NzaVBhd3JBS0RMcWRDS1ZBS25LdGR4QjltbE9ybVV0SWhDZTdLVHJTWVFpSEZnTEFjVmJR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-f33667299a6fa7da766e9d31",
+      "sourceId": "ns31",
+      "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T13:00:00+00:00",
+      "url": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads",
+      "summary": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-1cad44ddbaf3caf70f0fb1fd",
+      "sourceId": "ns35",
+      "title": "XBOX Video for Brands: A New Way to Get Closer to Play - Microsoft",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T12:29:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3VsT2JrR0FkbHJFM0JiRjJMVDltVm9GRWNmajFyZC1FcTd3NXE5ZHk4djFkaTFKcEVQZHk0SG5lb3dxV21URmpmakt5Z2NRb202OHhpLUpkVWNJMTJJSG5YZkw4WWROdkhXMkUtOW9vdS1OR1dmeGF2Z2hLMGZuSzFheThNaGtYaEJVVVhrMm8zZEdpXzdkd1dHY2xlWUNaMmx0amFwRXRqWWR6ektvY2VR?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-2e4d5c4e8e832e70d0b2bb04",
+      "sourceId": "ns15",
+      "title": "Top Mistakes Even Successful Leaders Make I Inderbir Singh - YouTube",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T12:00:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZQmJWcjhuU1BoYWhfNkVjbjA4MmtqbjFNQllIdUFsSmtoRC1RMEd2ZS1NaEZreU80UWlXRmxtYW9CUmQ5Z3MtYnFNYUFDZEY5VWNfSnNvb2hDUDQ1?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-b9840fd67063a36a400d5e1d",
+      "sourceId": "ns16",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T12:00:00+00:00",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-8da45d8d01059bbad52983af",
+      "sourceId": "ns21",
+      "title": "Dear SaaStr: How Do You Become Successful at Enterprise Sales? What Are the Biggest Challenges People Experience?",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T10:00:53+00:00",
+      "url": "https://www.saastr.com/dear-saastr-how-do-you-become-successful-at-enterprise-sales-what-are-the-biggest-challenges-people-experience",
+      "summary": "If you haven’t done enterprise sales yourself before, the biggest thing to understand: you can do it. But, you’re going to have to hustle. Really hustle. Many founders want the customers and leads and users to come to them. They want to focus then on the funnel, A/B testing, optimization, SEO, SEM, etc. etc. That’s... Continue Reading",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-4922ca6fb0dd92994c349853",
+      "sourceId": "ns16",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T09:30:00+00:00",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-adc5b60aae0c885c2d409ce2",
+      "sourceId": "ns10",
+      "title": "QB MEN Raises Pre-Seed Funding to Scale Its Print-First Menswear Brand - Indian Startup Times",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T08:59:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUd2UmxyZmdGYTZzOVJBYVBqUTgzaURaQWVPMndQY1k5LWh5emg3YmU2ZFpqQ3BaYlE0aHN2MTREU3VQVWdPc2IzWlVYcGYtRG5kUTNZeEliZGpYdU5CTjRNR2RlWURNWUN0RFkzQ08zNzVjNldERHAySnlhNU9CUXhYTEhLc2NSTmpob293c2ZrdVZRTDMtN2JYek12Wll0X2NsX2dITjl3djRaNTNKaGZsVVJLWEtv?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-56bbd9654eced7908fc0b77b",
+      "sourceId": "ns10",
+      "title": "QB MEN Secures Pre-Seed Funding in a Round Led by BeyondSeed to Accelerate Its Growth Journey - Passionate In Marketing",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T07:55:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWRrV0N6TERacDBTaEJrNVptZTNIMU5xTWlmUGZsX3BSMTlYZnNOa0NhUUV2WVFmRVJhUENUMTg2OWhmSGdlNjJWTnVXZmQ5MWY5N1VWa1BadklwYXZxNEJyQzRYR1hxTzNHckIyUjd2dnpCeUxKbmZHLVY2YnM5OVpEaFhyY1hmY0FQdENwWmJROGtvZ0dSZDl0UzRjUGNNbWhLVVFIaVRyNGhCWDh5X1d3NVJ4eWloTXdKNEQ0VmtaYVpHZ2gtQjY4QVg?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
     {
       "id": "auto-0f60bdfe2c3f1208bc241c85",
       "sourceId": "ns10",
@@ -53,9 +569,21 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-70e306c9da4a73406c56bc9b",
+      "sourceId": "ns35",
+      "title": "Meredith Barrett - Microsoft",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T04:35:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBldEVwZ3piTWowMWkxei1TYkhyY1ZBUkNzbDV6YV94MGptMG5sU1BHT2gtV1JuUmtncWhfekl5ZXdsa1VmQlhJaHp3Ql8yb0NrMklOWFA4RUpKMHNxZjA2OGhnVkNOMUE4ZnM4S1JDWmQ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-f8d64fe22b464ea0bd2a68e1",
       "sourceId": "ns10",
-      "title": "The Digital Confidence Gap in Financial Services: How to Identify and Close It - Leger",
+      "title": "Canada’s Banking Loyalty Illusion: Why Retention Is No Longer Enough - Leger",
       "date": "2026-11-12",
       "publishedAt": "2026-11-12T02:42:01+00:00",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YeDQ4ZmE1d3ozMndCR1JaWDQzZGtkSHRiV3NSMnc0WFpReWNxSUE3LU05bThjTXZ0N05vVWFUTU54TnAwUUFCekdoRUNkcmpFcHVrLXR5VVlJU1RJdzZKbDRfNm83d01jOU9RaVdaT0RocVE?oc=5",
@@ -63,6 +591,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-d7c1da8cb7dc41da688b7a99",
+      "sourceId": "ns16",
+      "title": "Supporting research on AI and children’s safety",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
       "id": "auto-65b96c238445cdedc96b3e82",
@@ -161,6 +701,18 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-82a62dc838d2a36f07cd8acb",
+      "sourceId": "ns17",
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T17:13:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-5df02f7bcada9cea0a5aa3b8",
       "sourceId": "ns18",
       "title": "Talk it through with Gemini, now on Apple CarPlay - blog.google",
@@ -233,12 +785,24 @@
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
     },
     {
-      "id": "auto-82a62dc838d2a36f07cd8acb",
-      "sourceId": "ns17",
-      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+      "id": "auto-a1796ba8c183663e251bcb73",
+      "sourceId": "ns26",
+      "title": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting - Search Engine Land",
       "date": "2026-11-11",
-      "publishedAt": "2026-11-11T16:43:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
+      "publishedAt": "2026-11-11T16:42:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHhlZmdZc0pSSkdTVnVxZGZUcmQtXzFDTHkzbFN1bnpYNWFoZDBORmZaRmh5MkFmOGY4UWNhd3N6T1Z4RXdIOHZUTjIwemoxTFp5R0E5RVdrVE5MbU9sNnF6X09qRU4tUjVVNlRfS2kyb3FWQVphMjV1QmdKX2dtN2lzcU1YX1ZRYVBWVzZFZG1Rb2ZVemxuQnY4SW1QUWZJTnlwcUFmUG5nZUQ2UFdScnhrOEZ5Um1YeG9QWE1pQjdOaXhuc19Z?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-8de8a7e29c724790d8037b70",
+      "sourceId": "ns26",
+      "title": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic - Search Engine Land",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T16:35:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzNtQzh6UXNGYmstcVgxaWMtcGFkaHZzdzd4ZTI4Unp5WkZ1Sl9YQWlkRV9fNE56Z0F1LXFtbWxSWkUwand6dHBWOTA4OS1jR2g0TEdWblVaMFk4RzhBQ0U2X1Y3MUtiRnF1OGZhNjN5Wm5pNC1kbVBLQjRDeFM4cE5iQlZLWUFoVUVfaXZvZkU1dVI4SmVlVXZDVHZWckZ5UlpPRGZtbTJZY0djckE?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -383,6 +947,18 @@
       "date": "2026-11-11",
       "publishedAt": "2026-11-11T04:11:01+00:00",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkt5V1BRbzJWaW5yYnVKNHU4cG5rT3ZPNXd0NjBOdlFTS0FSY2djWjVSX0FERG04c09iOEJDRnA1ZFlRRlY3YXRBU2RDT3RxLWJmXzN4NVBoaUZFU0g5ODN1bzE4M1gwbXh2Z3NkMlhWRjEyNVg3SGNJTzV1bzhtZ1JFcUJsU0dYOUVfUF9n?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-faa15068e9d95299c2be81ef",
+      "sourceId": "ns20",
+      "title": "Mitigating OWASP 2025 Security Misconfiguration by CMD+CTRL - LinkedIn",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T01:18:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMTdBVWhQSFVWQ1JIYnFKUGZ0VzhGQmxScFNPS1VFLVc0M05BOHhaR2FjQzctMnNCUmdYdU42Vjg3WXc2WW91T3B3aE9fa2QzUmh3SVhiS3l5c1ZxNVJTVndZTkFod2hYbkt4cVV1QXdmcGR0Ny0yZlhxbVVILUVhM3JtdlZuWGtiSVVjNzhFZHFWOEkyQ3N2a0Z4a1VDRU93eUNvaU82aTFfS21Zby15V0FTczN0ODk2ZkROMmFBcmR2QTEtdnBQbHRPcDN4WGZJT2toak1ULW92UjRlWW5nRFE2TVcyMF9mTll6Q0RfdU5Ta1FiLW9MT25wdlQ?oc=5",
       "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
@@ -929,6 +1505,42 @@
       "provider": "Google News RSS"
     },
     {
+      "id": "auto-e506ea4c9c3d939d95fa6847",
+      "sourceId": "ns19",
+      "title": "What Is Conversion Rate? - Coursera",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuTlpHR3JrWUl2MWZkRjhWZlIwaUVnSVYwY0RGaXR3bEY1THBnZC13bXppaUdIcWFyaXF1NDVHOXktX0FYOTlCR2lNd2VpNXFRQ2RyWW03VHlLMGJnTnRvV3JUdnBYTEJZ?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-d777474f3c47150213593a51",
+      "sourceId": "ns19",
+      "title": "What Is Time Management and Why Is It Important? - Coursera",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IT2kyNUc1S1NmTDJqU1VVWHJaVy1BbVA2bGhrTk5saXc0aUN3M3U1Tmxld2wtMmhwWWx3dkVuakdzWEtndHdmSVZrTXJiLU5qMlQwRFJxdHRBdlFYd3c?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-bd491f1ecf997ce0faa0befb",
+      "sourceId": "ns20",
+      "title": "AI-Driven Incident Analysis Techniques by CMD+CTRL - LinkedIn",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVkRqMVEtZWdVSkZfSTh0UGFIRHd6aEVFTXZiMjdhaFBFMVZhaTAxVllkN3FVeXV6c3NYajktSFRfeFRUUXAtb2ttS3RSRS04S3p6TkRyajhhS3dLekdmbUlOcmpSa3pVdUtTQk0tTWNlOWFiay1zQ09pTWxJcXV5OFBfMlBiMkozbHNxdFcxd2NQSF9sSG1GTkhybTFXOC1sNUZkczJFR1B1bDNIRFFDbE5vdTBCMTVGaWlaaHIyd09FNDdqcWUxNktaeTgtcE5ESkthRng5cC05czcxaFI0Q0tfSDNOcXdnNE9UMHIydV8?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
       "id": "auto-9092d5eb66f29547408d30e0",
       "sourceId": "ns16",
       "title": "Singapore Airlines elevates travel & work with OpenAI technology",
@@ -939,6 +1551,54 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-615dc01be4f8beae79845b20",
+      "sourceId": "ns19",
+      "title": "Business Management: What It Is, Why It Matters, and More - Coursera",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tOG9FWmRPbVNyM2dkYm1HWmlsUVdnclJUUFRCYXN3UkZMTzBjc3UwZEF5Y3lvM3lsY1lLRHoyd1kydjB1OEF1c2lSOTM4UlhlR2V6X213bEg0QTNGb3p0cjI3bw?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-59e9099833b7eb755d79c299",
+      "sourceId": "ns20",
+      "title": "Personal branding as a career strategy - LinkedIn",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0szSEhya29oNzB6TlFFdEc4OEhiTk9rRTVFRkViYjdrSXBHMEJzTXdkYVFJYTNYd3p3NFlON2wtRkdXMkc4UkhYVk41R0FYT21leTZUbURZWWRRVlp2eUNnQ2gwVGRGQ2JIdmNvc0lMSFdTbGRjd21RalNUOUx2WlE0R0VFYkl0YTFlQjczU0t3TWZmUC1FU2huNFgxVElh?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-3c58625a20ebc7ce27526cdd",
+      "sourceId": "ns19",
+      "title": "What Is a Health Educator? - Coursera",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80NTZJZ1R6aVd2OW9fcEpLemJkNGVWZWdHeVM4MTdXMVhFZ3EzTU9lM2M5dzJtNEd4V3Y5WjNoVmJQUHZHWUFDZGxmSWR2aXNnMm5wdTV1ZF9ieElCSGc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
+    },
+    {
+      "id": "auto-24315efab3cb5b3ff77b12a2",
+      "sourceId": "ns19",
+      "title": "What Are Embedded Systems? (+ How to Work with Them) - Coursera",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jVHRMSmVZTkRuUFZBR2lFcm9kOGZMMnk2STVtOTRvYUxuVGpIeU5BWDduN2NidlFaUy1vYWxnWXk5M01sSThtQklIZHBlcC1TblNHZ0pGME1GODhlN0pn?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-f3fc54cd1d78c100d666a9c2",
@@ -1635,6 +2295,18 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Resmi RSS/Atom (yapılandırılmış)"
+    },
+    {
+      "id": "auto-fa26d93ca0496130ba97a51d",
+      "sourceId": "ns20",
+      "title": "Fundamentals of Secure Architecture by CMD+CTRL - LinkedIn",
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T11:41:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEpWaG5HTmpkYVEySXZHU29DT1JfenZBOWhSNGFPR2dRUkZ0dXJTSm1qQlFUanJOSDQ1U3pnVGdvcnpYSHQzY3ZKbGhTR2lXT0pDU2pBWm5nVnpXN0c0ejdUZGpPamNCN0VveFFkQzNhUWx5emNUZk9Jb2x2TUZRazd2N2x0SkIzYzg5X0ZEbUxCRHlIcWs0ek85dmFYX29XYlduWXdUVjhRdlVKZFhaa3k1cWstUlNBVkxMRHI0Mk5qUnhZWkJmQnZBQmRZSURibEtTMEQyckE0cHRtbW5ZT1NndlNGRjN3UWc?oc=5",
+      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
+      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
+      "priority": "Okuma listesi",
+      "provider": "Google News RSS"
     },
     {
       "id": "auto-75be55a8754610aa9bfecfbb",
@@ -2451,678 +3123,6 @@
       "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
       "priority": "Okuma listesi",
       "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-d9705b1f284d3b332d9c01f9",
-      "sourceId": "ns26",
-      "title": "Google Search clicks to news publishers rose 8x on Election Day - Search Engine Land",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T16:34:33+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDVTUEFkOTdJWWxFNE5OVnBsVUxobVZJMVBtbkI1bm9QcjF1RGFINDE4bV9EZWxjdmVac1JicmxrRUhTN1pLYW9lZ21xZ1ZwZ0lqNjVvalRrSFlJaDcwa0RCWmZzWWJRZzhNV0xKV3puYXFiQl9Ud1F1U0QwZC1tb1BQSFRZRFhKQ3pLbFlR?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-e60ef490ba6537aa444542f8",
-      "sourceId": "ns09",
-      "title": "What is RAG in AI? A plain-English guide for marketers",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T16:15:05+00:00",
-      "url": "https://blog.hubspot.com/marketing/rag-in-ai",
-      "summary": "More of your audience now gets answers from AI instead of a list of links. So when someone asks an assistant about your category, the response draws on sources you may never even see, and your brand either shows up in it — or doesn’t.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-4bc2253ea3f207dfc7f4c72c",
-      "sourceId": "ns26",
-      "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’ - Search Engine Land",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T15:01:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnpfVDY4SjF5TkNseXlwYzFYWjRhVUNvallsVlpYc2JIV0U2ejJaM3JfbWNDQTNlcjVqOFlaQnJUWDNCVlhIcWxrS1Rub3U0SFc3a2VjQjRzS29LVGc1amh6UmZ0TlpSazA5T2tPUldVVXd6ZEpkUlhKcFE3Z0xGX3M4RGdPOHFaQWIyb1NzZUlDUQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-d8ed815777ee5178b03c74ef",
-      "sourceId": "ns21",
-      "title": "We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T15:00:24+00:00",
-      "url": "https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it",
-      "summary": "We’ve run vendor bake-offs at SaaStr for as long as we’ve bought software. Everyone has. They used to look about the same every time. A few demos. A two-week trial. Someone on the team sends a few hundred test emails, checks the dashboards, and builds a spreadsheet. The decision then mostly comes down to which... Continue Reading",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-ae73bdfd7feca2abd89dfc04",
-      "sourceId": "ns26",
-      "title": "Google Ads may count offline conversions in the wrong accounts - Search Engine Land",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T15:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFRQdEdFallYZkI4V3cxb2xuM3pwNGxsSDlJb1B6dC1sYUlfdmhGT3V5RC1UUzVIVER3UV9nYU9JalMwTFpScjlzSGVXMjZ0a3phcjlOSS1pTG1zbm9sTzZ1dzAzUXRoUUN1Rk9PMG5mY24zOTlCSGZ3RXhRWGNSQVRzdVpwVV9IU0xzVXlWS2VmZWk3aHFnRm9xOElWdjQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-d93891ded0ea38fd34cfc975",
-      "sourceId": "ns18",
-      "title": "Check out our free livestream during National Veterans Small Business Week. - blog.google",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:46:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHJPeXBqbWZQcWNzbDVSQmFsb0tzY3hIM2hWLTRvclpORVhSZDBxeG1kQlVMX1Z5OTRtMkpUWV9ZSE01U3FZcTJYWjFqQlV3LXlXOFItVlIteXBxSm11Mm8zV3pGSWJ4eDJhYUY1aXk3UUNSU1lIcHdTTWRibEZYNnIzeVZtSlRrejZOY3BMeFVFLUk1Z0VkZjQ4ZjJXWEdsQ3RIYTFsYWVtelctbmYtemI0aWRSWHRvVUE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3e5e67b30cb296a7933dfd4b",
-      "sourceId": "ns26",
-      "title": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area - Search Engine Land",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:40:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEh0Y0UwTURyclp2VlNsQ3J0VFRDa3dHNXBJbll2WUoyZktiQ3RySFFaMzI5al9mai1kS2c2WHFQNE41WTF1a3prdnBJZEFIUGJlUnJJbFc2ckdRNEJibmJCUWJaTmEtWlJFZ0Y3Sl9rbFNBWkVWTXJvcnB4Q3RZQjVOWGxyVF9WUVJ4Z1ZwRVJHSTM1U09Dc25lNzFFcEsyajlkM1FSVW1ydFotRFlpR1BpZ3k0dmJ5cE16UmpTREFqVGFwZ1BBUWdaOFREckk0emhOS09XanU0Y1MxanprMkRwQjQ1M3JUdm9kNA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-52857d4beef5f6ad1f012728",
-      "sourceId": "ns26",
-      "title": "Google Ads Search terms match type vs Search terms match type (Keywords) - Search Engine Land",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:32:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzBHVlhXU0ZUNU1GMzdqNWd1QjF2SjRhdDRFWDBmdWxWVmhocHA2WGhON0NoQzRybElaQVFVVHh4NXc3UHpUWkxxX2JnMnVJb2J1WVhYOVRwV2JaRWNGelcyeUd2MDFZbTZiZ2EyWTV4ZFJPN3d4ZnZQcWN2ZXBpUUxDSXpuWk5fdVRLLW83Z3R5UUZQV2Z1WFdIYzdXb2FUTEpZekNoQVM2Zw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-1f589741f03f342fe5dabf7e",
-      "sourceId": "ns13",
-      "title": "Do People Want CEOs to Shut Up? - Harvard Business Review",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:32:35+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5QXdIX2ExTGtpMDY3WW5OajJmSnpFUTFwc3QtNVdReHl5SEpoQmJfb2NQVUFhdHlDZ1Q2TUllSDNKT291RDVuM3F4RjdnczNpazRvUUlyVWN1WDRNaGdON0ZRZmk?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-f00523b04d911e41a8f990be",
-      "sourceId": "ns04",
-      "title": "Slack - Vitally Help Center",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:26:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9udU92Q0Zobk01LXNRTUdFTUN5SU14c29JaVRsSVJVZEcxNTVsUTcxZzlnRkNyanR1NU55anhxSTNUMU9ONGZaMEVhZFM2WE11ODJVQk1UbzFlOGhzR0E?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-0544b18b3521cfada97cba8c",
-      "sourceId": "ns04",
-      "title": "Projects - Vitally Help Center",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:19:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13TWJKcXJfMm01Zy0tRERIQjIxd3plaEVvSExrTHMzTXN2eFZobFJBdENHRzhZUjV0VzhFNWQxQkdqTjA2UUgxcUpHUHM3SEZRM3BjNm1FWFZhNmtKOUlSV2xR?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-5944ddc8615d03f8e8ef119d",
-      "sourceId": "ns13",
-      "title": "What R&D Looks Like for HR - Harvard Business Review",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:14:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lbWVMT1pjRWxXNFdMN0FvVjFyQ3dndUcxb0djZGtQWGIxd0ZXR3E1ZG43dEVDVnZObU5aYVZGSGEwbld1YjEwazZvOWZlOUlBUUxpZnhXVGtTUHdCT3c?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-a012cc34170f5d56667418d6",
-      "sourceId": "ns26",
-      "title": "SEO can’t fix a broken sales process - Search Engine Land",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T14:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VWFmM3dMTjM4T2l5RVo0LThzOHFNNWJUd24tOFBHTEhKRW1JYlpDX09YemM1emR0ZkxNaGNqdzBRc0UxQ19EbnhPS2xoRUZUbXdCN0d4ci1yUGxFLVFVTnRWWGFkQVlMT3dpc2NDUVE0S2QxTmg4aE82NA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-2eb440b591ccd047ccdd2844",
-      "sourceId": "ns13",
-      "title": "AI Lost Big in the Midterms. What Does That Mean for Your Business? - Harvard Business Review",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T13:14:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnQxX2NMOUVfZXNIR2hKOFVkdWZOU2pnV19LZVFxQmMxRk1mTFVoTXJ3bmtMdmYzMmw4LXhPVEVvb1hFekgtRDU5LVcwYjNYbmExcXNQWFlmX1EyUm53dHpzRElvaHNfZVRrSHNpUTM4R2JsVWJ5MGMyRGV0VjVxdURGeXd0Q1NUZHVYYWJCU041X1E?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-5917231b10eb927adbdca972",
-      "sourceId": "ns21",
-      "title": "SEO May Be Dead. Shopify Just Paid ~$100 Million for Shop.com Anyway.",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T13:00:58+00:00",
-      "url": "https://www.saastr.com/seo-may-be-dead-shopify-just-paid-100-million-for-shop-com-anyway",
-      "summary": "The old SEO playbook is breaking. If your pipeline depends on Google sending you clicks, you’ve probably watched those clicks shrink over the last 18 months. We’ve seen it at SaaStr too, and I’ll share our numbers below. In the same year, Shopify paid what’s reportedly the most money ever spent publicly on a domain... Continue Reading",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-14e90e72d3401ddf817f6448",
-      "sourceId": "ns16",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T09:00:00+00:00",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-db9792e954d447010915e606",
-      "sourceId": "ns16",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-0d7f067d11af15397557d940",
-      "sourceId": "ns10",
-      "title": "CABO Q3 2026 deep dive: subscriber losses narrow but ARPU and revenue under pressure - StockStory",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFJpeEwxLVprT0V5SWM1aDJhXzJiNE5JQl9xUUhBY3oxREhZQzA3dnNpUnJhS2FHb1NnbWlFZHRvTGlYb3ZIQlh5aksxaGM5MU1nNUl6NUhwNjhQa3FmNnktS1hQODVueWh0bldKMzFXN3dOVTh6N2c4QkRBTmVwRHgxMEItdnJTT1p1Slhoc0pjdE8wemczdU9Ec2hUSjl0QzFXUVdCWjdsSEdsb0daN01WVU9zbkRrMEM3VVJ4MUZMTFh5SGJLeHJtall3MUV2U29USEsxT1NnN0RZdEE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-cf165fa230877e44eebb8a09",
-      "sourceId": "ns10",
-      "title": "Why Churn Prediction Models Fail at Customer Retention - HackerNoon",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T06:51:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNzZVcm1zdFNhZ1B2TmU0a19Md1VYQW5uU0h6NXBkM3ZXbGpDeXRpdnB2bHhnWFMycjNIUWk3Wmtub3N1NlJaTlllVGN6NmEzYkdXZmFHTnhMR05yckY2V21NM1k0TnNITjBYT1h3d0NObmdJOEVERTllVTNYd0dLWXRaYw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-1c8d2b66841c1726bbf0df60",
-      "sourceId": "ns38",
-      "title": "Solving B2B Attribution Starts with Diagnosing the Core Problem - LinkedIn",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T05:09:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFZBTE85OTNNQXVBX1BCTEZkdDdwSVdmRk1EUHVoRmNUQVZpQlc0MDJmai1nN0JaRnZEZFM2eVFqNTItTWJLbW1iWTZ5b0Ftd3NldHdlT2dJUDU4UzFIYlFjY0NPdjZMb2ZwRUszRzdyUHhTaVU4U3l3UHdrWDZMY21GMWhZY0dJMEZfUUcybGhCdlh2U2RTSg?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-72a131d1f229be0b8834d66f",
-      "sourceId": "ns08",
-      "title": "Shopify Editions | Fall '26 - Shopify",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T04:57:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYUxNaTRwRTNSU3VOOV9uVmdVVmxkTTluSU8xOERnaEpaYktYTGNpWXk2SFRBNkdTYkNId0xSTTlFd3NReHRSd00wY2ZBUDJKM0hN?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-668f3928f7c1e4d5d0089389",
-      "sourceId": "ns35",
-      "title": "What's new in Microsoft Clarity: Agent insights, faster answers, and AI discovery - Microsoft",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T03:41:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHFIU1Q5NHYzd0lLRDl3emd4NDFWV196b3QwS2xzOHdKbXlUdlplenpuejBZYm9paXJNRy1WcjB5SDEzVEsxZFQzLWM2dmdGVUJJRUVpSkxaZE9HX2RLM3JkRUF5UXZibnFNM2JoQU1vT1QxZmVTTzlpb2xRTlR5Q29hZDNsZmhxU0hPSFczTGVTdDRBc1U3M3FncW8zOGIxellfTlJoWm9FRUh2c2trOHRBU0Y5R0tLcWhhdkpYUFFMSF94QjJDdFppWFdFc0dZdkE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-71737737184b1eb2f77149de",
-      "sourceId": "ns18",
-      "title": "Empowering Educators and Learners in Sub-Saharan Africa - blog.google",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T02:28:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDBoNDhPMkpackc5RGRCWDJSbm14c0pGRWdVN2Q1UTZ0cTlxMmNRT3BpOEQ0SzlsZEg5SjRFTFRub2l6S0JNMy0xNWNBWFZ6Q1JqeXpvRVhtRmFRY2M2dHFTLXFPNWl3YUlxZ0NhRXJGdHNMUGVhU0Q3alBTRkJ6TV9iM0hNTjJPck00MnMyRFZFckhBR0V6UzA1RGd1dWJoel8tc3VMdUJMelFBX3hCeU1DOUZGdXpnWGZxRUd4NFY1aHM3REtEMU5YcV9WSUk?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-25fa4dd18ec78a48a9233cc0",
-      "sourceId": "ns16",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T02:00:00+00:00",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-2d1d326185a62641bed05bf7",
-      "sourceId": "ns16",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T00:45:15+00:00",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-055a4ff6fafc43c0cf3811ab",
-      "sourceId": "ns10",
-      "title": "Australian retailers prioritise AI for customer growth - Australia",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T00:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORU1ieXpVSUExMWZCWm1QTTZlTTItbjVEbG8zRC02bVE1alJCY2NmcVNwSnpVM1RNWTZvdlJtZXl6eDBxWGkxR195MXVXVDdveXZaRHpHYmF3ampncmFFYzFXcWs2aTZSVGZiaTJEQlY3cE5xd005WDFycHBjM1BWcnRyQVZ6SWRzd2t3cVp6Z0tpQXM?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-a8e215d1c3fca63aee0ffd81",
-      "sourceId": "ns16",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "date": "2026-11-05",
-      "publishedAt": "2026-11-05T00:00:00+00:00",
-      "url": "https://openai.com/index/franklin-templeton",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-d12c93c66e37153cb26a41c8",
-      "sourceId": "ns17",
-      "title": "Investigating vault particles with Claude - Anthropic",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T22:02:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd0V1dFM4a0hJdG5SOGZBMkpQbHRZN1JwV3M4SGZQLXg3Tm1qSzdWZHZxNzI0SzA2bVdMdXEwRmRUcXJRN2pEazBBbHZaTktrQzZBNF9IQ1NGM3FhVU9ISDZTVW1kNU1ndk1ORjBKenR2Mkh6Q0U0NVowN1ZTM0hGLVNR?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-55f165d94b4473c0d4887570",
-      "sourceId": "ns32",
-      "title": "Data Manager API now supports Google Ads call conversions and row-level diagnostics",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T21:39:56+00:00",
-      "url": "http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html",
-      "summary": "The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to Google Ads You can now use the Data Manager API to send call conversions to Google Ads . Call conversions track when your ads lead to phone calls and when those calls lead to valuable customer actions. To send a call conversion, set the new",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-9eb90ff578569e2b19cffa1f",
-      "sourceId": "ns32",
-      "title": "Upcoming changes to multi-party approvals in the Google Ads API",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T19:47:23+00:00",
-      "url": "http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html",
-      "summary": "Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026 , we are introducing additional changes to improve the developer experience for multi-party approvals. What’s changing? Deferred access invitation creation: If a multi-party approval is required, the CustomerUserAccessInvitationService.MutateCustomerUserAccessInvitation method will defer the creation of the access inv",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-d4ddea2139751cd31b4ee327",
-      "sourceId": "ns26",
-      "title": "Negative prompts have 2x impact on ChatGPT brand sentiment - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T19:31:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkU3Qks1SmppcUhSTEdTRDEtMHRvTE93dzJFSEROcVBZbk53STlSOGZxc21Kajd3VmtjN0l1bzdZXzl1bkpmNUNHZE9JQmw3R3VTem5TaWNHLUFPVFU5Z0pyVEVUU2VyQlVNSGZkdW1ZMlF6aElQSElKUVdUbzJjTXRtblc5Yko3YjYxczhPbkhnYk0?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3dd3d300c21f91a5eb70f7af",
-      "sourceId": "ns08",
-      "title": "How we’re evolving the Shopify Partner Program for agencies (2026) - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T18:40:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BWDViYWNrc0x5bW1IMWtNR0lIclU1VjdXb1ZIdEVxR19MNWIxbWpFM1BYWko1eVlXYkZGQWFuQXBydGFMdmJGZ192cU9SekxFOWZwcFV6UlgtX0NoSnRoMUNONHk1a2huVVhlcnVOczI5cGJTdFE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-6be5458d8f139ac77cb84140",
-      "sourceId": "ns18",
-      "title": "Watch Henry Cavill build a video game on his Googlebook - blog.google",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T18:38:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOW1Qak9BcmlzbFRkakpRWmFERS0tUldsUnpLemsyR1gySEhnaWJoQURkdU1vZ2NlT05mMnZLRUVNMGROVEdyeE15N0dqODNlYkNPYjdXWlc5UlhaZDI0b25mOVFPOFhGQVN2VjZqZWhQdl9fZHRQbzdzTWhrV2QyTmwzNjlFWXFraVBQbkFSMmdZT0JFNk9RWi12ZVhZSmVJcm9ybWcxYw?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-af1eb55e93b0a599efe4c03f",
-      "sourceId": "ns26",
-      "title": "Google AI Mode adds home services booking links - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T17:44:02+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-cc96ea1a2d2a952d71964157",
-      "sourceId": "ns26",
-      "title": "Google organic click share reaches 15-month high: Report - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T17:15:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWlKanpvbFJ4c0tDb1NQMXdSekt5aTFwOGFwR0M5SWRtbE15UFZTSFZiU0FvY21rekViVVZmWnNpeXFnSnRRVzBwUmtfY0piNkR0NDVOY2wwUURrdXc4bVBnci1RWDc4QUwwV2lucjdDX2RReXUwOWpSZlJKM0Nidjd4dmMxTFFBS3hV?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-25e961e5e0ddebf81fd3487b",
-      "sourceId": "ns13",
-      "title": "You’re Reporting to a New C-Suite Leader. Here’s How to Build Influence Quickly. - Harvard Business Review",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T17:06:35+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDlZVGhwT3MxbjRTZzh0NVVqYUVYNXduck85UlFIMEs3RGV3Mm5SVnAwMk5MeTg0enFSQnAyaEFZd1FpUXY1d2dNMGNwbUl0c1B2NTlTSy11anRmNzNZTnZfQ1h6QmhISGFIblNmd21Pb1lRWEJNQTJ0N3dNcVo5ZS0zQ3BoMkpjVTJ4YjhpenJJcjNCalVxTHJJRWxpLVczNnc?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-d08b343df2fd0107e0756a1f",
-      "sourceId": "ns26",
-      "title": "Product feeds are becoming the new ad creative in Google AI Mode - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T16:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3099cc038016508e0aaf9186",
-      "sourceId": "ns26",
-      "title": "Is ChatGPT really handling 1 trillion searches a year? - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:51:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-c9cb97d26a16ea5f2ea2363c",
-      "sourceId": "ns08",
-      "title": "Net Promoter Score (NPS) Calculation and Tips (2026) - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:44:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OOWwtUzRPNDhyQ1k4YmZiZ0NWMFppQ2JYWUVnNWJVUkVOMWd0VG1PbnF6dWt6eThON2htQ1BvUW1ickJnWnZFVU1IQTVBc1BTOVZRak5KRjlEbGM?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-a2a487e7aea54c0ad0bed825",
-      "sourceId": "ns08",
-      "title": "Net Promoter Score (NPS) Calculation and Tips (2026) - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:44:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oT1lYejlmSlFtX1RPTHp4TU5HeHBEUWx4VkV6ZnMySFpPRkE5b3lNOElrWS1jRm5FN0JfQ0ljRWxtWjZ0TnYtS29TeEtJWm1kdVlQXzlsbEdOUkU?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-07c893a73ca860fce6823535",
-      "sourceId": "ns18",
-      "title": "Google Announces Digital Infrastructure Expansion, Local Jobs, Water Replenishment, and Clean Energy Initiatives with US$15 Billion Malaysia Investment - blog.google",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:28:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkFSbXZvS3VxdEhSdUFpdzVpX19NRG1ROWQwaF9LMGJTNmFPTVBTMXljRnViaVJ6a1Vuc1BGSzU5V0NzSmJ6Y0t0dUNwUFRuMDNiM21UeDlkbDNvakJNY3kyTW1tdUZ2VkJWSW9nb0FiOVNJeGhpOEhVLWNEbDl5SEZIamIySFFLelg3XzRqeXRtZGRfXzhNM0xNaTNxcF9lWDY0QzVpRXRjY0NZTVB3VkdiMzlrS29kd3F3LXNJVQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-b867a5f0e5096023e30f70f5",
-      "sourceId": "ns08",
-      "title": "Marketing Automation for Small Business: Tools and Tips (2026) - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:25:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94R2lmU3ZmMWxORjlRZHRKcXB0ajJ1YjljWlVlT3hKekYxSXc0cV9SRU1qek01TGp0MVI2aGd4bm1wUlBZeUhRbmptSFBkV2Z4YS1fbUZQQ1pZbGxoOVRhVHBCREdpM0tMREY1UWpVS0tVYmlsQUE?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-8e2d53c3042216eb80235073",
-      "sourceId": "ns08",
-      "title": "Marketing Automation for Small Business: Tools and Tips - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:25:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WQjNwSWY0dW1sNEpyclNobm4waVB4TnpTRlBhb3JSendoUXJfWVhrX0p0WkI4eERFQkZjQ1pYSTdYU3VvSlZaUEttN0IzVXpBQVFTc0hKZ2hiamdSU1NfZE5nZDdEcmk1aVhGRlJXNWo1d1hZamc?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-30b85966cf0d9e97f4c2f393",
-      "sourceId": "ns08",
-      "title": "Marketing Automation for Small Business: Tools and Tips - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:25:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSENmUHVic1dhSHhjRkRRM0VJODFGTHZ2LWJfNEg1REJhalVrZklsd295bjNReVRzWHlnX0dPaXpCN3FzcklpLUJpLUxLRDJYR2VzZFdjZnFvQkx6b0hLUTFRVDR0cldLbTZPNndaQ3JTUDRhS1E?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-8a8937f723e96c4a6f02fe0a",
-      "sourceId": "ns08",
-      "title": "Pinterest Ads Examples and Tips for Ecommerce - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:24:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HM1ZWSTMxdlJ5aEdLWkg0bG5FbXR2bjZORWpselMtbTJEdGUzMzdGTEFlRmxDWEpUWFozWURHZnlRSzlHRHVrclFvRWhiUzY5VFd4dHlIUWpuX01KR1phQkxTU3U?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-58d7aabc57d67fb448ea5869",
-      "sourceId": "ns08",
-      "title": "Pinterest Ads Examples and Tips for Ecommerce (2026) - Shopify",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:24:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rd09oMVhSVFFIaXVRd1FIb0pwd2lkaHlIUW02SjlQeU1NNWlJVXRDckRMYmVXTGxkeHJGc25jNE1BVWZ3NHhpS3lRdGs4eHlQOEgwVWNUUlkwcWlZQnNDZA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-4b6cad5f0ce9723d3ddd7db6",
-      "sourceId": "ns13",
-      "title": "Agentic AI: The Insights You Need from Harvard Business Review ^ 10903 - Harvard Business Review",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:11:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUYwcHNlMEtzOWQxcy00S0VLZGE4T28zYWJ1ZThPdE4tSlN3SkVLSEpacF9EQzJDX2czSnkzX0w1OXR3SkRSbmtfQTktRkp2YXJQVDNVdkVIOVY0aDgzU3dQQjNCSkF0QkNGOEZWZ1NVWVVQTkVOQzdsWGxXeGZpVlVVWkV2SU4xTjBuam0xZThaWmJzUVVFQmxyeWt4QS1obEkwMmczWnlxak1vVnJEZUR5cXJ6Qjg?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-598db59d35a987c5d51352fc",
-      "sourceId": "ns21",
-      "title": "The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic’s Dollar Growth.",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:00:47+00:00",
-      "url": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth",
-      "summary": "Ramp’s latest AI Index, built from transactions at 85,000+ US businesses, shows the heaviest AI spenders peaking in July. Anthropic’s amended S-1, filed this morning, shows its quarterly dollar add shrinking for the first time. The top 1% of firms on Ramp spent less on AI per employee in September than in July. Anthropic added... Continue Reading",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-6dc4e02e138cc7b3155e8473",
-      "sourceId": "ns26",
-      "title": "3 in 4 homepages lost organic clicks: An analysis of 110 sites - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T15:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ULWc3N0VTRHpwbnlNZ2xjbi04ZUxvNkZrSkVob3doUmtLMjIxcXp4UWFCaEluZTdqQjNrQ1J2cDc2ZzRHZ3REdEFQMUM2bW4yTXlVSC1kVlBLZ0duQmpEWDd1MEd1ZkdSRFZMbEhBdDFGOVk5enpELVQyUGxxWE0?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-3a11832a9792831cb8e4d8fd",
-      "sourceId": "ns09",
-      "title": "How to find and fix your AEO keywords gap",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:50:06+00:00",
-      "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
-      "summary": "To improve visibility in AI answer engines, content and SEO marketers need to add AEO keywords gap analysis to their strategies. Traditional SEO keyword gaps show which terms a company isn’t ranking for versus the competition. An AEO keywords gap uses the same principle but with broader criteria, identifying the prompts and questions where a given brand is cited in AI search, but another isn’t.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-71596ecdbdb6df251d1d68b4",
-      "sourceId": "ns10",
-      "title": "IM Digital Named a 2026 Klaviyo Global Partner of the Year - Morningstar",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnlIeWNtOVBQTWZqN1dZZlFXeWlibFpONEt0ajc0YzN4b24tbzQ0M2U3WS1wNE1FbjJkZUplZWZxWjFGNXZWQjFodkVuVEZLNnZsMDRzWkE5VHAwekliWXQ2bUNQN3ZfRHlUdkc3dWFGVEkxSVNJREJKbGY0Umx4RERvYWtxbGtSLU1kWWV4RGxnT2xpTDUwekNpRXpQbVhlNVJaT19tYnppUmZtQmFPTjBMNUQxNWVkWjNB?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-41cb67a43aafe6779b896859",
-      "sourceId": "ns09",
-      "title": "How do I benchmark my AI search performance against my industry?",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:40:07+00:00",
-      "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
-      "summary": "Measuring success is a leading challenge for answer engine optimization (AEO) that marketers report today. In HubSpot’s State of AEO 2026 report, it was the top challenge among B2B marketers at 23%; among B2C marketers, 26% cited it, behind only understanding how AEO works at 29%.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-0797b24d9019dab117d1102a",
-      "sourceId": "ns18",
-      "title": "We're sharing our framework for building safer and more helpful AI for health. - blog.google",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:36:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0l2Q0VoVFZmUHVTWUZfM25ibnUwdzAxeWtrV0hmaE9RV0ZreDRBc1ZHT0gwN21fcTc5ZXR2OEVNLXNDNUpMcUFrV28zNXBkZ3NjNi1ycVVxRjg0V3lDS1YyMFQ3cUNwbVpWa2Z6T1ZzTGtsSzE2TEdMV3ljQ3ZtYUVsZERpdi10bXFkODdlNA?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-1be4fdd8e6ca80f0ec012771",
-      "sourceId": "ns16",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:30:00+00:00",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Resmi RSS/Atom (yapılandırılmış)"
-    },
-    {
-      "id": "auto-4f9ea32d02a7e9c719e0ad9c",
-      "sourceId": "ns13",
-      "title": "What Sycophantic AI Can Cost Your Organization - Harvard Business Review",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:12:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lWUlkdEtjYkhQeGt5SmV6VFJnNGxpd0lZUjFHQjZJT2lXUWFab1A4MUVwSGdiUlJNaTk3cUhzOHBaNksyWXJXcVgyOEd2TnBlSzZjME1WdFBFeU5PT2U0RWcwbElJenhUclZ5dUtncGNWVzRfVkppaE53?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
-    },
-    {
-      "id": "auto-9f877904a39ab865bc901ab5",
-      "sourceId": "ns26",
-      "title": "Microsoft Clarity gains agentic analytics, brand agents and Ask Clarity - Search Engine Land",
-      "date": "2026-11-04",
-      "publishedAt": "2026-11-04T14:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0FCeGRmR2Z4U0ZlY0RyUlZGTHptRzUxYjh4b1d1OVI3bGUzWjRob2pSWW44bWZQeU5paDIwMFBnMlNKQTJOTmlYSXZYRS12RTFBb1FjZHpSWVZ3UWxHWlRSaDlsaUFsVC1DRWk5WFUxLThxZEd1d3l6VUZYUVQ2eHU2Sk5yTWU0VzdxSkdnNGxKc1ByaDJHWE91bTNKTG53NTlJTFNxdGk4QQ?oc=5",
-      "summary": "Bu başlık Google News RSS aramasından alınmıştır. Yayıncının tam içeriği için bağlantıyı aç.",
-      "action": "Makaleyi aç; öğrenebileceğin bir fikri not et.",
-      "priority": "Okuma listesi",
-      "provider": "Google News RSS"
     }
   ],
   "sources": [
@@ -3137,7 +3137,7 @@
     {
       "id": "ns02",
       "name": "ChurnZero",
-      "count": 3,
+      "count": 4,
       "status": "ok",
       "provider": "Google News RSS",
       "message": ""
@@ -3401,7 +3401,7 @@
     {
       "id": "ns35",
       "name": "Microsoft Advertising Blog",
-      "count": 4,
+      "count": 7,
       "status": "ok",
       "provider": "Google News RSS",
       "message": ""
@@ -3446,7 +3446,12 @@
         "overview": "3 seçilmiş başlık"
       },
       {
-        "category": "SaaS ve Growth",
+        "category": "Ücretli Reklamlar",
+        "count": 2,
+        "overview": "2 seçilmiş başlık"
+      },
+      {
+        "category": "E-ticaret ve CRM",
         "count": 2,
         "overview": "2 seçilmiş başlık"
       },
@@ -3456,133 +3461,265 @@
         "overview": "2 seçilmiş başlık"
       },
       {
-        "category": "Eğitim ve Podcast",
-        "count": 1,
-        "overview": "1 seçilmiş başlık"
-      },
-      {
-        "category": "Ücretli Reklamlar",
-        "count": 1,
-        "overview": "1 seçilmiş başlık"
-      },
-      {
-        "category": "E-ticaret ve CRM",
+        "category": "SaaS ve Growth",
         "count": 1,
         "overview": "1 seçilmiş başlık"
       }
     ],
     "cards": [
       {
-        "id": "auto-65b96c238445cdedc96b3e82",
-        "source": "OpenAI",
-        "category": "Yapay Zekâ",
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
-        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
-        "basis": "publisher_excerpt"
-      },
-      {
-        "id": "auto-9c671f9af63818182e520259",
-        "source": "Gainsight GameChanger Podcast",
-        "category": "Eğitim ve Podcast",
-        "title": "The Future of SaaS and Customer Success is Outcomes",
-        "summary": "Refounding Gainsight for the Agentic Economy We are making a bold bet on Gainsight’s future and a bolder prediction about the evolution of Customer Success in the Agentic Economy. We believe the defining shift of the Agentic Econo",
-        "relevance": "Konu, takip ettiğin Eğitim ve Podcast alanıyla ilgili.",
-        "basis": "publisher_excerpt"
-      },
-      {
-        "id": "auto-859ef0764580d5a3d685333e",
-        "source": "SaaStr Podcast",
-        "category": "SaaS ve Growth",
-        "title": "Our Agents Never Picked Canva. 10 Learnings on Agent Pricing, Getting Picked, and Security From This Week’s “The Agents” With Ulrik Lehrskov-Schmidt",
-        "summary": "Amelia and I both canceled Canva this week. I’d been a customer for about 12 years. We weren’t angry at it, and nobody sat down and decided to replace it. Our agents just never had a use for it. That happened the same week Canva r",
-        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-        "basis": "publisher_excerpt"
-      },
-      {
-        "id": "auto-17c9ae986c04dd852b1d7bbd",
+        "id": "auto-26b653ba4fbf555ce55e6161",
         "source": "Meta for Business News",
         "category": "Ücretli Reklamlar",
-        "title": "Finding His Squad Again in a Facebook Group",
-        "summary": "How an Army veteran-turned-growth marketer uses Muse for Small Business to clear the busywork out out of its biggest quarter and get back to the community the brand was built on",
+        "title": "From measurement to capital allocation: How leaders are putting incrementality to work",
+        "summary": "Marketing measurement has become more sophisticated, but finance leaders still face a fundamental question: which investments are generating growth that would not have occurred otherwise?",
         "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
         "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-ac94b61a25ade5edbf713f08",
+        "id": "auto-67672a694e389b29af5588bf",
         "source": "OpenAI",
         "category": "Yapay Zekâ",
-        "title": "ChatGPT Plus for veterans and servicemembers",
-        "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
         "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
         "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-23f41e7bddd5268ff90041e8",
-        "source": "Harvard Business Review",
-        "category": "Liderlik ve Davranış",
-        "title": "Physical AI Gains Ground in Health Care and Life Sciences - Harvard Business Review",
-        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
-        "basis": "title_only"
+        "id": "auto-45ed83896c3c7531962f78a9",
+        "source": "SaaStr Podcast",
+        "category": "SaaS ve Growth",
+        "title": "A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.",
+        "summary": "This week one of our portfolio companies launched its first real agent. It’s a vertical software company at about $30M ARR, growing well, with a loyal base and a sales-led motion. The agent doubles ACV. There’s no free version. In",
+        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+        "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-a9b87bac6bd86fd607c09b98",
-        "source": "Harvard Business Review",
-        "category": "Liderlik ve Davranış",
-        "title": "The Math Driving Agentic AI Adoption in NetOps - Harvard Business Review",
-        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
-        "basis": "title_only"
+        "id": "auto-f33667299a6fa7da766e9d31",
+        "source": "Google Ads & Commerce",
+        "category": "Ücretli Reklamlar",
+        "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+        "summary": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+        "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
+        "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-0b727fb3bfb067c7f3809b5a",
-        "source": "Google AI",
+        "id": "auto-b9840fd67063a36a400d5e1d",
+        "source": "OpenAI",
         "category": "Yapay Zekâ",
-        "title": "Get certified as a Google Cloud Professional Agentic Architect. - blog.google",
-        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "title": "Gondola doubles revenue as its team builds more with Codex",
+        "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
         "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
-        "basis": "title_only"
+        "basis": "publisher_excerpt"
       },
       {
-        "id": "auto-29c30d9351d14d1bce3733a2",
+        "id": "auto-c9ad8ee6d9ffe91450cbdd75",
         "source": "Shopify Blog",
         "category": "E-ticaret ve CRM",
-        "title": "How ClimaConvenienza accelerated growth in Italy and across Europe with Shopify - Shopify",
+        "title": "Agentic Logger - Log AI shopping agent mandates and tokens to order metafields. - Shopify App Store",
         "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
         "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
         "basis": "title_only"
       },
       {
-        "id": "auto-15cfe40ee4c326cb9ebf9439",
-        "source": "SaaStr Podcast",
-        "category": "SaaS ve Growth",
-        "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It’s Aiming for $2B by Year-End.",
-        "summary": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we’ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. Alex Mashrabov just sent me th",
-        "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-        "basis": "publisher_excerpt"
+        "id": "auto-227291f93396c0fefd4cf6fc",
+        "source": "Shopify Blog",
+        "category": "E-ticaret ve CRM",
+        "title": "Tinx Customer Portal - Shopify App Store",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-3f4bb4accd669310ec8f6700",
+        "source": "Harvard Business Review",
+        "category": "Liderlik ve Davranış",
+        "title": "Measuring Performance: What Should Count? ^ 9107 - Harvard Business Review",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-0ba48dfd94ae0acb978c791f",
+        "source": "Google AI",
+        "category": "Yapay Zekâ",
+        "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers - blog.google",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+        "basis": "title_only"
+      },
+      {
+        "id": "auto-7d22140edfd8ff656203eea9",
+        "source": "Harvard Business Review",
+        "category": "Liderlik ve Davranış",
+        "title": "How AI Erodes People’s Sense of Value at Work - Harvard Business Review",
+        "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+        "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+        "basis": "title_only"
       }
     ],
     "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
-    "date": "2026-11-12",
-    "generatedAt": "2026-11-12T07:52:10+00:00",
+    "date": "2026-11-13",
+    "generatedAt": "2026-11-13T07:51:01+00:00",
     "scope": "last24h",
-    "poolCount": 30,
+    "poolCount": 43,
     "articleIds": [
-      "auto-65b96c238445cdedc96b3e82",
-      "auto-9c671f9af63818182e520259",
-      "auto-859ef0764580d5a3d685333e",
-      "auto-17c9ae986c04dd852b1d7bbd",
-      "auto-ac94b61a25ade5edbf713f08",
-      "auto-23f41e7bddd5268ff90041e8",
-      "auto-a9b87bac6bd86fd607c09b98",
-      "auto-0b727fb3bfb067c7f3809b5a",
-      "auto-29c30d9351d14d1bce3733a2",
-      "auto-15cfe40ee4c326cb9ebf9439"
+      "auto-26b653ba4fbf555ce55e6161",
+      "auto-67672a694e389b29af5588bf",
+      "auto-45ed83896c3c7531962f78a9",
+      "auto-f33667299a6fa7da766e9d31",
+      "auto-b9840fd67063a36a400d5e1d",
+      "auto-c9ad8ee6d9ffe91450cbdd75",
+      "auto-227291f93396c0fefd4cf6fc",
+      "auto-3f4bb4accd669310ec8f6700",
+      "auto-0ba48dfd94ae0acb978c791f",
+      "auto-7d22140edfd8ff656203eea9"
     ],
     "selectedCount": 10
   },
   "digestHistory": [
+    {
+      "mode": "headlines",
+      "headline": "Günün kaynaklı okuma özeti",
+      "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: Yapay Zekâ.",
+      "sections": [
+        {
+          "category": "Yapay Zekâ",
+          "count": 3,
+          "overview": "3 seçilmiş başlık"
+        },
+        {
+          "category": "Ücretli Reklamlar",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "E-ticaret ve CRM",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "Liderlik ve Davranış",
+          "count": 2,
+          "overview": "2 seçilmiş başlık"
+        },
+        {
+          "category": "SaaS ve Growth",
+          "count": 1,
+          "overview": "1 seçilmiş başlık"
+        }
+      ],
+      "cards": [
+        {
+          "id": "auto-26b653ba4fbf555ce55e6161",
+          "source": "Meta for Business News",
+          "category": "Ücretli Reklamlar",
+          "title": "From measurement to capital allocation: How leaders are putting incrementality to work",
+          "summary": "Marketing measurement has become more sophisticated, but finance leaders still face a fundamental question: which investments are generating growth that would not have occurred otherwise?",
+          "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-67672a694e389b29af5588bf",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-45ed83896c3c7531962f78a9",
+          "source": "SaaStr Podcast",
+          "category": "SaaS ve Growth",
+          "title": "A Great B2B Agent Doubles Your ACV. Most AI Features Don’t Move It at All.",
+          "summary": "This week one of our portfolio companies launched its first real agent. It’s a vertical software company at about $30M ARR, growing well, with a loyal base and a sales-led motion. The agent doubles ACV. There’s no free version. In",
+          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-f33667299a6fa7da766e9d31",
+          "source": "Google Ads & Commerce",
+          "category": "Ücretli Reklamlar",
+          "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+          "summary": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+          "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-b9840fd67063a36a400d5e1d",
+          "source": "OpenAI",
+          "category": "Yapay Zekâ",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "publisher_excerpt"
+        },
+        {
+          "id": "auto-c9ad8ee6d9ffe91450cbdd75",
+          "source": "Shopify Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "Agentic Logger - Log AI shopping agent mandates and tokens to order metafields. - Shopify App Store",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-227291f93396c0fefd4cf6fc",
+          "source": "Shopify Blog",
+          "category": "E-ticaret ve CRM",
+          "title": "Tinx Customer Portal - Shopify App Store",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-3f4bb4accd669310ec8f6700",
+          "source": "Harvard Business Review",
+          "category": "Liderlik ve Davranış",
+          "title": "Measuring Performance: What Should Count? ^ 9107 - Harvard Business Review",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-0ba48dfd94ae0acb978c791f",
+          "source": "Google AI",
+          "category": "Yapay Zekâ",
+          "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers - blog.google",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
+          "basis": "title_only"
+        },
+        {
+          "id": "auto-7d22140edfd8ff656203eea9",
+          "source": "Harvard Business Review",
+          "category": "Liderlik ve Davranış",
+          "title": "How AI Erodes People’s Sense of Value at Work - Harvard Business Review",
+          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
+          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
+          "basis": "title_only"
+        }
+      ],
+      "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
+      "date": "2026-11-13",
+      "generatedAt": "2026-11-13T07:51:01+00:00",
+      "scope": "last24h",
+      "poolCount": 43,
+      "articleIds": [
+        "auto-26b653ba4fbf555ce55e6161",
+        "auto-67672a694e389b29af5588bf",
+        "auto-45ed83896c3c7531962f78a9",
+        "auto-f33667299a6fa7da766e9d31",
+        "auto-b9840fd67063a36a400d5e1d",
+        "auto-c9ad8ee6d9ffe91450cbdd75",
+        "auto-227291f93396c0fefd4cf6fc",
+        "auto-3f4bb4accd669310ec8f6700",
+        "auto-0ba48dfd94ae0acb978c791f",
+        "auto-7d22140edfd8ff656203eea9"
+      ],
+      "selectedCount": 10
+    },
     {
       "mode": "headlines",
       "headline": "Günün kaynaklı okuma özeti",
@@ -5211,153 +5348,6 @@
         "auto-4532ac2f9ca851d0d25480f9",
         "auto-43eec06b9f5b2209f83aa5f5",
         "auto-32badb00985cedc7b1d626c1"
-      ],
-      "selectedCount": 10
-    },
-    {
-      "mode": "headlines",
-      "headline": "Günün kaynaklı okuma özeti",
-      "intro": "Yeni yayımlanan başlıklardan hızlı bir okuma listesi hazırlandı. En çok seçilen alan: Yapay Zekâ.",
-      "sections": [
-        {
-          "category": "Yapay Zekâ",
-          "count": 2,
-          "overview": "2 seçilmiş başlık"
-        },
-        {
-          "category": "SaaS ve Growth",
-          "count": 2,
-          "overview": "2 seçilmiş başlık"
-        },
-        {
-          "category": "Ücretli Reklamlar",
-          "count": 2,
-          "overview": "2 seçilmiş başlık"
-        },
-        {
-          "category": "E-ticaret ve CRM",
-          "count": 2,
-          "overview": "2 seçilmiş başlık"
-        },
-        {
-          "category": "SEO ve Google Search",
-          "count": 1,
-          "overview": "1 seçilmiş başlık"
-        },
-        {
-          "category": "Liderlik ve Davranış",
-          "count": 1,
-          "overview": "1 seçilmiş başlık"
-        }
-      ],
-      "cards": [
-        {
-          "id": "auto-84abd1857de5dfd951d90dcf",
-          "source": "OpenAI",
-          "category": "Yapay Zekâ",
-          "title": "Making it easier for websites to express AI training preferences",
-          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
-          "basis": "publisher_excerpt"
-        },
-        {
-          "id": "auto-6a43442645804206c3587c09",
-          "source": "Google Search Central Blog",
-          "category": "SEO ve Google Search",
-          "title": "Supporting a shared AI training control for websites",
-          "summary": "Today, we're announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIP",
-          "relevance": "Konu, takip ettiğin SEO ve Google Search alanıyla ilgili.",
-          "basis": "publisher_excerpt"
-        },
-        {
-          "id": "auto-a86d24c59c826150d16deb11",
-          "source": "OpenAI",
-          "category": "Yapay Zekâ",
-          "title": "Community safety report and new protections for teens",
-          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-          "relevance": "Konu, takip ettiğin Yapay Zekâ alanıyla ilgili.",
-          "basis": "publisher_excerpt"
-        },
-        {
-          "id": "auto-282abbaa7ab0f9511ff5035d",
-          "source": "SaaStr Podcast",
-          "category": "SaaS ve Growth",
-          "title": "The B2B Category the Markets “Hate” the Most Today: GTM",
-          "summary": "Salesforce agreed the other day to buy Braze for $5.66 billion, 6.8x trailing revenue. In most of B2B that price would be unremarkable. In go-to-market software it’s a 58% premium, because Braze traded at 3.7x on Monday. I pulled ",
-          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-          "basis": "publisher_excerpt"
-        },
-        {
-          "id": "auto-03a40b12a6cd29ad55c19ecc",
-          "source": "SaaStr Podcast",
-          "category": "SaaS ve Growth",
-          "title": "Annual Contracts: Maybe Not All They Are Cracked Up To Be",
-          "summary": "Annual contracts seem so great. VCs love them, and they do seem to reduce churn. Seem to. In fact, when CROs struggle to hit a plan, they often want to push customers onto annual contracts. That and pricing increases are classic g",
-          "relevance": "Konu, takip ettiğin SaaS ve Growth alanıyla ilgili.",
-          "basis": "publisher_excerpt"
-        },
-        {
-          "id": "auto-43eec06b9f5b2209f83aa5f5",
-          "source": "Meta for Business News",
-          "category": "Ücretli Reklamlar",
-          "title": "NTA Network News. . Live News Broadcast from Nigerian Television Authority. Abuja, Nigeria More from NTA at Website: http://www.nta.ng/ Twitter: http://www.twitter.com/NTANewsNow Facebook: http://www.facebook.com/NTANetworkNews Email: enquiries@ - Fa",
-          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-          "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
-          "basis": "title_only"
-        },
-        {
-          "id": "auto-5cd98958a74359aea5b9bbd7",
-          "source": "Shopify Blog",
-          "category": "E-ticaret ve CRM",
-          "title": "- Shopify themes",
-          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
-          "basis": "title_only"
-        },
-        {
-          "id": "auto-43cf8dcb3f7e33fd19ad5163",
-          "source": "Shopify Blog",
-          "category": "E-ticaret ve CRM",
-          "title": "Adding product identifiers for shipments to the European Union - Shopify Help Center",
-          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-          "relevance": "Konu, takip ettiğin E-ticaret ve CRM alanıyla ilgili.",
-          "basis": "title_only"
-        },
-        {
-          "id": "auto-32badb00985cedc7b1d626c1",
-          "source": "Meta for Business News",
-          "category": "Ücretli Reklamlar",
-          "title": "📅 TOMORROW! 🎃 🍭 🛻 Come out to Mayor Ryan’s Touch-a-Truck-or-Treat! and have fun with the whole family at Niagara Square! 🚒 Climb aboard and explore City trucks and vehicles from DPW, Buffalo FD, and Buffalo PD. 🍬 Enjoy candy, a costume parade, t - Fa",
-          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-          "relevance": "Konu, takip ettiğin Ücretli Reklamlar alanıyla ilgili.",
-          "basis": "title_only"
-        },
-        {
-          "id": "auto-10caf35ab7c508a0d7141be3",
-          "source": "Harvard Business Review",
-          "category": "Liderlik ve Davranış",
-          "title": "Build the Mindset That Keeps Your Team Moving Forward - Harvard Business Review",
-          "summary": "Yalnızca yayın başlığı mevcut; makale ayrıntılarına ilişkin doğrulanmış bir özet yok.",
-          "relevance": "Konu, takip ettiğin Liderlik ve Davranış alanıyla ilgili.",
-          "basis": "title_only"
-        }
-      ],
-      "note": "Başlık ve RSS açıklaması esas alınmıştır. Tam metin okunmadı; otomatik AI yorumu bulunmuyor.",
-      "date": "2026-10-30",
-      "generatedAt": "2026-10-30T20:45:44+00:00",
-      "scope": "last24h",
-      "poolCount": 42,
-      "articleIds": [
-        "auto-84abd1857de5dfd951d90dcf",
-        "auto-6a43442645804206c3587c09",
-        "auto-a86d24c59c826150d16deb11",
-        "auto-282abbaa7ab0f9511ff5035d",
-        "auto-03a40b12a6cd29ad55c19ecc",
-        "auto-43eec06b9f5b2209f83aa5f5",
-        "auto-5cd98958a74359aea5b9bbd7",
-        "auto-43cf8dcb3f7e33fd19ad5163",
-        "auto-32badb00985cedc7b1d626c1",
-        "auto-10caf35ab7c508a0d7141be3"
       ],
       "selectedCount": 10
     }
